@@ -1,0 +1,1072 @@
+/* =================================
+   RESET
+================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    margin: 0;
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    background: #fafafa;
+
+    color: #222;
+
+    line-height: 1.6;
+}
+
+
+button,
+input {
+    font: inherit;
+}
+
+
+button {
+    cursor: pointer;
+}
+
+
+a {
+    color: inherit;
+
+    text-decoration: none;
+}
+
+
+/* =================================
+   HEADER
+================================= */
+
+.site-header {
+    position: sticky;
+
+    top: 0;
+
+    z-index: 100;
+
+    background: rgba(
+        250,
+        250,
+        250,
+        0.95
+    );
+
+    border-bottom:
+        1px solid #e6e6e6;
+
+    backdrop-filter:
+        blur(10px);
+}
+
+
+.header-inner {
+    width: min(
+        1100px,
+        calc(100% - 40px)
+    );
+
+    margin: 0 auto;
+
+    min-height: 72px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content:
+        space-between;
+
+    gap: 30px;
+}
+
+
+.site-title {
+    font-size: 1rem;
+
+    font-weight: 700;
+
+    letter-spacing:
+        -0.02em;
+
+    white-space: nowrap;
+}
+
+
+.navigation {
+    display: flex;
+
+    align-items: center;
+
+    gap: 28px;
+}
+
+
+.navigation a {
+    position: relative;
+
+    color: #666;
+
+    font-size:
+        0.92rem;
+
+    transition:
+        color 0.2s ease;
+}
+
+
+.navigation a:hover,
+.navigation a.active {
+    color: #111;
+}
+
+
+.navigation a.active::after {
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+
+    right: 0;
+
+    bottom: -8px;
+
+    height: 2px;
+
+    background: #222;
+}
+
+
+/* =================================
+   GENERAL
+================================= */
+
+.section-inner {
+    width: min(
+        1000px,
+        calc(100% - 40px)
+    );
+
+    margin: 0 auto;
+}
+
+
+.eyebrow {
+    margin: 0 0 10px;
+
+    font-size:
+        0.72rem;
+
+    font-weight: 700;
+
+    letter-spacing:
+        0.14em;
+
+    text-transform:
+        uppercase;
+
+    color: #888;
+}
+
+
+/* =================================
+   HOME
+================================= */
+
+.hero {
+    min-height:
+        calc(
+            100vh - 72px
+        );
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    text-align: center;
+
+    padding: 80px 20px;
+}
+
+
+.hero-inner {
+    max-width: 700px;
+}
+
+
+.hero h1 {
+    margin: 0;
+
+    font-size:
+        clamp(
+            3rem,
+            8vw,
+            6rem
+        );
+
+    line-height: 1;
+
+    letter-spacing:
+        -0.06em;
+}
+
+
+.hero-description {
+    max-width: 500px;
+
+    margin:
+        25px auto 0;
+
+    color: #666;
+
+    font-size:
+        1.05rem;
+}
+
+
+/* =================================
+   COLLECTION PAGE
+================================= */
+
+.collection-page {
+    padding:
+        90px 0 120px;
+}
+
+
+.section-heading {
+    margin-bottom: 40px;
+}
+
+
+.section-heading h1 {
+    margin: 0;
+
+    font-size:
+        clamp(
+            2.5rem,
+            5vw,
+            4rem
+        );
+
+    line-height: 1;
+
+    letter-spacing:
+        -0.05em;
+}
+
+
+.section-heading p:not(.eyebrow) {
+    max-width: 600px;
+
+    margin-top: 18px;
+
+    color: #666;
+}
+
+
+/* =================================
+   CONTROLS
+================================= */
+
+.collection-controls {
+    margin-bottom: 50px;
+}
+
+
+#search {
+    width: 100%;
+
+    height: 50px;
+
+    padding:
+        0 16px;
+
+    border:
+        1px solid #ddd;
+
+    border-radius: 8px;
+
+    background: #fff;
+
+    outline: none;
+}
+
+
+#search:focus {
+    border-color: #999;
+}
+
+
+.filters {
+    display: flex;
+
+    gap: 8px;
+
+    margin-top: 14px;
+}
+
+
+.filter-button {
+    padding:
+        8px 16px;
+
+    border:
+        1px solid #ddd;
+
+    border-radius: 999px;
+
+    background: #fff;
+
+    color: #666;
+}
+
+
+.filter-button:hover {
+    border-color: #aaa;
+}
+
+
+.filter-button.active {
+    background: #222;
+
+    border-color: #222;
+
+    color: #fff;
+}
+
+
+.collection-stats {
+    margin-top: 20px;
+
+    color: #777;
+
+    font-size:
+        0.9rem;
+}
+
+
+.collection-stats strong {
+    color: #222;
+}
+
+
+.collection-stats span {
+    margin:
+        0 8px;
+
+    color: #bbb;
+}
+
+
+/* =================================
+   ALPHABET
+================================= */
+
+.alphabet-nav {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 5px;
+
+    margin-top: 22px;
+}
+
+
+.alphabet-button {
+    width: 32px;
+
+    height: 32px;
+
+    padding: 0;
+
+    border:
+        1px solid #ddd;
+
+    border-radius: 5px;
+
+    background: #fff;
+
+    color: #555;
+
+    font-size:
+        0.8rem;
+}
+
+
+.alphabet-button:hover:not(:disabled) {
+    border-color: #999;
+
+    color: #111;
+}
+
+
+.alphabet-button:disabled {
+    opacity: 0.25;
+
+    cursor: default;
+}
+
+
+/* =================================
+   LETTER HEADINGS
+================================= */
+
+.letter-heading {
+    margin:
+        55px 0 15px;
+
+    padding-bottom:
+        8px;
+
+    border-bottom:
+        1px solid #ddd;
+}
+
+
+.letter-heading span {
+    font-size:
+        0.8rem;
+
+    font-weight: 700;
+
+    color: #999;
+}
+
+
+/* =================================
+   SHOW GROUP
+================================= */
+
+.show-group {
+    margin-bottom: 10px;
+
+    border:
+        1px solid #e3e3e3;
+
+    border-radius: 10px;
+
+    background: #fff;
+
+    overflow: hidden;
+}
+
+
+.show-header {
+    width: 100%;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 20px;
+
+    padding:
+        20px 22px;
+
+    border: 0;
+
+    background: #fff;
+
+    text-align: left;
+}
+
+
+.show-header:hover {
+    background: #fafafa;
+}
+
+
+.show-title-area {
+    flex: 1;
+}
+
+
+.show-title-area h2 {
+    margin: 0;
+
+    font-size:
+        1.05rem;
+
+    font-weight: 650;
+}
+
+
+.show-count {
+    color: #999;
+
+    font-size:
+        0.82rem;
+}
+
+
+.show-expand {
+    width: 28px;
+
+    height: 28px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    color: #777;
+
+    font-size:
+        1.2rem;
+
+    transition:
+        transform 0.2s ease;
+}
+
+
+.show-group.open
+.show-expand {
+    transform:
+        rotate(45deg);
+}
+
+
+.show-recordings {
+    display: none;
+
+    border-top:
+        1px solid #eee;
+
+    padding: 10px;
+}
+
+
+.show-group.open
+.show-recordings {
+    display: block;
+}
+
+
+/* =================================
+   RECORDING
+================================= */
+
+.recording {
+    border:
+        1px solid #e8e8e8;
+
+    border-radius: 8px;
+
+    margin-bottom: 8px;
+
+    background: #fff;
+
+    overflow: hidden;
+
+    transition:
+        border-color 0.2s ease,
+        background 0.2s ease;
+}
+
+
+.recording:last-child {
+    margin-bottom: 0;
+}
+
+
+.recording-header {
+    width: 100%;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 20px;
+
+    padding:
+        17px 18px;
+
+    border: 0;
+
+    background: transparent;
+
+    text-align: left;
+}
+
+
+.recording-header:hover {
+    background: #fafafa;
+}
+
+
+.recording-main {
+    flex: 1;
+
+    min-width: 0;
+}
+
+
+.recording-main h3 {
+    margin: 0;
+
+    font-size:
+        0.98rem;
+
+    font-weight: 650;
+}
+
+
+.recording-main p {
+    margin:
+        4px 0 0;
+
+    color: #777;
+
+    font-size:
+        0.84rem;
+}
+
+
+.recording-header-right {
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+}
+
+
+.expand-icon {
+    width: 28px;
+
+    height: 28px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    color: #777;
+
+    font-size:
+        1.15rem;
+
+    transition:
+        transform 0.2s ease;
+}
+
+
+.recording.open
+.expand-icon {
+    transform:
+        rotate(45deg);
+}
+
+
+/* =================================
+   NFT RECORDING
+================================= */
+
+.recording.nft-recording {
+    border:
+        1px solid #d87575;
+
+    background:
+        #fff5f5;
+}
+
+
+.recording.nft-recording
+.recording-header {
+    background:
+        #fff5f5;
+}
+
+
+.recording.nft-recording
+.recording-header:hover {
+    background:
+        #ffeded;
+}
+
+
+.nft-badge {
+    display: inline-flex;
+
+    align-items: center;
+
+    padding:
+        3px 9px;
+
+    border-radius:
+        999px;
+
+    background:
+        #c84b4b;
+
+    color: #fff;
+
+    font-size:
+        0.68rem;
+
+    font-weight: 700;
+
+    letter-spacing:
+        0.04em;
+
+    text-transform:
+        uppercase;
+}
+
+
+/* =================================
+   RECORDING DETAILS
+================================= */
+
+.recording-details {
+    display: none;
+
+    border-top:
+        1px solid #eee;
+
+    background: #fff;
+}
+
+
+.recording.open
+.recording-details {
+    display: block;
+}
+
+
+.recording.nft-recording
+.recording-details {
+    background:
+        #fff9f9;
+
+    border-top-color:
+        #efd0d0;
+}
+
+
+.recording-detail-inner {
+    padding:
+        28px 26px 32px;
+}
+
+
+/* =================================
+   TITLE
+================================= */
+
+.recording-title {
+    margin: 0;
+
+    font-size:
+        1.7rem;
+
+    line-height: 1.15;
+
+    letter-spacing:
+        -0.03em;
+}
+
+
+/* =================================
+   DATE
+================================= */
+
+.recording-date {
+    margin-top: 6px;
+
+    color: #777;
+
+    font-size:
+        0.95rem;
+}
+
+
+/* =================================
+   TOUR / MASTER / FORMAT
+================================= */
+
+.recording-info-line {
+    margin-top: 22px;
+
+    padding-bottom:
+        20px;
+
+    border-bottom:
+        1px solid #eee;
+
+    color: #444;
+
+    font-size:
+        0.9rem;
+
+    font-weight: 500;
+}
+
+
+/* =================================
+   CAST / NOTES
+================================= */
+
+.recording-section {
+    margin-top: 24px;
+}
+
+
+.recording-section h4 {
+    margin: 0 0 8px;
+
+    font-size:
+        0.72rem;
+
+    font-weight: 700;
+
+    letter-spacing:
+        0.1em;
+
+    text-transform:
+        uppercase;
+
+    color: #999;
+}
+
+
+.cast-list,
+.recording-notes {
+    margin: 0;
+
+    color: #444;
+
+    font-size:
+        0.9rem;
+
+    line-height: 1.75;
+}
+
+
+/* =================================
+   SIMPLE PAGES
+================================= */
+
+.simple-page {
+    min-height:
+        calc(
+            100vh - 160px
+        );
+
+    padding:
+        100px 0;
+}
+
+
+.simple-page h1 {
+    margin: 0 0 30px;
+
+    font-size:
+        clamp(
+            2.5rem,
+            5vw,
+            4rem
+        );
+
+    line-height: 1;
+
+    letter-spacing:
+        -0.05em;
+}
+
+
+.simple-page p:not(.eyebrow) {
+    max-width: 650px;
+
+    color: #555;
+}
+
+
+/* =================================
+   STATES
+================================= */
+
+.loading,
+.error,
+.no-results {
+    padding:
+        50px 20px;
+
+    text-align: center;
+
+    color: #888;
+}
+
+
+.error {
+    color: #b44;
+}
+
+
+/* =================================
+   FOOTER
+================================= */
+
+.site-footer {
+    padding:
+        35px 20px;
+
+    border-top:
+        1px solid #e6e6e6;
+
+    text-align: center;
+
+    color: #999;
+
+    font-size:
+        0.8rem;
+}
+
+
+.site-footer p {
+    margin: 4px 0;
+}
+
+
+/* =================================
+   ACCESSIBILITY
+================================= */
+
+.sr-only {
+    position: absolute;
+
+    width: 1px;
+
+    height: 1px;
+
+    padding: 0;
+
+    margin: -1px;
+
+    overflow: hidden;
+
+    clip: rect(
+        0,
+        0,
+        0,
+        0
+    );
+
+    white-space: nowrap;
+
+    border: 0;
+}
+
+
+/* =================================
+   MOBILE
+================================= */
+
+@media (
+    max-width: 700px
+) {
+
+    .header-inner {
+        min-height:
+            65px;
+
+        width:
+            calc(100% - 28px);
+
+        gap: 15px;
+    }
+
+
+    .site-title {
+        font-size:
+            0.85rem;
+    }
+
+
+    .navigation {
+        gap: 13px;
+    }
+
+
+    .navigation a {
+        font-size:
+            0.78rem;
+    }
+
+
+    .hero {
+        min-height:
+            calc(
+                100vh - 65px
+            );
+    }
+
+
+    .hero h1 {
+        font-size:
+            3rem;
+    }
+
+
+    .collection-page,
+    .simple-page {
+        padding:
+            60px 0 80px;
+    }
+
+
+    .section-inner {
+        width:
+            calc(100% - 28px);
+    }
+
+
+    .show-header {
+        padding:
+            16px;
+    }
+
+
+    .show-count {
+        display: none;
+    }
+
+
+    .recording-header {
+        padding:
+            15px;
+    }
+
+
+    .recording-detail-inner {
+        padding:
+            23px 18px 26px;
+    }
+
+
+    .recording-title {
+        font-size:
+            1.45rem;
+    }
+
+}

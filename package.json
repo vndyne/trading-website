@@ -1,0 +1,12 @@
+{
+    "name": "encora-trading",
+    "version": "1.0.0",
+    "description": "Trading collection website powered by Encora",
+    "type": "module",
+    "scripts": {
+        "fetch-encora": "node scripts/fetch-encora.js"
+    },
+    "dependencies": {
+        "dotenv": "^17.4.2"
+    }
+}
