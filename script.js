@@ -1054,8 +1054,8 @@ function createRecordingElement(
                                     "
                                 >
 
-                                    ${escapeHTML(
-                                        castText
+                                    ${getCastHTML(
+                                        recording
                                     )}
 
                                 </p>
@@ -1249,6 +1249,117 @@ function getCastText(
         .filter(Boolean)
         .join(", ");
 
+}
+
+/* ================================
+   CAST HTML FORMATTER
+================================ */
+
+function getCastHTML(
+    recording
+) {
+    if (
+        !Array.isArray(
+            recording.cast
+        )
+    ) {
+        return "";
+    }
+
+    return recording.cast
+        .map(
+            member => {
+                const performer =
+                    member
+                        ?.performer
+                        ?.name;
+
+                const character =
+                    member
+                        ?.character
+                        ?.name;
+
+                const status =
+                    member
+                        ?.status
+                        ?.abbreviation;
+
+                if (!performer) {
+                    return "";
+                }
+
+                const performerText =
+                    escapeHTML(
+                        performer
+                    );
+
+                const characterText =
+                    character
+                        ? escapeHTML(
+                            character
+                        )
+                        : "";
+
+                const statusText =
+                    status
+                        ? escapeHTML(
+                            status
+                        )
+                        : "";
+
+                /*
+                    Bold u/s cast members.
+
+                    Example:
+                    Alex Tranter (u/s Lance)
+                */
+
+                if (
+                    status &&
+                    status.toLowerCase() === "u/s" &&
+                    characterText
+                ) {
+                    return `
+                        <strong>
+                            ${performerText}
+                            (${statusText} ${characterText})
+                        </strong>
+                    `;
+                }
+
+                /*
+                    Normal cast member with
+                    character.
+                */
+
+                if (
+                    characterText
+                ) {
+                    return `
+                        ${performerText}
+                        (${characterText})
+                    `;
+                }
+
+                /*
+                    Cast member with status
+                    but no character.
+                */
+
+                if (
+                    statusText
+                ) {
+                    return `
+                        ${performerText}
+                        (${statusText})
+                    `;
+                }
+
+                return performerText;
+            }
+        )
+        .filter(Boolean)
+        .join(", ");
 }
 
 
