@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 /* =================================
    RESET
 ================================= */
@@ -870,15 +876,19 @@ a {
 
 .simple-page {
     min-height:
-        calc(100vh - 160px);
+        calc(
+            100vh - 160px
+        );
 
     padding:
-        40px 0;
+        90px 0 80px;
 }
 
 
+/* TITLE */
+
 .simple-page h1 {
-    margin: 0 0 18px;
+    margin: 0 0 30px;
 
     font-size:
         clamp(
@@ -891,24 +901,54 @@ a {
 
     letter-spacing:
         -0.05em;
+
+    color: #982121;
 }
 
+
+/* PARAGRAPHS */
 
 .simple-page p:not(.eyebrow) {
     max-width: 650px;
 
-    margin-top: 0;
-    margin-bottom: 18px;
-
     color: #555;
+
+    line-height: 1.7;
 }
 
 
-.simple-page h2 {
-    margin-top: 20px;
-    margin-bottom: 10px;
+/* BULLET POINTS */
 
-    font-size: 1.4rem;
+.simple-page ul {
+    max-width: 650px;
+
+    margin:
+        0 0 30px;
+
+    padding-left: 25px;
+
+    color: #555;
+
+    font-size: 1rem;
+
+    line-height: 1.55;
+}
+
+
+.simple-page li {
+    margin-bottom: 4px;
+}
+
+
+/* CONTACT INFO */
+
+.simple-page .contact-info {
+    line-height: 1.7;
+}
+
+
+.simple-page .contact-info b {
+    color: #982121;
 }
 
 
@@ -1142,16 +1182,24 @@ a {
 
 
     .hero {
-        min-height:
-            calc(
-                100vh - 65px
-            );
+        min-height: calc(100vh - 65px);
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 40px;
+        padding-bottom: 40px;
     }
 
 
     .hero h1 {
-        font-size:
-            3rem;
+    font-size: 2.5rem;
+    max-width: 100%;
+    margin-bottom: 20px;
+    }
+
+    .hero p {
+    width: 100%;
+    max-width: 100%;
+    overflow-wrap: break-word;
     }
 
 
@@ -1163,8 +1211,10 @@ a {
 
 
     .section-inner {
-        width:
-            calc(100% - 28px);
+         width: 100%;
+        max-width: 100%;
+        padding-left: 14px;
+        padding-right: 14px;
     }
 
 
@@ -1452,4 +1502,152 @@ a {
 
 .section-heading h1 {
     color: #982121;
+}
+
+/* =================================
+   MOBILE WIDTH FIX
+================================= */
+
+@media (max-width: 700px) {
+
+    html,
+    body {
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+
+    /* FORCE ALL MAIN CONTENT TO FIT */
+
+    .section-inner,
+    .hero .section-inner,
+    .simple-page .section-inner,
+    .collection-page .section-inner {
+        box-sizing: border-box;
+
+        width: calc(100vw - 28px) !important;
+        max-width: calc(100vw - 28px) !important;
+
+        margin-left: auto !important;
+        margin-right: auto !important;
+
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+
+        min-width: 0 !important;
+    }
+
+
+    /* HERO TEXT */
+
+    .hero,
+    .hero .section-inner {
+        min-width: 0 !important;
+        max-width: 100vw !important;
+    }
+
+
+    .hero h1,
+    .hero p {
+        box-sizing: border-box;
+
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 0 !important;
+
+        overflow-wrap: anywhere;
+        word-wrap: break-word;
+    }
+
+
+    /* SIMPLE PAGE TEXT */
+
+    .simple-page h1,
+    .simple-page p,
+    .simple-page ul,
+    .simple-page li {
+        max-width: 100% !important;
+        min-width: 0 !important;
+
+        overflow-wrap: anywhere;
+        word-wrap: break-word;
+    }
+
+
+    /* COLLECTION */
+
+    .collection-page,
+    .collection-page .section-inner {
+        min-width: 0 !important;
+        max-width: 100vw !important;
+    }
+
+
+    /* WANTS TWO-COLUMN LIST */
+
+    .wants-list {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 0 !important;
+    }
+}
+
+/* =================================
+   MOBILE TEXT FIX
+================================= */
+
+@media (max-width: 700px) {
+
+    html,
+    body {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+
+    .hero {
+        width: 100%;
+        max-width: 100%;
+        padding:
+            40px 14px;
+    }
+
+
+    .hero-inner {
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+
+        margin: 0;
+    }
+
+
+    .hero h1 {
+        width: 100%;
+        max-width: 100%;
+
+        font-size: 2.5rem;
+
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+    }
+
+
+    .hero-description {
+        width: 100%;
+        max-width: 100%;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+
+        font-size: 0.95rem;
+        line-height: 1.55;
+    }
 }
