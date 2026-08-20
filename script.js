@@ -1,5 +1,81 @@
 let recordings = [];
 
+const NFT_RECORDINGS = {
+
+    // NFT until 2026-11-02
+    2036681: "2026-11-02",
+
+    // NFT forever
+    2029720: true,
+
+    // NFT until 2026-12-15
+    2028358: "2026-12-15",
+
+    // NFT forever
+    2036585: true,
+
+    // NFT until 2027-01-01
+    2037419: "2027-01-01",
+
+    // NFT until 2027-01-05
+    2035164: "2027-01-05",
+
+    // NFT forever
+    2021401: true,
+
+    // NFT forever
+    2023127: true,
+
+    // NFT forever
+    2029946: true,
+
+    // NFT until 2026-10-01
+    2031062: "2026-10-01",
+
+    // NFT until 2026-11-18
+    2033150: "2026-11-18",
+
+    // NFT forever
+    2018539: true,
+
+    // NFT forever
+    2032930: true,
+
+    // NFT until 2027-03-31
+    2030894: "2027-03-31",
+
+    // NFT forever
+    2037179: true,
+
+    // NFT forever
+    2037180: true,
+
+    // NFT forever
+    2012222: true,
+
+    // NFT until 2026-12-30
+    2029978: "2026-12-30",
+
+    // NFT forever
+    2012225: true,
+
+    // NFT until 2027-03-02
+    2028961: "2027-03-02",
+
+    // NFT until 2026-10-01
+    2031061: "2026-10-01",
+
+    // NFT until 2027-01-09
+    2035534: "2027-01-09",
+
+    // NFT forever
+    2037461: true,
+
+    // NFT forever
+    2007882: true
+
+};
+
 const collectionContainer =
     document.getElementById("collection");
 
@@ -140,7 +216,20 @@ async function loadCollection() {
                         limitedStatus:
                             nested.metadata?.limited_status ??
                             item.limitedStatus ??
-                            ""
+                            "",
+
+                        nft:
+                            NFT_RECORDINGS[item.id] === true
+                                ? {
+                                    nft_date: null,
+                                    nft_forever: true
+                                }
+                                : NFT_RECORDINGS[item.id]
+                                    ? {
+                                        nft_date: NFT_RECORDINGS[item.id],
+                                        nft_forever: false
+                                    }
+                                    : item.nft ?? nested.nft ?? null
 
                     };
 
