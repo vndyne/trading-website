@@ -6,7 +6,22 @@ const NFT_RECORDINGS = {
     2036681: "2026-11-02",
 
     // NFT forever
+    1135878: true,
+
+    // NFT forever
+    1135843: true,
+
+    // NFT forever
+    1123507: true,
+
+    // NFT forever
+    1123508: true,
+
+    // NFT forever
     2029720: true,
+
+    // NFT forever
+    2030946: true,
 
     // NFT until 2026-12-15
     2028358: "2026-12-15",
@@ -36,10 +51,25 @@ const NFT_RECORDINGS = {
     2033150: "2026-11-18",
 
     // NFT forever
+    2020036: true,
+
+    // NFT forever
+    2027058: true,
+
+    // NFT forever
+    1151353: true,
+
+    // NFT forever
     2018539: true,
 
     // NFT forever
     2032930: true,
+
+    // NFT forever
+    2025260: true,
+
+    // NFT forever
+    2026279: true,
 
     // NFT until 2027-03-31
     2030894: "2027-03-31",
