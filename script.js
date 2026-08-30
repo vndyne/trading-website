@@ -1486,33 +1486,22 @@ function getCastHTML(
    DATE FORMAT
 ================================ */
 
-function formatRecordingDate(
-    date
-) {
+function formatRecordingDate(date) {
 
     if (!date) {
-
         return "Unknown date";
-
     }
 
 
     /*
-        Encora normally gives:
+        Encora date object.
 
-        {
-            full_date:
-                "2015-07-20",
-
-            month_known: true,
-
-            day_known: true
-        }
+        If Encora says the day is unknown,
+        display only Month, Year.
     */
 
     if (
-        typeof date ===
-        "object"
+        typeof date === "object"
     ) {
 
         const fullDate =
@@ -1520,34 +1509,17 @@ function formatRecordingDate(
 
 
         if (!fullDate) {
-
             return "Unknown date";
-
         }
 
 
         /*
-            Full date
+            Day is NOT known:
+            Month, Year only
         */
 
         if (
-            date.day_known !== false &&
-            date.month_known !== false
-        ) {
-
-            return formatFullDate(
-                fullDate
-            );
-
-        }
-
-
-        /*
-            Month known, day unknown
-        */
-
-        if (
-            date.month_known !== false
+            date.day_known === false
         ) {
 
             return formatYearMonth(
@@ -1558,19 +1530,44 @@ function formatRecordingDate(
 
 
         /*
-            Only year known
+            Month is NOT known:
+            Year only
         */
 
-        return String(
-            fullDate
-        ).slice(0, 4);
+        if (
+            date.month_known === false
+        ) {
 
+            return String(
+                fullDate
+            ).slice(0, 4);
+
+        }
+
+
+        /*
+            Full date:
+            Month Day, Year
+        */
+
+        return formatFullDate(
+            fullDate
+        );
     }
 
+
+    /*
+        Date supplied as a string
+    */
 
     const value =
         String(date);
 
+
+    /*
+        Full date:
+        YYYY-MM-DD
+    */
 
     if (
         /^\d{4}-\d{2}-\d{2}$/
@@ -1584,6 +1581,11 @@ function formatRecordingDate(
     }
 
 
+    /*
+        Month and year:
+        YYYY-MM
+    */
+
     if (
         /^\d{4}-\d{2}$/
             .test(value)
@@ -1596,6 +1598,10 @@ function formatRecordingDate(
     }
 
 
+    /*
+        Year only
+    */
+
     if (
         /^\d{4}$/
             .test(value)
@@ -1607,7 +1613,6 @@ function formatRecordingDate(
 
 
     return value;
-
 }
 
 
@@ -1643,7 +1648,6 @@ function formatFullDate(
             year: "numeric"
         }
     );
-
 }
 
 
@@ -1670,14 +1674,16 @@ function formatYearMonth(
         );
 
 
-    return date.toLocaleDateString(
-        "en-US",
-        {
-            month: "short",
-            year: "numeric"
-        }
+    return (
+        date.toLocaleDateString(
+            "en-US",
+            {
+                month: "short"
+            }
+        ) +
+        ", " +
+        year
     );
-
 }
 
 
