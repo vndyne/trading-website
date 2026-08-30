@@ -1482,135 +1482,82 @@ function getCastHTML(
 }
 
 
+```js
 /* ================================
    DATE FORMAT
 ================================ */
 
 function formatRecordingDate(date) {
-
     if (!date) {
         return "Unknown date";
     }
 
-
     /*
         Encora date object.
 
-        If Encora says the day is unknown,
-        display only Month, Year.
+        Encora may provide:
+        - full date
+        - month/year
+        - year only
+
+        We use Encora's known-date flags
+        to determine what should be displayed.
     */
-
-    if (
-        typeof date === "object"
-    ) {
-
-        const fullDate =
-            date.full_date;
-
+    if (typeof date === "object") {
+        const fullDate = date.full_date;
 
         if (!fullDate) {
             return "Unknown date";
         }
 
-
         /*
-            Day is NOT known:
-            Month, Year only
+            Only the year is known.
         */
-
-        if (
-            date.day_known === false
-        ) {
-
-            return formatYearMonth(
-                fullDate
-            );
-
+        if (date.month_known === false) {
+            return String(fullDate).slice(0, 4);
         }
 
-
         /*
-            Month is NOT known:
-            Year only
+            Month is known but day is unknown.
         */
-
-        if (
-            date.month_known === false
-        ) {
-
-            return String(
-                fullDate
-            ).slice(0, 4);
-
+        if (date.day_known === false) {
+            return formatYearMonth(fullDate);
         }
 
-
         /*
-            Full date:
-            Month Day, Year
+            Day, month and year are known.
         */
-
-        return formatFullDate(
-            fullDate
-        );
+        return formatFullDate(fullDate);
     }
 
-
     /*
-        Date supplied as a string
+        Date supplied as a string.
     */
-
-    const value =
-        String(date);
-
+    const value = String(date).trim();
 
     /*
-        Full date:
         YYYY-MM-DD
+        Full date.
     */
-
-    if (
-        /^\d{4}-\d{2}-\d{2}$/
-            .test(value)
-    ) {
-
-        return formatFullDate(
-            value
-        );
-
+    if (/^\d{4}-\d{2}-\d{2}$/.test(value)) {
+        return formatFullDate(value);
     }
 
-
     /*
-        Month and year:
         YYYY-MM
+        Month and year only.
     */
-
-    if (
-        /^\d{4}-\d{2}$/
-            .test(value)
-    ) {
-
-        return formatYearMonth(
-            value
-        );
-
+    if (/^\d{4}-\d{2}$/.test(value)) {
+        return formatYearMonth(value);
     }
-
 
     /*
-        Year only
+        YYYY
+        Year only.
     */
-
-    if (
-        /^\d{4}$/
-            .test(value)
-    ) {
-
+    if (/^\d{4}$/.test(value)) {
         return value;
-
     }
-
 
     return value;
 }
@@ -1620,25 +1567,18 @@ function formatRecordingDate(date) {
    FULL DATE
 ================================ */
 
-function formatFullDate(
-    value
-) {
-
+function formatFullDate(value) {
     const [
         year,
         month,
         day
-    ] =
-        value.split("-");
+    ] = value.split("-");
 
-
-    const date =
-        new Date(
-            Number(year),
-            Number(month) - 1,
-            Number(day)
-        );
-
+    const date = new Date(
+        Number(year),
+        Number(month) - 1,
+        Number(day)
+    );
 
     return date.toLocaleDateString(
         "en-US",
@@ -1655,24 +1595,17 @@ function formatFullDate(
    YEAR / MONTH
 ================================ */
 
-function formatYearMonth(
-    value
-) {
-
+function formatYearMonth(value) {
     const [
         year,
         month
-    ] =
-        value.split("-");
+    ] = value.split("-");
 
-
-    const date =
-        new Date(
-            Number(year),
-            Number(month) - 1,
-            1
-        );
-
+    const date = new Date(
+        Number(year),
+        Number(month) - 1,
+        1
+    );
 
     return (
         date.toLocaleDateString(
@@ -1685,6 +1618,9 @@ function formatYearMonth(
         year
     );
 }
+```
+
+```
 
 
 /* ================================
