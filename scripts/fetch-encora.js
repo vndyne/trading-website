@@ -1,6 +1,10 @@
+
 import "dotenv/config";
+
 import fs from "fs/promises";
+
 import path from "path";
+
 import { fileURLToPath } from "url";
 
 
@@ -30,7 +34,6 @@ if (!API_KEY) {
     );
 
     process.exit(1);
-
 }
 
 
@@ -67,23 +70,19 @@ async function fetchPage(page) {
     const url =
         new URL(API_URL);
 
-
     url.searchParams.set(
         "per_page",
         "100"
     );
-
 
     url.searchParams.set(
         "page",
         String(page)
     );
 
-
     console.log(
         `Fetching Encora page ${page}...`
     );
-
 
     const response =
         await fetch(
@@ -92,6 +91,7 @@ async function fetchPage(page) {
                 method: "GET",
 
                 headers: {
+
                     "Authorization":
                         `Bearer ${API_KEY}`,
 
@@ -110,26 +110,21 @@ async function fetchPage(page) {
         const errorText =
             await response.text();
 
-
         console.error(
             `Encora API returned HTTP ${response.status}`
         );
-
 
         console.error(
             errorText
         );
 
-
         throw new Error(
             `Failed to fetch Encora page ${page}`
         );
-
     }
 
 
     return await response.json();
-
 }
 
 
@@ -140,15 +135,19 @@ async function fetchPage(page) {
 async function fetchEntireCollection() {
 
     console.log("");
+
     console.log(
         "================================="
     );
+
     console.log(
         "Fetching Encora collection"
     );
+
     console.log(
         "================================="
     );
+
     console.log("");
 
 
@@ -160,10 +159,9 @@ async function fetchEntireCollection() {
         await fetchPage(1);
 
 
-    const allRecordings =
-        [
-            ...(firstPage.data || [])
-        ];
+    const allRecordings = [
+        ...(firstPage.data || [])
+    ];
 
 
     const totalPages =
@@ -180,12 +178,15 @@ async function fetchEntireCollection() {
 
 
     console.log("");
+
     console.log(
         `Total recordings: ${totalRecords}`
     );
+
     console.log(
         `Total pages: ${totalPages}`
     );
+
     console.log("");
 
 
@@ -211,25 +212,27 @@ async function fetchEntireCollection() {
         console.log(
             `Collected ${allRecordings.length} / ${totalRecords}`
         );
-
     }
 
 
     console.log("");
+
     console.log(
         "================================="
     );
+
     console.log(
         "Finished fetching collection"
     );
+
     console.log(
         "================================="
     );
+
     console.log("");
 
 
     return allRecordings;
-
 }
 
 
@@ -252,6 +255,50 @@ function createWebsiteCollection(
                     recording.metadata || {};
 
 
+                /*
+                    IMPORTANT:
+
+                    Keep Encora's COMPLETE date
+                    object.
+
+                    DO NOT reduce this to:
+
+                    recording.date.full_date
+
+                    because that would remove:
+
+                    - month_known
+                    - day_known
+                    - date_variant
+                    - time
+                */
+
+                const date =
+                    recording.date
+                        ? {
+                            full_date:
+                                recording.date.full_date ??
+                                null,
+
+                            month_known:
+                                recording.date.month_known ??
+                                null,
+
+                            day_known:
+                                recording.date.day_known ??
+                                null,
+
+                            date_variant:
+                                recording.date.date_variant ??
+                                null,
+
+                            time:
+                                recording.date.time ??
+                                null
+                        }
+                        : null;
+
+
                 return {
 
                     /*
@@ -270,15 +317,13 @@ function createWebsiteCollection(
 
                     /*
                         DATE
+
+                        Keep the complete Encora
+                        date object.
                     */
 
                     date:
-                        recording.date?.full_date ??
-                        null,
-
-                    time:
-                        recording.date?.time ??
-                        null,
+                        date,
 
 
                     /*
@@ -357,6 +402,7 @@ function createWebsiteCollection(
 
                     /*
                         IMPORTANT:
+
                         KEEP THE CAST
                     */
 
@@ -379,9 +425,7 @@ function createWebsiteCollection(
                     collectedAt:
                         item.collected_at ??
                         null
-
                 };
-
             }
         );
 
@@ -393,9 +437,7 @@ function createWebsiteCollection(
 
         items:
             cleanItems
-
     };
-
 }
 
 
@@ -431,6 +473,7 @@ async function saveCollection(
 
 
     console.log("");
+
     console.log(
         `Saved ${collection.total} recordings.`
     );
@@ -461,7 +504,6 @@ async function saveCollection(
 
 
     console.log("");
-
 }
 
 
@@ -496,25 +538,29 @@ async function main() {
     } catch (error) {
 
         console.error("");
+
         console.error(
             "================================="
         );
+
         console.error(
             "ENCORA UPDATE FAILED"
         );
+
         console.error(
             "================================="
         );
+
         console.error("");
+
 
         console.error(
             error
         );
 
+
         process.exit(1);
-
     }
-
 }
 
 
