@@ -1,5 +1,5 @@
 {
-  "total": 1579,
+  "total": 1585,
   "items": [
     {
       "id": 5,
@@ -6361,7 +6361,7 @@
       "city": "Los Angeles",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 118,
+      "owners": 119,
       "wanters": 30,
       "notes": "Shot from mezzanine with no head obstructions so a very clear shot. A little a bit shaky for the first number but steady after. Opening night was on the 20th, so this is a very early performance.",
       "cast": [
@@ -18114,7 +18114,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 174,
-      "wanters": 68,
+      "wanters": 69,
       "notes": "Another beautiful HD capture of this fantastic show. The cast is even tighter since previews and this is such a fun show with a terrific cast that is perfection! Hilarious Lovers scene at the end with Puffer and Bazzard! Murderer: Rosa Bud, Datchery: Helena, Lovers: Puffer and Bazzard. A+",
       "cast": [
         {
@@ -22666,7 +22666,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 337,
+      "owners": 338,
       "wanters": 92,
       "notes": "Well filmed from the balcony on the first night of previews. Occasional heads appear in the bottom of the shot. A bit shaky at times, but overall pretty good, with great close ups.\nMultiple copies are circulating; the 4.38 GB file is the same as the 4.18 GB file, except with the menu file duplicated (in both VIDEO_TS.VOB and VTS_01_0.VOB).",
       "cast": [
@@ -26674,8 +26674,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 520,
-      "wanters": 101,
+      "owners": 522,
+      "wanters": 99,
       "notes": null,
       "cast": [
         {
@@ -29657,7 +29657,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 167,
-      "wanters": 118,
+      "wanters": 117,
       "notes": null,
       "cast": [
         {
@@ -37718,7 +37718,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 121,
-      "wanters": 29,
+      "wanters": 30,
       "notes": "Some spotlight washout, not too bad",
       "cast": [
         {
@@ -41825,8 +41825,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 169,
-      "wanters": 22,
+      "owners": 170,
+      "wanters": 21,
       "notes": "Opening night. Some versions circulate without the lion cub scene.",
       "cast": [
         {
@@ -42596,8 +42596,8 @@
       "city": "San Francisco",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 137,
-      "wanters": 55,
+      "owners": 138,
+      "wanters": 54,
       "notes": "Occasional coverups and loss of focus, but overall, not bad. B+\nMultiple versions are circulating — the 3.63 GB VOB file is much higher quality than either the 4.31 GB or 4.51 GB VOB file (see screenshots).",
       "cast": [
         {
@@ -43849,8 +43849,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 270,
-      "wanters": 72,
+      "owners": 271,
+      "wanters": 71,
       "notes": null,
       "cast": [
         {
@@ -45692,8 +45692,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 141,
-      "wanters": 41,
+      "owners": 142,
+      "wanters": 40,
       "notes": null,
       "cast": [
         {
@@ -49375,8 +49375,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 165,
-      "wanters": 82,
+      "owners": 167,
+      "wanters": 81,
       "notes": "Some spotlight washout, but there is little generation loss and the action is followed well. Sounds understandable, and of course it's wonderful to see Chita's performance. A transfer from a higher generation/worse quality tape also exists with excerpts from the November 18th show at the end.\nScreenshots are from both a higher generation/lower quality version and a lower generation version for comparison. Please confirm with the trader which version they have.\nMultiple versions circulate, with different dates (November 4, November 5, November 18). Exact date is unclear.\nAlso sometimes mislabeled as a 1993 video from the Broadway production.",
       "cast": [
         {
@@ -53739,6 +53739,111 @@
       "collectedAt": "2026-03-05T04:34:39.000000Z"
     },
     {
+      "id": 6557,
+      "show": "Everyday Rapture",
+      "tour": "Off-Broadway",
+      "date": {
+        "full_date": "2009-04-24",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "NYCG8R",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "VOB + smalls - 2.96 GB",
+      "venue": "Second Stage Theatre",
+      "city": "New York",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 91,
+      "wanters": 30,
+      "notes": null,
+      "cast": [
+        {
+          "performer": {
+            "id": 2096,
+            "name": "Sherie Rene Scott",
+            "slug": "sherie-rene-scott",
+            "url": "encora.it/performers/sherie-rene-scott",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87431,
+            "name": "Sherie",
+            "slug": "sherie",
+            "url": "encora.it/shows/everyday-rapture/characters/sherie",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1496,
+            "name": "Lindsay Mendez",
+            "slug": "lindsay-mendez",
+            "url": "encora.it/performers/lindsay-mendez",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7278,
+            "name": "Mennonette",
+            "slug": "mennonette",
+            "url": "encora.it/shows/everyday-rapture/characters/mennonette",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 257,
+            "name": "Betsy Wolfe",
+            "slug": "betsy-wolfe",
+            "url": "encora.it/performers/betsy-wolfe",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7278,
+            "name": "Mennonette",
+            "slug": "mennonette",
+            "url": "encora.it/shows/everyday-rapture/characters/mennonette",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2228,
+            "name": "Eamon Foley",
+            "slug": "eamon-foley",
+            "url": "encora.it/performers/eamon-foley",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87432,
+            "name": "Fan",
+            "slug": "fan",
+            "url": "encora.it/shows/everyday-rapture/characters/fan",
+            "order": 3
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-17T11:26:48.000000Z",
+      "collectedAt": "2026-09-17T11:26:41.000000Z"
+    },
+    {
       "id": 6639,
       "show": "Wicked",
       "tour": "Los Angeles",
@@ -55904,8 +56009,8 @@
       "city": "Los Angeles",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 89,
-      "wanters": 52,
+      "owners": 90,
+      "wanters": 51,
       "notes": "Eden & Megan's first show since their return to close the LA production. A great capture of a stellar performance. There are quite a few cover-ups through the first half of the first act, up to Popular, but most of them are very short. The video is also a little bit shaky but never for more than a few seconds at a time.",
       "cast": [
         {
@@ -57370,8 +57475,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 237,
-      "wanters": 73,
+      "owners": 238,
+      "wanters": 72,
       "notes": null,
       "cast": [
         {
@@ -59219,8 +59324,8 @@
       "city": "Los Angeles",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 122,
-      "wanters": 50,
+      "owners": 123,
+      "wanters": 49,
       "notes": "Amazing capture with amazing closeups. Marcie is to die for. Performances were fantastic all the way around. Megan and Marcie's chemistry is so fresh. A+",
       "cast": [
         {
@@ -65244,8 +65349,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 761,
-      "wanters": 97,
+      "owners": 762,
+      "wanters": 96,
       "notes": "Really beautiful shot in an intimate space. Lots of zooms, but a good amount of wider shots too with a very limited (almost nonexistent) amount of heads. The lighting in this theater really liked my camera and I know the show almost “by heart” so I think I followed the action as well as possible. My battery died during the last song, but it starts at the very beginning with only one drop out during dialogue.",
       "cast": [
         {
@@ -69366,7 +69471,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 213,
+      "owners": 214,
       "wanters": 38,
       "notes": null,
       "cast": [
@@ -70829,8 +70934,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 650,
-      "wanters": 110,
+      "owners": 651,
+      "wanters": 109,
       "notes": null,
       "cast": [
         {
@@ -80751,8 +80856,8 @@
       "city": "Highland Park",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 149,
-      "wanters": 47,
+      "owners": 150,
+      "wanters": 46,
       "notes": null,
       "cast": [
         {
@@ -120030,7 +120135,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 33,
+      "owners": 34,
       "wanters": 27,
       "notes": null,
       "cast": [
@@ -125375,8 +125480,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 24,
-      "wanters": 26,
+      "owners": 25,
+      "wanters": 25,
       "notes": "Shot from the mezzanine with occasional heads in the way. Not the Pro-Shot.",
       "cast": [
         {
@@ -144380,8 +144485,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 53,
-      "wanters": 51,
+      "owners": 54,
+      "wanters": 50,
       "notes": "10 songs, complete or very nearly, filmed by Broadway Beat. These are NOT the same as Press Reels, nor filmed at the same performance.\r\nHighlights include: No One Mourns the Wicked, The Wizard and I, Dancing Through Life, Popular, One Short Day, Defying Gravity, Thank Goodness, As Long As Youre Mine, Wonderful, For Good.",
       "cast": [
         {
@@ -157296,6 +157401,377 @@
       "collectedAt": "2026-08-10T04:22:30.000000Z"
     },
     {
+      "id": 1130876,
+      "show": "The Unofficial Bridgerton Musical",
+      "tour": "Kennedy Center Concert",
+      "date": {
+        "full_date": "2022-07-26",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "Unknown",
+      "mediaType": "audio",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "M4A (untracked) - 70.6 MB",
+      "venue": "The Kennedy Center - Concert Hall",
+      "city": "Washington",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 21,
+      "wanters": 28,
+      "notes": "A special concert of this Grammy award winning musical concept album that originated from TikTok.",
+      "cast": [
+        {
+          "performer": {
+            "id": 344,
+            "name": "Ephraim Sykes",
+            "slug": "ephraim-sykes",
+            "url": "encora.it/performers/ephraim-sykes",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52757,
+            "name": "Simon Basset",
+            "slug": "simon-basset",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/simon-basset",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 74325,
+            "name": "Abigail Barlow",
+            "slug": "abigail-barlow",
+            "url": "encora.it/performers/abigail-barlow",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52751,
+            "name": "Daphne Bridgerton",
+            "slug": "daphne-bridgerton",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/daphne-bridgerton",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1556,
+            "name": "Jason Gotay",
+            "slug": "jason-gotay",
+            "url": "encora.it/performers/jason-gotay",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52754,
+            "name": "Anthony Bridgerton",
+            "slug": "anthony-bridgerton",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/anthony-bridgerton",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 74326,
+            "name": "Emily Bear",
+            "slug": "emily-bear",
+            "url": "encora.it/performers/emily-bear",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52753,
+            "name": "Penelope Featherington",
+            "slug": "penelope-featherington",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/penelope-featherington",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2184,
+            "name": "Micaela Diamond",
+            "slug": "micaela-diamond",
+            "url": "encora.it/performers/micaela-diamond",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52752,
+            "name": "Eloise Bridgerton",
+            "slug": "eloise-bridgerton",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/eloise-bridgerton",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 659,
+            "name": "Rebecca Eichenberger",
+            "slug": "rebecca-eichenberger",
+            "url": "encora.it/performers/rebecca-eichenberger",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52760,
+            "name": "Lady Featherington",
+            "slug": "lady-featherington",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/lady-featherington",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1058,
+            "name": "Darlesia Cearcy",
+            "slug": "darlesia-cearcy",
+            "url": "encora.it/performers/darlesia-cearcy",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52759,
+            "name": "Lady Danbury",
+            "slug": "lady-danbury",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/lady-danbury",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1452,
+            "name": "Kelli O'Hara",
+            "slug": "kelli-ohara",
+            "url": "encora.it/performers/kelli-ohara",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52758,
+            "name": "Viscountess Bridgerton",
+            "slug": "viscountess-bridgerton",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/viscountess-bridgerton",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 196,
+            "name": "Emmy Raver-Lampman",
+            "slug": "emmy-raver-lampman",
+            "url": "encora.it/performers/emmy-raver-lampman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52756,
+            "name": "Queen Charlotte",
+            "slug": "queen-charlotte",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/queen-charlotte",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1466,
+            "name": "Solea Pfeiffer",
+            "slug": "solea-pfeiffer",
+            "url": "encora.it/performers/solea-pfeiffer",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52755,
+            "name": "Siena",
+            "slug": "siena",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/siena",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1947,
+            "name": "Denée Benton",
+            "slug": "denee-benton",
+            "url": "encora.it/performers/denee-benton",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52761,
+            "name": "Marina",
+            "slug": "marina",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/marina",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 74327,
+            "name": "Nick T. Daly",
+            "slug": "nick-t-daly",
+            "url": "encora.it/performers/nick-t-daly",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52763,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/ensemble-1",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 74328,
+            "name": "Joe De Pietro",
+            "slug": "jospeh-de-pietro",
+            "url": "encora.it/performers/jospeh-de-pietro",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52763,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/ensemble-1",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 20753,
+            "name": "Jaygee Macapugay",
+            "slug": "jaygee-macapugay",
+            "url": "encora.it/performers/jaygee-macapugay",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52763,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/ensemble-1",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 68,
+            "name": "Michael McCorry Rose",
+            "slug": "michael-mccorry-rose",
+            "url": "encora.it/performers/michael-mccorry-rose",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52763,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/ensemble-1",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 11041,
+            "name": "Sandra Okuboyejo",
+            "slug": "sandra-okuboyejo",
+            "url": "encora.it/performers/sandra-okuboyejo",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52763,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/ensemble-1",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 169,
+            "name": "Paul Slade Smith",
+            "slug": "paul-slade-smith",
+            "url": "encora.it/performers/paul-slade-smith",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52763,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/ensemble-1",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2792,
+            "name": "Lauren Zakrin",
+            "slug": "lauren-zakrin",
+            "url": "encora.it/performers/lauren-zakrin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 52763,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/the-unofficial-bridgerton-musical/characters/ensemble-1",
+            "order": 12
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-17T11:25:29.000000Z",
+      "collectedAt": "2026-09-17T11:25:21.000000Z"
+    },
+    {
       "id": 1130909,
       "show": "The Color Purple",
       "tour": "Signature Theatre",
@@ -163040,8 +163516,8 @@
       "city": "Boston",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 117,
-      "wanters": 35,
+      "owners": 118,
+      "wanters": 34,
       "notes": "Recording starts ~9 minutes into the show. Release includes heavily obstructed phone footage for those 9 mins from an earlier performance for completeness sake, but the main video/story is enjoyable without it.",
       "cast": [
         {
@@ -174902,8 +175378,8 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 61,
-      "wanters": 39,
+      "owners": 63,
+      "wanters": 37,
       "notes": "Great and unobstructed video of Jason and Ximone stepping into the show, with a mix of wide shots and close-ups. Video ends with No One Is Alone but until then is complete and well shot.",
       "cast": [
         {
@@ -175358,7 +175834,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 569,
+      "owners": 570,
       "wanters": 79,
       "notes": "Absolutely perfect video of this show. Very little to no washout, some adjustments throughout.",
       "cast": [
@@ -208670,7 +209146,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 607,
-      "wanters": 116,
+      "wanters": 115,
       "notes": "Excellent 4K capture of the new cast! A few very minor obstructions that block off almost nothing. Increased wandering and unfocusing throughout. Includes curtain call, audio is fed from external source.",
       "cast": [
         {
@@ -211931,7 +212407,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 26,
-      "wanters": 28,
+      "wanters": 29,
       "notes": "Filmed in 4K, released as 1080p and 4K. Minimal obstruction on far left side of screen when action is there. A couple brief dropouts due to late-comers or people getting up for/returning from the restroom. Video missing (audio only) for most of Over the Moon, Seasons of Love, and Happy New Year. Most of curtain call is obstructed.",
       "cast": [
         {
@@ -212820,8 +213296,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 150,
-      "wanters": 70,
+      "owners": 151,
+      "wanters": 69,
       "notes": "Brilliant capture of Sean as Charlie! His chemistry with Tash is delightful to see. Shot around heads.",
       "cast": [
         {
@@ -244593,8 +245069,8 @@
       "city": "Cambridge",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 177,
-      "wanters": 141,
+      "owners": 178,
+      "wanters": 140,
       "notes": "The video, including clips or audio, should never be posted in any public online space without my consent. This includes but is not limited to Reddit, TikTok, YouTube, Instagram, Twitter/X, and Discord.",
       "cast": [
         {
@@ -248475,7 +248951,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 126,
+      "owners": 127,
       "wanters": 63,
       "notes": null,
       "cast": [
@@ -252767,7 +253243,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 209,
+      "owners": 210,
       "wanters": 44,
       "notes": null,
       "cast": [
@@ -272926,7 +273402,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 321,
+      "owners": 322,
       "wanters": 33,
       "notes": null,
       "cast": [
@@ -278480,7 +278956,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 413,
+      "owners": 414,
       "wanters": 78,
       "notes": null,
       "cast": [
@@ -287075,7 +287551,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 243,
+      "owners": 244,
       "wanters": 94,
       "notes": null,
       "cast": [
@@ -293330,8 +293806,8 @@
       "city": null,
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 99,
-      "wanters": 50,
+      "owners": 100,
+      "wanters": 49,
       "notes": null,
       "cast": [
         {
@@ -294002,8 +294478,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 185,
-      "wanters": 79,
+      "owners": 187,
+      "wanters": 77,
       "notes": null,
       "cast": [
         {
@@ -294355,8 +294831,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 16,
-      "wanters": 21,
+      "owners": 17,
+      "wanters": 20,
       "notes": null,
       "cast": [
         {
@@ -296626,7 +297102,7 @@
       "giftingStatus": "Gift On Request",
       "limitedStatus": "Unrestricted",
       "owners": 14,
-      "wanters": 5,
+      "wanters": 6,
       "notes": "Extreme side view highlights",
       "cast": [
         {
@@ -308268,7 +308744,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 498,
+      "owners": 499,
       "wanters": 228,
       "notes": null,
       "cast": [
@@ -343111,7 +343587,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 143,
-      "wanters": 106,
+      "wanters": 107,
       "notes": null,
       "cast": [
         {
@@ -356292,8 +356768,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 143,
-      "wanters": 54,
+      "owners": 144,
+      "wanters": 53,
       "notes": null,
       "cast": [
         {
@@ -359452,7 +359928,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 198,
-      "wanters": 96,
+      "wanters": 97,
       "notes": null,
       "cast": [
         {
@@ -363576,7 +364052,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 173,
+      "owners": 174,
       "wanters": 118,
       "notes": null,
       "cast": [
@@ -372422,8 +372898,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 190,
-      "wanters": 69,
+      "owners": 192,
+      "wanters": 67,
       "notes": null,
       "cast": [
         {
@@ -373338,8 +373814,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 74,
-      "wanters": 49,
+      "owners": 75,
+      "wanters": 48,
       "notes": null,
       "cast": [
         {
@@ -373955,8 +374431,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 53,
-      "wanters": 41,
+      "owners": 54,
+      "wanters": 40,
       "notes": null,
       "cast": [
         {
@@ -376688,7 +377164,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 243,
+      "owners": 244,
       "wanters": 103,
       "notes": null,
       "cast": [
@@ -377959,8 +378435,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 735,
-      "wanters": 253,
+      "owners": 736,
+      "wanters": 252,
       "notes": "Only released by the master as a 9.68 GB MP4, other file sizes are rips.",
       "cast": [
         {
@@ -388878,8 +389354,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 260,
-      "wanters": 161,
+      "owners": 261,
+      "wanters": 160,
       "notes": null,
       "cast": [
         {
@@ -393009,7 +393485,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 344,
-      "wanters": 116,
+      "wanters": 115,
       "notes": null,
       "cast": [
         {
@@ -408037,8 +408513,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 116,
-      "wanters": 70,
+      "owners": 117,
+      "wanters": 69,
       "notes": "Starts towards the end of the opening number. Shot almost entirely in mediums and close-ups.\n\nThis is a production of the revised edition of Bat Boy, which features lots of changes from the original. Songs were cut, added, replaced, and rewritten, and certain plot details are changed.",
       "cast": [
         {
@@ -408738,7 +409214,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 211,
+      "owners": 212,
       "wanters": 180,
       "notes": "Due to excess leaks of this cast of Hadestown, this video is only available to purchase for vetted traders that have previously bought at least two videos from me, with at least one purchase being 3 months old, and with those videos never being leaked. This is non-negotiable. If you believe that you fit this description, email me to purchase.",
       "cast": [
@@ -415467,8 +415943,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 54,
-      "wanters": 76,
+      "owners": 55,
+      "wanters": 75,
       "notes": null,
       "cast": [
         {
@@ -416697,8 +417173,8 @@
       "city": "Chicago",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 98,
-      "wanters": 55,
+      "owners": 100,
+      "wanters": 54,
       "notes": null,
       "cast": [
         {
@@ -423039,8 +423515,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 96,
-      "wanters": 97,
+      "owners": 98,
+      "wanters": 95,
       "notes": null,
       "cast": [
         {
@@ -430408,7 +430884,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 112,
+      "owners": 113,
       "wanters": 104,
       "notes": null,
       "cast": [
@@ -433661,8 +434137,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 126,
-      "wanters": 108,
+      "owners": 127,
+      "wanters": 107,
       "notes": null,
       "cast": [
         {
@@ -434124,7 +434600,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 275,
+      "owners": 277,
       "wanters": 141,
       "notes": null,
       "cast": [
@@ -445218,8 +445694,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 91,
-      "wanters": 145,
+      "owners": 93,
+      "wanters": 143,
       "notes": null,
       "cast": [
         {
@@ -451108,8 +451584,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 34,
-      "wanters": 49,
+      "owners": 35,
+      "wanters": 48,
       "notes": null,
       "cast": [
         {
@@ -470377,8 +470853,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 7,
-      "wanters": 14,
+      "owners": 8,
+      "wanters": 13,
       "notes": "Don’t post on any platform (TikTok, Tumblr, YouTube, Reddit, etc.)",
       "cast": [
         {
@@ -485979,6 +486455,386 @@
       "collectedAt": "2026-09-07T07:44:04.000000Z"
     },
     {
+      "id": 2037586,
+      "show": "Paddington The Musical",
+      "tour": "West End",
+      "date": {
+        "full_date": "2026-08-15",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "matinee"
+      },
+      "time": "matinee",
+      "master": "carlotta",
+      "mediaType": "audio",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP3 (Untracked) - 113.4 MB",
+      "venue": "Savoy Theatre",
+      "city": "London",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 3,
+      "wanters": 8,
+      "notes": null,
+      "cast": [
+        {
+          "performer": {
+            "id": 125653,
+            "name": "Abbie Purvis",
+            "slug": "abbie-purvis",
+            "url": "encora.it/performers/abbie-purvis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96163,
+            "name": "Paddington On-Stage Performer",
+            "slug": "paddington-on-stage-performer",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/paddington-on-stage-performer",
+            "order": 1
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 89080,
+            "name": "Tiago Dhondt Bamberger",
+            "slug": "thiago-dhondt-bamberger",
+            "url": "encora.it/performers/thiago-dhondt-bamberger",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96165,
+            "name": "Young Man",
+            "slug": "young-man",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/young-man",
+            "order": 3
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 12492,
+            "name": "Amy Ellen Richardson",
+            "slug": "amy-ellen-richardson",
+            "url": "encora.it/performers/amy-ellen-richardson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95952,
+            "name": "Mrs. Brown",
+            "slug": "mrs-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mrs-brown",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 9317,
+            "name": "Adrian Der Gregorian",
+            "slug": "adrian-der-gregorian",
+            "url": "encora.it/performers/adrian-der-gregorian",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95951,
+            "name": "Mr. Brown",
+            "slug": "mr-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mr-brown",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 129184,
+            "name": "Oliver Goodman",
+            "slug": "oliver-goodman",
+            "url": "encora.it/performers/oliver-goodman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95958,
+            "name": "Jonathan Brown",
+            "slug": "jonathan-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/jonathan-brown",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 129185,
+            "name": "Keira Webber",
+            "slug": "keira-webber",
+            "url": "encora.it/performers/keira-webber",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96160,
+            "name": "Judy Brown",
+            "slug": "judy-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/judy-brown",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1169,
+            "name": "Jacqueline Hughes",
+            "slug": "jacqueline-hughes",
+            "url": "encora.it/performers/jacqueline-hughes",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95949,
+            "name": "Millicent Clyde",
+            "slug": "millicent-clyde",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/millicent-clyde",
+            "order": 8
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 6914,
+            "name": "Tom Edden",
+            "slug": "tom-edden",
+            "url": "encora.it/performers/tom-edden",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95950,
+            "name": "Mr. Curry",
+            "slug": "mr-curry",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mr-curry",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 6464,
+            "name": "Bonnie Langford",
+            "slug": "bonnie-langford",
+            "url": "encora.it/performers/bonnie-langford",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95955,
+            "name": "Mrs. Bird",
+            "slug": "mrs-bird",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mrs-bird",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 35426,
+            "name": "Ashlee Irish",
+            "slug": "ashlee-irish",
+            "url": "encora.it/performers/ashlee-irish",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95959,
+            "name": "Grant",
+            "slug": "grant",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/grant",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 26770,
+            "name": "Teddy Kempner",
+            "slug": "teddy-kempner",
+            "url": "encora.it/performers/teddy-kempner",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96161,
+            "name": "Mr. Gruber",
+            "slug": "mr-gruber",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mr-gruber",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5625,
+            "name": "Amy Booth-Steel",
+            "slug": "amy-booth-steel",
+            "url": "encora.it/performers/amy-booth-steel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95957,
+            "name": "Lady Sloane",
+            "slug": "lady-sloane",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/lady-sloane",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5625,
+            "name": "Amy Booth-Steel",
+            "slug": "amy-booth-steel",
+            "url": "encora.it/performers/amy-booth-steel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96225,
+            "name": "Train Announcer",
+            "slug": "train-announcer",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/train-announcer",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5625,
+            "name": "Amy Booth-Steel",
+            "slug": "amy-booth-steel",
+            "url": "encora.it/performers/amy-booth-steel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96166,
+            "name": "Mrs. Hachoo",
+            "slug": "mrs-hachoo",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mrs-hachoo",
+            "order": 15
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2359,
+            "name": "Brenda Edwards",
+            "slug": "brenda-edwards",
+            "url": "encora.it/performers/brenda-edwards",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95961,
+            "name": "Tanya",
+            "slug": "tanya",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/tanya",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2359,
+            "name": "Brenda Edwards",
+            "slug": "brenda-edwards",
+            "url": "encora.it/performers/brenda-edwards",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96167,
+            "name": "Voice of Aunt Lucy",
+            "slug": "voice-of-aunt-lucy",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/voice-of-aunt-lucy",
+            "order": 17
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 55470,
+            "name": "Timi Akinyosade",
+            "slug": "timi-akinyosade",
+            "url": "encora.it/performers/timi-akinyosade",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95954,
+            "name": "Tony",
+            "slug": "tony",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/tony",
+            "order": 18
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4863,
+            "name": "David Birch",
+            "slug": "david-birch",
+            "url": "encora.it/performers/david-birch",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95963,
+            "name": "Hank the Pigeon",
+            "slug": "hank-pigeon",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/hank-pigeon",
+            "order": 19
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-17T11:17:14.000000Z",
+      "collectedAt": "2026-09-17T11:17:03.000000Z"
+    },
+    {
       "id": 2037679,
       "show": "Broadway on Broadway (Concerts)",
       "tour": "2003",
@@ -486484,7 +487340,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 226,
+      "owners": 227,
       "wanters": 49,
       "notes": "Footage was captured during three live performances on February 28 and March 1, 2025. Premiered on June 8, 2026; released in the United States on July 24, 2026. https://www.imdb.com/title/tt36307021/",
       "cast": [
@@ -496996,6 +497852,1071 @@
       "collectedAt": "2026-09-09T14:42:33.000000Z"
     },
     {
+      "id": 2038961,
+      "show": "Paddington The Musical",
+      "tour": "West End",
+      "date": {
+        "full_date": "2026-09-06",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "matinee"
+      },
+      "time": "matinee",
+      "master": "carlotta",
+      "mediaType": "audio",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP3 (Untracked) - 110.7 MB",
+      "venue": "Savoy Theatre",
+      "city": "London",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 2,
+      "wanters": 7,
+      "notes": null,
+      "cast": [
+        {
+          "performer": {
+            "id": 120560,
+            "name": "Arti Shah",
+            "slug": "arti-shah",
+            "url": "encora.it/performers/arti-shah",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96163,
+            "name": "Paddington On-Stage Performer",
+            "slug": "paddington-on-stage-performer",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/paddington-on-stage-performer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 26131,
+            "name": "James Hameed",
+            "slug": "james-hameed",
+            "url": "encora.it/performers/james-hameed",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96165,
+            "name": "Young Man",
+            "slug": "young-man",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/young-man",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12492,
+            "name": "Amy Ellen Richardson",
+            "slug": "amy-ellen-richardson",
+            "url": "encora.it/performers/amy-ellen-richardson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95952,
+            "name": "Mrs. Brown",
+            "slug": "mrs-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mrs-brown",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 9317,
+            "name": "Adrian Der Gregorian",
+            "slug": "adrian-der-gregorian",
+            "url": "encora.it/performers/adrian-der-gregorian",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95951,
+            "name": "Mr. Brown",
+            "slug": "mr-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mr-brown",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 121042,
+            "name": "Jasper Rowse",
+            "slug": "jasper-rowse",
+            "url": "encora.it/performers/jasper-rowse",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95958,
+            "name": "Jonathan Brown",
+            "slug": "jonathan-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/jonathan-brown",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 129185,
+            "name": "Keira Webber",
+            "slug": "keira-webber",
+            "url": "encora.it/performers/keira-webber",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96160,
+            "name": "Judy Brown",
+            "slug": "judy-brown",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/judy-brown",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1169,
+            "name": "Jacqueline Hughes",
+            "slug": "jacqueline-hughes",
+            "url": "encora.it/performers/jacqueline-hughes",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95949,
+            "name": "Millicent Clyde",
+            "slug": "millicent-clyde",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/millicent-clyde",
+            "order": 8
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 6985,
+            "name": "Sam Lathwood",
+            "slug": "sam-lathwood",
+            "url": "encora.it/performers/sam-lathwood",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95950,
+            "name": "Mr. Curry",
+            "slug": "mr-curry",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mr-curry",
+            "order": 9
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 6464,
+            "name": "Bonnie Langford",
+            "slug": "bonnie-langford",
+            "url": "encora.it/performers/bonnie-langford",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95955,
+            "name": "Mrs. Bird",
+            "slug": "mrs-bird",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mrs-bird",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3206,
+            "name": "Tarinn Callender",
+            "slug": "tarinn-callender",
+            "url": "encora.it/performers/tarinn-callender",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95959,
+            "name": "Grant",
+            "slug": "grant",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/grant",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 9885,
+            "name": "Ben Redfern",
+            "slug": "ben-redfern",
+            "url": "encora.it/performers/ben-redfern",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96161,
+            "name": "Mr. Gruber",
+            "slug": "mr-gruber",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mr-gruber",
+            "order": 12
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 5625,
+            "name": "Amy Booth-Steel",
+            "slug": "amy-booth-steel",
+            "url": "encora.it/performers/amy-booth-steel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95957,
+            "name": "Lady Sloane",
+            "slug": "lady-sloane",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/lady-sloane",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5625,
+            "name": "Amy Booth-Steel",
+            "slug": "amy-booth-steel",
+            "url": "encora.it/performers/amy-booth-steel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96225,
+            "name": "Train Announcer",
+            "slug": "train-announcer",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/train-announcer",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5625,
+            "name": "Amy Booth-Steel",
+            "slug": "amy-booth-steel",
+            "url": "encora.it/performers/amy-booth-steel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96166,
+            "name": "Mrs. Hachoo",
+            "slug": "mrs-hachoo",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/mrs-hachoo",
+            "order": 15
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2359,
+            "name": "Brenda Edwards",
+            "slug": "brenda-edwards",
+            "url": "encora.it/performers/brenda-edwards",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95961,
+            "name": "Tanya",
+            "slug": "tanya",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/tanya",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2359,
+            "name": "Brenda Edwards",
+            "slug": "brenda-edwards",
+            "url": "encora.it/performers/brenda-edwards",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 96167,
+            "name": "Voice of Aunt Lucy",
+            "slug": "voice-of-aunt-lucy",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/voice-of-aunt-lucy",
+            "order": 17
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 55470,
+            "name": "Timi Akinyosade",
+            "slug": "timi-akinyosade",
+            "url": "encora.it/performers/timi-akinyosade",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95954,
+            "name": "Tony",
+            "slug": "tony",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/tony",
+            "order": 18
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4863,
+            "name": "David Birch",
+            "slug": "david-birch",
+            "url": "encora.it/performers/david-birch",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 95963,
+            "name": "Hank the Pigeon",
+            "slug": "hank-pigeon",
+            "url": "encora.it/shows/paddington-the-musical-3/characters/hank-pigeon",
+            "order": 19
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-17T11:17:34.000000Z",
+      "collectedAt": "2026-09-17T11:17:23.000000Z"
+    },
+    {
+      "id": 2038964,
+      "show": "Thelma & Louise",
+      "tour": "Young Vic",
+      "date": {
+        "full_date": "2026-09-01",
+        "month_known": true,
+        "day_known": false,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "carlotta",
+      "mediaType": "audio",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP3 (Tracked & Untracked) - 190.1 MB",
+      "venue": null,
+      "city": null,
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 3,
+      "wanters": 1,
+      "notes": "NFT except through master until 24th October.",
+      "cast": [
+        {
+          "performer": {
+            "id": 5178,
+            "name": "Amy Lennox",
+            "slug": "amy-lennox",
+            "url": "encora.it/performers/amy-lennox",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105695,
+            "name": "Thelma",
+            "slug": "thelma",
+            "url": "encora.it/shows/thelma-louise/characters/thelma",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 56,
+            "name": "Rachel Tucker",
+            "slug": "rachel-tucker",
+            "url": "encora.it/performers/rachel-tucker",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105696,
+            "name": "Louise",
+            "slug": "louise",
+            "url": "encora.it/shows/thelma-louise/characters/louise",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3211,
+            "name": "Jack Butterworth",
+            "slug": "jack-butterworth",
+            "url": "encora.it/performers/jack-butterworth",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105698,
+            "name": "Trooper / Singer",
+            "slug": "trooper-singer",
+            "url": "encora.it/shows/thelma-louise/characters/trooper-singer",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 117698,
+            "name": "Rushand Chambers",
+            "slug": "rushand-chambers",
+            "url": "encora.it/performers/rushand-chambers",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10009,
+            "name": "Joshua Dever",
+            "slug": "joshua-dever",
+            "url": "encora.it/performers/joshua-dever",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 68273,
+            "name": "Kamilla Fernandes",
+            "slug": "kamilla-fernandes",
+            "url": "encora.it/performers/kamilla-fernandes",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 57879,
+            "name": "Alex Given",
+            "slug": "alex-given",
+            "url": "encora.it/performers/alex-given",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5947,
+            "name": "Suzie McAdam",
+            "slug": "suzie-mcadam",
+            "url": "encora.it/performers/suzie-mcadam",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 18165,
+            "name": "Eleanor Walsh",
+            "slug": "eleanor-walsh",
+            "url": "encora.it/performers/eleanor-walsh",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5635,
+            "name": "Trevor Dion Nicholas",
+            "slug": "trevor-dion-nicholas",
+            "url": "encora.it/performers/trevor-dion-nicholas",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105700,
+            "name": "Hal",
+            "slug": "hal",
+            "url": "encora.it/shows/thelma-louise/characters/hal",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5073,
+            "name": "Samuel Edwards",
+            "slug": "samuel-edwards",
+            "url": "encora.it/performers/samuel-edwards",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105701,
+            "name": "Darryl",
+            "slug": "darryl",
+            "url": "encora.it/shows/thelma-louise/characters/darryl",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 29257,
+            "name": "Alex Gibson-Giorgio",
+            "slug": "alex-gibson-giorgio",
+            "url": "encora.it/performers/alex-gibson-giorgio",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105702,
+            "name": "Jimmy",
+            "slug": "jimmy",
+            "url": "encora.it/shows/thelma-louise/characters/jimmy",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5872,
+            "name": "Jordan Luke Gage",
+            "slug": "jordan-luke-gage",
+            "url": "encora.it/performers/jordan-luke-gage",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105703,
+            "name": "JD",
+            "slug": "jd",
+            "url": "encora.it/shows/thelma-louise/characters/jd",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 99694,
+            "name": "Letitia Hector",
+            "slug": "letitia-hector",
+            "url": "encora.it/performers/letitia-hector",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105704,
+            "name": "Sarah",
+            "slug": "sarah",
+            "url": "encora.it/shows/thelma-louise/characters/sarah",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4314,
+            "name": "Tamlyn Henderson",
+            "slug": "tamlyn-henderson",
+            "url": "encora.it/performers/tamlyn-henderson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105705,
+            "name": "Harlan",
+            "slug": "harlan",
+            "url": "encora.it/shows/thelma-louise/characters/harlan",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4314,
+            "name": "Tamlyn Henderson",
+            "slug": "tamlyn-henderson",
+            "url": "encora.it/performers/tamlyn-henderson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105706,
+            "name": "Max",
+            "slug": "max",
+            "url": "encora.it/shows/thelma-louise/characters/max",
+            "order": 12
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-17T11:19:24.000000Z",
+      "collectedAt": "2026-09-17T11:18:55.000000Z"
+    },
+    {
+      "id": 2038965,
+      "show": "Thelma & Louise",
+      "tour": "Young Vic",
+      "date": {
+        "full_date": "2026-09-04",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "carlotta",
+      "mediaType": "audio",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP3 (Tracked & Untracked) - 191.7 MB",
+      "venue": null,
+      "city": null,
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 3,
+      "wanters": 2,
+      "notes": "NFT except through master until 24th October.",
+      "cast": [
+        {
+          "performer": {
+            "id": 5178,
+            "name": "Amy Lennox",
+            "slug": "amy-lennox",
+            "url": "encora.it/performers/amy-lennox",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105695,
+            "name": "Thelma",
+            "slug": "thelma",
+            "url": "encora.it/shows/thelma-louise/characters/thelma",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 56,
+            "name": "Rachel Tucker",
+            "slug": "rachel-tucker",
+            "url": "encora.it/performers/rachel-tucker",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105696,
+            "name": "Louise",
+            "slug": "louise",
+            "url": "encora.it/shows/thelma-louise/characters/louise",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 18165,
+            "name": "Eleanor Walsh",
+            "slug": "eleanor-walsh",
+            "url": "encora.it/performers/eleanor-walsh",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5947,
+            "name": "Suzie McAdam",
+            "slug": "suzie-mcadam",
+            "url": "encora.it/performers/suzie-mcadam",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 57879,
+            "name": "Alex Given",
+            "slug": "alex-given",
+            "url": "encora.it/performers/alex-given",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 68273,
+            "name": "Kamilla Fernandes",
+            "slug": "kamilla-fernandes",
+            "url": "encora.it/performers/kamilla-fernandes",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10009,
+            "name": "Joshua Dever",
+            "slug": "joshua-dever",
+            "url": "encora.it/performers/joshua-dever",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 117698,
+            "name": "Rushand Chambers",
+            "slug": "rushand-chambers",
+            "url": "encora.it/performers/rushand-chambers",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105699,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/thelma-louise/characters/ensemble",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5635,
+            "name": "Trevor Dion Nicholas",
+            "slug": "trevor-dion-nicholas",
+            "url": "encora.it/performers/trevor-dion-nicholas",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105700,
+            "name": "Hal",
+            "slug": "hal",
+            "url": "encora.it/shows/thelma-louise/characters/hal",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5073,
+            "name": "Samuel Edwards",
+            "slug": "samuel-edwards",
+            "url": "encora.it/performers/samuel-edwards",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105701,
+            "name": "Darryl",
+            "slug": "darryl",
+            "url": "encora.it/shows/thelma-louise/characters/darryl",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 29257,
+            "name": "Alex Gibson-Giorgio",
+            "slug": "alex-gibson-giorgio",
+            "url": "encora.it/performers/alex-gibson-giorgio",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105702,
+            "name": "Jimmy",
+            "slug": "jimmy",
+            "url": "encora.it/shows/thelma-louise/characters/jimmy",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5872,
+            "name": "Jordan Luke Gage",
+            "slug": "jordan-luke-gage",
+            "url": "encora.it/performers/jordan-luke-gage",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105703,
+            "name": "JD",
+            "slug": "jd",
+            "url": "encora.it/shows/thelma-louise/characters/jd",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 99694,
+            "name": "Letitia Hector",
+            "slug": "letitia-hector",
+            "url": "encora.it/performers/letitia-hector",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105704,
+            "name": "Sarah",
+            "slug": "sarah",
+            "url": "encora.it/shows/thelma-louise/characters/sarah",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4314,
+            "name": "Tamlyn Henderson",
+            "slug": "tamlyn-henderson",
+            "url": "encora.it/performers/tamlyn-henderson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105705,
+            "name": "Harlan",
+            "slug": "harlan",
+            "url": "encora.it/shows/thelma-louise/characters/harlan",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4314,
+            "name": "Tamlyn Henderson",
+            "slug": "tamlyn-henderson",
+            "url": "encora.it/performers/tamlyn-henderson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105706,
+            "name": "Max",
+            "slug": "max",
+            "url": "encora.it/shows/thelma-louise/characters/max",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3211,
+            "name": "Jack Butterworth",
+            "slug": "jack-butterworth",
+            "url": "encora.it/performers/jack-butterworth",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105707,
+            "name": "Trooper",
+            "slug": "trooper",
+            "url": "encora.it/shows/thelma-louise/characters/trooper",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3211,
+            "name": "Jack Butterworth",
+            "slug": "jack-butterworth",
+            "url": "encora.it/performers/jack-butterworth",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105708,
+            "name": "Singer",
+            "slug": "singer",
+            "url": "encora.it/shows/thelma-louise/characters/singer",
+            "order": 14
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-17T11:18:27.000000Z",
+      "collectedAt": "2026-09-17T11:17:39.000000Z"
+    },
+    {
       "id": 2038974,
       "show": "Schmigadoon!",
       "tour": "Broadway",
@@ -498010,7 +499931,7 @@
       "city": "Cleveland",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 19,
+      "owners": 20,
       "wanters": 8,
       "notes": null,
       "cast": [
@@ -498153,7 +500074,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 27,
+      "owners": 28,
       "wanters": 11,
       "notes": null,
       "cast": [
@@ -498435,7 +500356,7 @@
       "city": "Cleveland",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 15,
+      "owners": 16,
       "wanters": 5,
       "notes": null,
       "cast": [
@@ -498578,7 +500499,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 10,
+      "owners": 11,
       "wanters": 4,
       "notes": null,
       "cast": [
