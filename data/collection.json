@@ -4834,8 +4834,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 729,
-      "wanters": 71,
+      "owners": 730,
+      "wanters": 72,
       "notes": "Filmed January 3 & 4, 2017 and aired on PBS on October 27, 2017.",
       "cast": [
         {
@@ -10616,7 +10616,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 141,
-      "wanters": 41,
+      "wanters": 42,
       "notes": "Excellent HD capture of one of Jackie's final performances. Promo footage was being filmed this day and her parents were sitting right behind me. She held the final note in Starting Over for 19 seconds. Such a wonderful performance! A",
       "cast": [
         {
@@ -11594,7 +11594,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 236,
-      "wanters": 47,
+      "wanters": 48,
       "notes": "Idina's last performance. An emotional performance by the whole cast, particularly Idina. Her feelings overcome her during Always Starting Over and the Finale, leading to roaring cheers of support from the crowd. There is also a fantastic blooper during What If: Elizabeth's phone rings and the phone is not in her pocket. Chaos ensues. A really fantastic capture with no obstruction, no washout, and just two quick dropouts in Act One. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. A",
       "cast": [
         {
@@ -18599,7 +18599,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 158,
-      "wanters": 60,
+      "wanters": 61,
       "notes": "Excellent HD capture of the final show. The audience was full of fans of the show, so great energy and applause throughout. Includes the only time three lovers were selected, including John Jasper. Touching final curtain speech by the director and Rupert Holmes. Datchery: Bazzard, Murderer: Puffer, Lovers: Helena and Jasper and Rosa Bud. A",
       "cast": [
         {
@@ -19588,7 +19588,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 213,
-      "wanters": 53,
+      "wanters": 54,
       "notes": "Caissie's first as Elphaba, and she tore it up and put it on a silver platter. Beautiful capture and vocals. Kendra is hilarious at this performance. A",
       "cast": [
         {
@@ -19772,7 +19772,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 205,
-      "wanters": 70,
+      "wanters": 71,
       "notes": "Skips from the end of I'm Not That Girl/scene with Morrible straight into the beginning of Defying Gravity",
       "cast": [
         {
@@ -21502,7 +21502,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 291,
+      "owners": 293,
       "wanters": 50,
       "notes": "Excellent HD capture of the new campy musical filled with 70s hits! The cast does a wonderful job with camp and really commits, which makes it a very fun show! A",
       "cast": [
@@ -24892,7 +24892,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 647,
+      "owners": 648,
       "wanters": 155,
       "notes": "Beautiful HD capture from the orchestra of Oak and Ingrid's final performances. Hands down the best capture of this show and from the perfect angle. All drama aside, Oak gave a rousing performance. A",
       "cast": [
@@ -30201,8 +30201,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 165,
-      "wanters": 56,
+      "owners": 166,
+      "wanters": 55,
       "notes": "Great HD capture of the final Broadway cast. Filmed just 2 days before the show closed. Keke is great as Ella but a very different voice from Laura and Paige. One slight head at the bottom at times but very visible. No washouts.",
       "cast": [
         {
@@ -35374,25 +35374,6 @@
         },
         {
           "performer": {
-            "id": 4153,
-            "name": "Carlos Lopez",
-            "slug": "carlos-lopez",
-            "url": "encora.it/performers/carlos-lopez",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 1752,
-            "name": "Eugene Krabs",
-            "slug": "eugene-krabs",
-            "url": "encora.it/shows/the-spongebob-musical/characters/eugene-krabs",
-            "order": 6
-          },
-          "status": null
-        },
-        {
-          "performer": {
             "id": 1607,
             "name": "Nick Blaemire",
             "slug": "nick-blaemire",
@@ -35406,7 +35387,7 @@
             "name": "Sheldon Plankton",
             "slug": "sheldon-plankton",
             "url": "encora.it/shows/the-spongebob-musical/characters/sheldon-plankton",
-            "order": 7
+            "order": 5
           },
           "status": null
         },
@@ -35425,7 +35406,26 @@
             "name": "Karen the Computer",
             "slug": "karen-computer",
             "url": "encora.it/shows/the-spongebob-musical/characters/karen-computer",
-            "order": 8
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4153,
+            "name": "Carlos Lopez",
+            "slug": "carlos-lopez",
+            "url": "encora.it/performers/carlos-lopez",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1752,
+            "name": "Eugene Krabs",
+            "slug": "eugene-krabs",
+            "url": "encora.it/shows/the-spongebob-musical/characters/eugene-krabs",
+            "order": 7
           },
           "status": null
         },
@@ -35444,26 +35444,7 @@
             "name": "Pearl Krabs",
             "slug": "pearl-krabs",
             "url": "encora.it/shows/the-spongebob-musical/characters/pearl-krabs",
-            "order": 9
-          },
-          "status": null
-        },
-        {
-          "performer": {
-            "id": 4185,
-            "name": "Jason Michael Snow",
-            "slug": "jason-michael-snow",
-            "url": "encora.it/performers/jason-michael-snow",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 1757,
-            "name": "Patchy the Pirate",
-            "slug": "patchy-pirate",
-            "url": "encora.it/shows/the-spongebob-musical/characters/patchy-pirate",
-            "order": 11
+            "order": 8
           },
           "status": null
         },
@@ -35482,7 +35463,26 @@
             "name": "Mrs. Puff",
             "slug": "mrs-puff",
             "url": "encora.it/shows/the-spongebob-musical/characters/mrs-puff",
-            "order": 14
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4185,
+            "name": "Jason Michael Snow",
+            "slug": "jason-michael-snow",
+            "url": "encora.it/performers/jason-michael-snow",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1757,
+            "name": "Patchy the Pirate",
+            "slug": "patchy-pirate",
+            "url": "encora.it/shows/the-spongebob-musical/characters/patchy-pirate",
+            "order": 15
           },
           "status": null
         }
@@ -35511,7 +35511,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 251,
+      "owners": 252,
       "wanters": 70,
       "notes": "Shoshana, David, Rue and Michelle's last performance. The whole cast was really having fun, very high audience energy throughout. Megan and Shoshana have a really funny bit during Popular, and the crowd went wild. Camera wanders quite a bit and is shaky at points due to the blind filming, plus some spotlight washout. Still, this recording is an absolute gem. Includes Playbill scans and Megan's post-show speech.",
       "cast": [
@@ -40732,8 +40732,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 437,
-      "wanters": 79,
+      "owners": 438,
+      "wanters": 78,
       "notes": "25th Anniversary proshot, filmed at the Prince Edward Theatre in London. Commercially released in 2016.",
       "cast": [
         {
@@ -45692,8 +45692,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 143,
-      "wanters": 40,
+      "owners": 144,
+      "wanters": 39,
       "notes": null,
       "cast": [
         {
@@ -47150,8 +47150,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 246,
-      "wanters": 89,
+      "owners": 245,
+      "wanters": 90,
       "notes": null,
       "cast": [
         {
@@ -48528,7 +48528,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 204,
+      "owners": 205,
       "wanters": 36,
       "notes": "Incredible quality for its age, but doesnt compare A/V wise to digital age videos.  Perfectly watchable, has good facial details and solid albeit bass-heavy sound.",
       "cast": [
@@ -54316,7 +54316,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 92,
+      "owners": 93,
       "wanters": 30,
       "notes": null,
       "cast": [
@@ -60068,7 +60068,7 @@
       "city": "Los Angeles",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 117,
+      "owners": 118,
       "wanters": 50,
       "notes": null,
       "cast": [
@@ -60973,8 +60973,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 94,
-      "wanters": 30,
+      "owners": 95,
+      "wanters": 29,
       "notes": "Multiple copies are in circulation, notably a 3.08 GB VOB/smalls (more glitches, duller coloring) and a 3.8 GB VOB/smalls (custom menu, sharper resolution, higher contrast). See screenshots for comparison.",
       "cast": [
         {
@@ -73127,7 +73127,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 116,
-      "wanters": 47,
+      "wanters": 48,
       "notes": "Some gen loss and low audio. Pro-shot of the one-night-only Actors Fund benefit concert.",
       "cast": [
         {
@@ -104928,7 +104928,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 684,
+      "owners": 685,
       "wanters": 76,
       "notes": null,
       "cast": [
@@ -105610,7 +105610,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 327,
+      "owners": 326,
       "wanters": 51,
       "notes": "Recorded from the left mezzanine.",
       "cast": [
@@ -111003,7 +111003,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 366,
+      "owners": 367,
       "wanters": 72,
       "notes": "You can differentiate this boot from the other one by the same master by the fact that there is no rain at the end of act one. ",
       "cast": [
@@ -122961,8 +122961,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 69,
-      "wanters": 56,
+      "owners": 70,
+      "wanters": 55,
       "notes": "About 20 minutes of proshot footage. Includes No One Mourns the Wicked, The Wizard and I, Dancing Through Life, Popular, One Short Day, Defying Gravity, Thank Goodness, Wonderful, As Long As You're Mine, and For Good.",
       "cast": [
         {
@@ -124553,8 +124553,8 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 23,
-      "wanters": 13,
+      "owners": 25,
+      "wanters": 12,
       "notes": null,
       "cast": [
         {
@@ -133515,7 +133515,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 28,
-      "wanters": 29,
+      "wanters": 30,
       "notes": "Great capture of this performance. Very nice shot and great saturated color. It's filmed in 16:9 with fade-in and outs at the beginning and end of each act. Includes playbill scans.",
       "cast": [
         {
@@ -138058,7 +138058,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 21,
+      "owners": 22,
       "wanters": 3,
       "notes": null,
       "cast": [
@@ -146253,7 +146253,7 @@
       "city": "Cincinnati",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 74,
+      "owners": 75,
       "wanters": 24,
       "notes": "This was supposed to be a Kristin Chenoweth concert but due to an illness, these two stepped in, which made for some great jokes about Kristin. The two have great chemistry and it's their first time performing together. It was really a sensational concert with great stories and wonderful vocals that must be heard. Songs include: All That Jazz, Back to Before, Ring Them Bells, Till There Was You, I Could Have Danced All Night, Part of Your World, The Wizard and I, Popular, Defying Gravity, For Good, and I Will Never Leave You. A+",
       "cast": [
@@ -156453,7 +156453,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 165,
-      "wanters": 42,
+      "wanters": 43,
       "notes": "Near-perfect capture of Talia and Allie's first performance together, both of them settling nicely into their roles. Mix of close-ups and stage shots with no obstructions. A couple moments of exposure/focus problems, that are corrected quickly.",
       "cast": [
         {
@@ -158569,7 +158569,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 22,
-      "wanters": 5,
+      "wanters": 6,
       "notes": null,
       "cast": [
         {
@@ -161198,7 +161198,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 662,
+      "owners": 663,
       "wanters": 151,
       "notes": "This is the only publicly released video recording of this acclaimed, sold out production with the original West End revival cast. This was my first time recording and as a result, mistakes were made. Foolishly, I set the exposure to automatic, so the recording suffered from spotlight washout (I haven't made this mistake since). The washout has mostly been fixed in editing but it's impossible to fully correct. The recording has more zooms than I would like, to prevent further washout. Fortunately, this production is minimalistic and performance-focused so it doesn't hinder the overall experience of the show. The recording is mainly filmed in close-ups and mediums. A head is sometimes visible in the wide shots of the musical numbers. Recording includes the curtain call and marquee.",
       "cast": [
@@ -167178,7 +167178,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 209,
+      "owners": 208,
       "wanters": 105,
       "notes": "Messy 4K capture of Milky White. When Milky White isn't on stage, this is a fairly normal (if messy and obstructed) video of Into the Woods. When Milky White is on stage, every attempt is made to focus solely on the puppet and puppeteer. Gavin and Sara break after Gavin falls over during their entrance for the second half of Any Moment. The railing obstructs quite a bit of action, especially when actors are sitting or laying on the floor, though Act Two is a lot better than Act One. Increased moments of wandering and unfocusing are present, as well as increased spotlight washout. Includes curtain call, audio is fed from external source.\n\n",
       "cast": [
@@ -176418,7 +176418,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 41,
+      "owners": 42,
       "wanters": 4,
       "notes": "A concert of Sondheim covers",
       "cast": [
@@ -176995,7 +176995,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 139,
+      "owners": 140,
       "wanters": 25,
       "notes": "A decent amount of washout, especially in Elphaba shots, but it is a nice steady video with a mixture of wide and medium shots. Do not post online.",
       "cast": [
@@ -177369,7 +177369,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 238,
+      "owners": 239,
       "wanters": 35,
       "notes": "Pretty perfect capture of this cast; there are a few moments where the person in front of me leans and blocks some side action. Do not post online.",
       "cast": [
@@ -187234,8 +187234,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 1112,
-      "wanters": 124,
+      "owners": 1113,
+      "wanters": 123,
       "notes": "Excellent 4K capture of this revival! Increased wandering/readjustment and unfocusing throughout. Some minor head obstruction in the second act that is worked around very well. Other obstruction throughout only lasts for a second or two each time. Due to the angle, some of Johanna's moments are blocked off by the archway. Includes curtain call, audio is fed from external source.",
       "cast": [
         {
@@ -187747,7 +187747,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 438,
+      "owners": 439,
       "wanters": 67,
       "notes": "Excellent 4K capture of this revival! During the final scene Andrew got a nosebleed but carried on. Minimal wandering and unfocusing throughout. Some washout on wider shots. Includes curtain call, audio is fed from external source.",
       "cast": [
@@ -192092,7 +192092,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 146,
-      "wanters": 42,
+      "wanters": 43,
       "notes": "Great 4K capture of this new production! Some wandering and unfocusing throughout, more so in Act One than in Act Two. Some heads are visible on the wider shots but never obstruct anything. Includes curtain call, audio is fed from external source.",
       "cast": [
         {
@@ -194100,7 +194100,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 164,
+      "owners": 165,
       "wanters": 38,
       "notes": "Great 4K capture of this stunning new adaptation! Some minor head obstruction on the sides that only block off action when characters sit or lay down. Some action on the extreme sides are not captured due to proximity to the stage. Some wandering and unfocusing throughout. About 15 minutes in, there's a sequence of short blackouts lasting a total of one minute. Includes curtain call, audio is fed from external source.",
       "cast": [
@@ -194319,7 +194319,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 172,
+      "owners": 173,
       "wanters": 67,
       "notes": "Filmed in 4K, released in 1080p and 4K. Complete capture of the show (no missing video segments as with previous Chicago videos). A little bit of obstruction from a head, but filmed around as well as possible.",
       "cast": [
@@ -202667,7 +202667,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 368,
+      "owners": 369,
       "wanters": 58,
       "notes": "Excellent wide-shot phone boot from the mid-orchestra. First minute and a half are overexposed, but it's fixed after a slight dropout. Zero obstruction except when a couple people walk out during Build The Wall. Doubt Comes In is mostly dark, that scene is always hard to capture cuz its so dark. Includes We Raise Our Cups.\nAbsolutely in love with this new cast. Amazing performances from all, but my favorite is definitely Phillip Boykin. He brings complete new life to Hades. Includes video, audio (tracked by Medium Observation and untracked), and cast board photo.",
       "cast": [
@@ -203587,7 +203587,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 71,
-      "wanters": 26,
+      "wanters": 27,
       "notes": "Beautiful HD capture with a good mix of close-ups, medium- and wide-shots. No curtain call.",
       "cast": [
         {
@@ -205485,7 +205485,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 150,
-      "wanters": 58,
+      "wanters": 59,
       "notes": "Master released this as month and year. Please do not add the full date even if you know it.",
       "cast": [
         {
@@ -213357,7 +213357,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 183,
+      "owners": 184,
       "wanters": 100,
       "notes": null,
       "cast": [
@@ -216093,7 +216093,7 @@
       "city": "Millburn",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 458,
+      "owners": 459,
       "wanters": 81,
       "notes": null,
       "cast": [
@@ -219388,7 +219388,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 293,
+      "owners": 294,
       "wanters": 22,
       "notes": "Technical Notes: Stageshot. Excellent capture. No obstructions. Almost no washout. No dropouts. Excellent audio (though is apologetically bombarded by frequent scream laughing from me.) Theres a brief show stop immediately after the title number, and the video captures the curtain coming down and the resuming of the performance. The first act unfortunately loses its picture a few minutes after Not Getting Married today - especially unfortunate as the performance was one of the last which featured rain during Marry Me a Little. Shot from front row stage left. [A]\r\nPerformance Notes: This production is the most premium musical theatre experience I have ever had in my life. I could simply go on for hours about how magnificent this entire production was - Katrinas bottomlessly fleshed-out interpretation of Bobbie, Patti LuPones masterclass display of performing, Jennifer Simards nomination-worthy comedy, Christopher Siebers perfect matching and prodding of his scene partner, Claybourne Elders show-stealing acting, Bobby Contes booming vocals, Marianne Elliots ability to make this total re-envisioning utterly airtight dramaturgically, Bunny Christies masterful and detailed set design, Neil Austins exacting lighting design executed to meticulous precision, Ian Dickinsons complex sound design. This is a thorough gift to Broadway and this video captures a performance at its absolutely perfect settling point.",
       "cast": [
@@ -220917,7 +220917,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 26,
-      "wanters": 29,
+      "wanters": 30,
       "notes": "Filmed in 4K, released as 1080p and 4K. Minimal obstruction on far left side of screen when action is there. A couple brief dropouts due to late-comers or people getting up for/returning from the restroom. Video missing (audio only) for most of Over the Moon, Seasons of Love, and Happy New Year. Most of curtain call is obstructed.",
       "cast": [
         {
@@ -221515,7 +221515,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 122,
+      "owners": 123,
       "wanters": 74,
       "notes": "Nice capture of Madeline and Lauren as Eurydice and Persephone! Shot around heads, a few very brief dropouts for safety and a little wandery at times.",
       "cast": [
@@ -234415,7 +234415,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 927,
+      "owners": 928,
       "wanters": 123,
       "notes": null,
       "cast": [
@@ -243300,7 +243300,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 757,
+      "owners": 758,
       "wanters": 114,
       "notes": null,
       "cast": [
@@ -245480,7 +245480,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 480,
+      "owners": 482,
       "wanters": 112,
       "notes": null,
       "cast": [
@@ -248546,7 +248546,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 51,
+      "owners": 53,
       "wanters": 11,
       "notes": null,
       "cast": [
@@ -249780,8 +249780,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 751,
-      "wanters": 52,
+      "owners": 752,
+      "wanters": 51,
       "notes": null,
       "cast": [
         {
@@ -251624,7 +251624,7 @@
       "city": "Los Angeles",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 153,
+      "owners": 154,
       "wanters": 27,
       "notes": null,
       "cast": [
@@ -252552,7 +252552,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 201,
+      "owners": 202,
       "wanters": 109,
       "notes": null,
       "cast": [
@@ -253579,8 +253579,8 @@
       "city": "Cambridge",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 180,
-      "wanters": 142,
+      "owners": 182,
+      "wanters": 140,
       "notes": "The video, including clips or audio, should never be posted in any public online space without my consent. This includes but is not limited to Reddit, TikTok, YouTube, Instagram, Twitter/X, and Discord.",
       "cast": [
         {
@@ -256016,7 +256016,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 240,
-      "wanters": 83,
+      "wanters": 84,
       "notes": null,
       "cast": [
         {
@@ -263900,7 +263900,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 973,
+      "owners": 974,
       "wanters": 135,
       "notes": null,
       "cast": [
@@ -265520,7 +265520,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 962,
+      "owners": 963,
       "wanters": 192,
       "notes": null,
       "cast": [
@@ -270484,7 +270484,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 193,
+      "owners": 194,
       "wanters": 92,
       "notes": null,
       "cast": [
@@ -271057,8 +271057,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 107,
-      "wanters": 58,
+      "owners": 108,
+      "wanters": 57,
       "notes": null,
       "cast": [
         {
@@ -271732,7 +271732,7 @@
       "city": "Washington",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 433,
+      "owners": 434,
       "wanters": 79,
       "notes": null,
       "cast": [
@@ -281632,8 +281632,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 31,
-      "wanters": 28,
+      "owners": 32,
+      "wanters": 27,
       "notes": null,
       "cast": [
         {
@@ -287938,7 +287938,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 418,
+      "owners": 419,
       "wanters": 79,
       "notes": null,
       "cast": [
@@ -288005,7 +288005,7 @@
       "city": "Washington",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 514,
+      "owners": 515,
       "wanters": 113,
       "notes": null,
       "cast": [
@@ -289461,7 +289461,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 46,
-      "wanters": 40,
+      "wanters": 41,
       "notes": null,
       "cast": [
         {
@@ -294263,7 +294263,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 396,
+      "owners": 395,
       "wanters": 90,
       "notes": null,
       "cast": [
@@ -308172,7 +308172,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 397,
+      "owners": 398,
       "wanters": 56,
       "notes": null,
       "cast": [
@@ -317726,7 +317726,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 501,
+      "owners": 502,
       "wanters": 229,
       "notes": null,
       "cast": [
@@ -319203,7 +319203,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 435,
+      "owners": 436,
       "wanters": 137,
       "notes": null,
       "cast": [
@@ -325601,7 +325601,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 974,
+      "owners": 975,
       "wanters": 76,
       "notes": "Filmed at Wyndham's Theatre from September 9-11 2024 during the show's West End transfer from its original run at the Donmar Warehouse. \n\nMultiple versions circulate:\n- Censored audio (Aired on PBS's Great Performances May 9, 2025)\n- Uncensored audio with hardcoded timestamp in top-left corner and different scene changes, leaked theatrical release version\n- Full uncensored version ripped from Amazon. Swear words are included, and the camera doesn't cut away during them. No time code present.\n\nCheck with traders.",
       "cast": [
@@ -333731,7 +333731,7 @@
       "city": "Washington",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 13,
+      "owners": 14,
       "wanters": 6,
       "notes": null,
       "cast": [
@@ -343925,7 +343925,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 70,
+      "owners": 71,
       "wanters": 58,
       "notes": null,
       "cast": [
@@ -380636,7 +380636,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 34,
-      "wanters": 49,
+      "wanters": 50,
       "notes": null,
       "cast": [
         {
@@ -390647,7 +390647,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 226,
+      "owners": 228,
       "wanters": 56,
       "notes": null,
       "cast": [
@@ -394309,7 +394309,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 262,
+      "owners": 264,
       "wanters": 27,
       "notes": null,
       "cast": [
@@ -394794,7 +394794,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 88,
+      "owners": 89,
       "wanters": 37,
       "notes": null,
       "cast": [
@@ -395310,7 +395310,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 75,
+      "owners": 76,
       "wanters": 62,
       "notes": null,
       "cast": [
@@ -418588,7 +418588,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 239,
+      "owners": 240,
       "wanters": 27,
       "notes": null,
       "cast": [
@@ -420091,7 +420091,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 122,
-      "wanters": 71,
+      "wanters": 72,
       "notes": "Starts towards the end of the opening number. Shot almost entirely in mediums and close-ups.\n\nThis is a production of the revised edition of Bat Boy, which features lots of changes from the original. Songs were cut, added, replaced, and rewritten, and certain plot details are changed.",
       "cast": [
         {
@@ -421079,7 +421079,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 135,
+      "owners": 136,
       "wanters": 75,
       "notes": null,
       "cast": [
@@ -421282,8 +421282,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 285,
-      "wanters": 128,
+      "owners": 287,
+      "wanters": 127,
       "notes": null,
       "cast": [
         {
@@ -421749,7 +421749,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 5,
-      "wanters": 11,
+      "wanters": 12,
       "notes": null,
       "cast": [
         {
@@ -426224,8 +426224,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 116,
-      "wanters": 96,
+      "owners": 117,
+      "wanters": 95,
       "notes": null,
       "cast": [
         {
@@ -437217,7 +437217,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 85,
+      "owners": 86,
       "wanters": 59,
       "notes": null,
       "cast": [
@@ -442683,8 +442683,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 116,
-      "wanters": 105,
+      "owners": 117,
+      "wanters": 104,
       "notes": null,
       "cast": [
         {
@@ -444283,7 +444283,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 108,
+      "owners": 109,
       "wanters": 21,
       "notes": null,
       "cast": [
@@ -444799,7 +444799,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 29,
+      "owners": 30,
       "wanters": 7,
       "notes": null,
       "cast": [
@@ -445527,8 +445527,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 196,
-      "wanters": 61,
+      "owners": 198,
+      "wanters": 60,
       "notes": null,
       "cast": [
         {
@@ -446351,7 +446351,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 100,
+      "owners": 101,
       "wanters": 76,
       "notes": null,
       "cast": [
@@ -446400,7 +446400,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 292,
-      "wanters": 134,
+      "wanters": 135,
       "notes": null,
       "cast": [
         {
@@ -455362,7 +455362,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 14,
+      "owners": 15,
       "wanters": 17,
       "notes": null,
       "cast": [
@@ -461633,7 +461633,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 11,
+      "owners": 12,
       "wanters": 6,
       "notes": null,
       "cast": [
@@ -468505,7 +468505,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 120,
+      "owners": 121,
       "wanters": 27,
       "notes": null,
       "cast": [
@@ -475993,8 +475993,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 21,
-      "wanters": 64,
+      "owners": 22,
+      "wanters": 63,
       "notes": null,
       "cast": [
         {
@@ -478325,7 +478325,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 38,
+      "owners": 39,
       "wanters": 10,
       "notes": null,
       "cast": [
@@ -479475,7 +479475,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 24,
+      "owners": 25,
       "wanters": 13,
       "notes": null,
       "cast": [
@@ -483487,7 +483487,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 46,
+      "owners": 47,
       "wanters": 9,
       "notes": null,
       "cast": [
@@ -497531,7 +497531,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 14,
+      "owners": 15,
       "wanters": 1,
       "notes": null,
       "cast": [
@@ -502869,8 +502869,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 240,
-      "wanters": 47,
+      "owners": 241,
+      "wanters": 46,
       "notes": "Footage was captured during three live performances on February 28 and March 1, 2025. Premiered on June 8, 2026; released in the United States on July 24, 2026. https://www.imdb.com/title/tt36307021/",
       "cast": [
         {
@@ -504357,7 +504357,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 134,
+      "owners": 137,
       "wanters": 27,
       "notes": "Originally circulated as an SD mkv (4.20 GB).\nAn HD mp4 (10.4 GB) version is also circulating - upscaled video with aspect ratio corrections and audio converted to stereo.\nThe English ASS subtitles assume a video resolution of 854x480, the same as the screenshots.\nDaniel Cooney is credited as Dan Cooney.",
       "cast": [
@@ -504956,8 +504956,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 113,
-      "wanters": 67,
+      "owners": 114,
+      "wanters": 66,
       "notes": "Multi-camera archival pro-shot of the original Broadway cast filmed during previews.\n\nCurrently circulating version was uploaded to Vimeo in August 2026 by the production's casting director, and has hardcoded English subtitles and an improper framerate (so the source is presumably a screen recording).",
       "cast": [
         {
@@ -515733,8 +515733,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 17,
-      "wanters": 18,
+      "owners": 18,
+      "wanters": 17,
       "notes": null,
       "cast": [
         {
@@ -516239,7 +516239,7 @@
       "city": "Cleveland",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 20,
+      "owners": 21,
       "wanters": 10,
       "notes": null,
       "cast": [
@@ -516664,7 +516664,7 @@
       "city": "Cleveland",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 19,
+      "owners": 20,
       "wanters": 5,
       "notes": null,
       "cast": [
@@ -516807,7 +516807,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 15,
+      "owners": 16,
       "wanters": 3,
       "notes": null,
       "cast": [
@@ -518368,8 +518368,8 @@
       "city": "Cleveland",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 4,
-      "wanters": 6,
+      "owners": 5,
+      "wanters": 5,
       "notes": "Please do not post/gift/freely share this audio or post any clips anywhere online. This audio is never to be sold. NFT except through master.",
       "cast": [
         {
