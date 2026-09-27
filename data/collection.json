@@ -1,5 +1,5 @@
 {
-  "total": 1684,
+  "total": 1688,
   "items": [
     {
       "id": 5,
@@ -199,7 +199,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -2975,7 +2975,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -2994,7 +2994,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -3013,7 +3013,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -15526,7 +15526,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 658,
+      "owners": 659,
       "wanters": 75,
       "notes": "Actors Benefit Performance. Includes post-show speeches.",
       "cast": [
@@ -20037,7 +20037,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20056,7 +20056,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20075,7 +20075,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20094,7 +20094,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20113,7 +20113,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20132,7 +20132,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20151,7 +20151,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20170,7 +20170,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20189,7 +20189,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20208,7 +20208,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20227,7 +20227,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -20246,7 +20246,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -24892,8 +24892,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 648,
-      "wanters": 155,
+      "owners": 649,
+      "wanters": 154,
       "notes": "Beautiful HD capture from the orchestra of Oak and Ingrid's final performances. Hands down the best capture of this show and from the perfect angle. All drama aside, Oak gave a rousing performance. A",
       "cast": [
         {
@@ -29494,8 +29494,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 89,
-      "wanters": 31,
+      "owners": 90,
+      "wanters": 30,
       "notes": null,
       "cast": [
         {
@@ -30077,7 +30077,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 127,
+      "owners": 128,
       "wanters": 40,
       "notes": "Excellent HD capture of Brandy Norwood joining the cast as Roxie. Everything is nicely captured, though a few minor and quick parts to the extreme far right can be blocked a few times. Brandy did an excellent job in the role and was really giving a solid performance! A-",
       "cast": [
@@ -33455,6 +33455,510 @@
       ],
       "updatedAt": "2026-08-14T04:21:01.000000Z",
       "collectedAt": "2026-08-14T04:12:50.000000Z"
+    },
+    {
+      "id": 1345,
+      "show": "Amélie",
+      "tour": "Broadway",
+      "date": {
+        "full_date": "2017-03-29",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "SunsetBlvd79",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "VOB + smalls - 6.27 GB",
+      "venue": "Walter Kerr Theatre",
+      "city": "New York",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 286,
+      "wanters": 66,
+      "notes": "Excellent HD capture of the new whimsical musical. The entire cast gives great performances in this fun and sweet tale of a dreamer! A-",
+      "cast": [
+        {
+          "performer": {
+            "id": 332,
+            "name": "Phillipa Soo",
+            "slug": "phillipa-soo",
+            "url": "encora.it/performers/phillipa-soo",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3308,
+            "name": "Amélie Poulain",
+            "slug": "amelie-poulain",
+            "url": "encora.it/shows/amelie/characters/amelie-poulain",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 748,
+            "name": "Adam Chanler-Berat",
+            "slug": "adam-chanler-berat",
+            "url": "encora.it/performers/adam-chanler-berat",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3310,
+            "name": "Nino Quincampoix",
+            "slug": "nino-quincampoix",
+            "url": "encora.it/shows/amelie/characters/nino-quincampoix",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3937,
+            "name": "Tony Sheldon",
+            "slug": "tony-sheldon",
+            "url": "encora.it/performers/tony-sheldon",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3311,
+            "name": "Raymond Dufayel",
+            "slug": "raymond-dufayel",
+            "url": "encora.it/shows/amelie/characters/raymond-dufayel",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 687,
+            "name": "Manoel Felciano",
+            "slug": "manoel-felciano",
+            "url": "encora.it/performers/manoel-felciano",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3313,
+            "name": "Raphaël Poulain",
+            "slug": "raphael-poulain",
+            "url": "encora.it/shows/amelie/characters/raphael-poulain",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2786,
+            "name": "Alison Cimmet",
+            "slug": "alison-cimmet",
+            "url": "encora.it/performers/alison-cimmet",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3315,
+            "name": "Amandine Poulain",
+            "slug": "amandine-poulain",
+            "url": "encora.it/shows/amelie/characters/amandine-poulain",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3936,
+            "name": "Savvy Crawford",
+            "slug": "savvy-crawford",
+            "url": "encora.it/performers/savvy-crawford",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3309,
+            "name": "Young Amélie",
+            "slug": "young-amelie",
+            "url": "encora.it/shows/amelie/characters/young-amelie",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2786,
+            "name": "Alison Cimmet",
+            "slug": "alison-cimmet",
+            "url": "encora.it/performers/alison-cimmet",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3316,
+            "name": "Philomene",
+            "slug": "philomene",
+            "url": "encora.it/shows/amelie/characters/philomene",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1960,
+            "name": "Alyse Alan Louis",
+            "slug": "alyse-alan-louis",
+            "url": "encora.it/performers/alyse-alan-louis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3319,
+            "name": "Georgette",
+            "slug": "georgette",
+            "url": "encora.it/shows/amelie/characters/georgette",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3938,
+            "name": "Harriett D. Foy",
+            "slug": "harriett-d-foy",
+            "url": "encora.it/performers/harriett-d-foy",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3317,
+            "name": "Suzanne",
+            "slug": "suzanne",
+            "url": "encora.it/shows/amelie/characters/suzanne",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 687,
+            "name": "Manoel Felciano",
+            "slug": "manoel-felciano",
+            "url": "encora.it/performers/manoel-felciano",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3314,
+            "name": "Bretodeau",
+            "slug": "bretodeau",
+            "url": "encora.it/shows/amelie/characters/bretodeau",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3941,
+            "name": "Heath Calvert",
+            "slug": "heath-calvert",
+            "url": "encora.it/performers/heath-calvert",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3325,
+            "name": "Lucien",
+            "slug": "lucien",
+            "url": "encora.it/shows/amelie/characters/lucien",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3937,
+            "name": "Tony Sheldon",
+            "slug": "tony-sheldon",
+            "url": "encora.it/performers/tony-sheldon",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3312,
+            "name": "Collignon",
+            "slug": "collignon",
+            "url": "encora.it/shows/amelie/characters/collignon",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3939,
+            "name": "Maria-Christina Oliveras",
+            "slug": "maria-christina-oliveras",
+            "url": "encora.it/performers/maria-christina-oliveras",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3318,
+            "name": "Gina",
+            "slug": "gina",
+            "url": "encora.it/shows/amelie/characters/gina",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3940,
+            "name": "Randy Blair",
+            "slug": "randy-blair",
+            "url": "encora.it/performers/randy-blair",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3324,
+            "name": "Elton John",
+            "slug": "elton-john",
+            "url": "encora.it/shows/amelie/characters/elton-john",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3941,
+            "name": "Heath Calvert",
+            "slug": "heath-calvert",
+            "url": "encora.it/performers/heath-calvert",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3326,
+            "name": "Mysterious Man",
+            "slug": "mysterious-man",
+            "url": "encora.it/shows/amelie/characters/mysterious-man",
+            "order": 15
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 869,
+            "name": "Paul Whitty",
+            "slug": "paul-whitty",
+            "url": "encora.it/performers/paul-whitty",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3328,
+            "name": "Fluffy",
+            "slug": "fluffy",
+            "url": "encora.it/shows/amelie/characters/fluffy",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1960,
+            "name": "Alyse Alan Louis",
+            "slug": "alyse-alan-louis",
+            "url": "encora.it/performers/alyse-alan-louis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3320,
+            "name": "Sylvie",
+            "slug": "sylvie",
+            "url": "encora.it/shows/amelie/characters/sylvie",
+            "order": 17
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3940,
+            "name": "Randy Blair",
+            "slug": "randy-blair",
+            "url": "encora.it/performers/randy-blair",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3322,
+            "name": "Hipolito",
+            "slug": "hipolito",
+            "url": "encora.it/shows/amelie/characters/hipolito",
+            "order": 18
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 869,
+            "name": "Paul Whitty",
+            "slug": "paul-whitty",
+            "url": "encora.it/performers/paul-whitty",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3329,
+            "name": "Collignon's Father",
+            "slug": "collignons-father",
+            "url": "encora.it/shows/amelie/characters/collignons-father",
+            "order": 19
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3940,
+            "name": "Randy Blair",
+            "slug": "randy-blair",
+            "url": "encora.it/performers/randy-blair",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3323,
+            "name": "Suicidal Tourist",
+            "slug": "suicidal-tourist",
+            "url": "encora.it/shows/amelie/characters/suicidal-tourist",
+            "order": 20
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1960,
+            "name": "Alyse Alan Louis",
+            "slug": "alyse-alan-louis",
+            "url": "encora.it/performers/alyse-alan-louis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3321,
+            "name": "Collignon's Mother",
+            "slug": "collignons-mother",
+            "url": "encora.it/shows/amelie/characters/collignons-mother",
+            "order": 22
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 869,
+            "name": "Paul Whitty",
+            "slug": "paul-whitty",
+            "url": "encora.it/performers/paul-whitty",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3330,
+            "name": "Joseph",
+            "slug": "joseph",
+            "url": "encora.it/shows/amelie/characters/joseph",
+            "order": 23
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3943,
+            "name": "David Andino",
+            "slug": "david-andino",
+            "url": "encora.it/performers/david-andino",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3331,
+            "name": "Blind Beggar",
+            "slug": "blind-beggar",
+            "url": "encora.it/shows/amelie/characters/blind-beggar",
+            "order": 24
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3941,
+            "name": "Heath Calvert",
+            "slug": "heath-calvert",
+            "url": "encora.it/performers/heath-calvert",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 12474,
+            "name": "Adrien Wells",
+            "slug": "adrien-wells",
+            "url": "encora.it/shows/amelie/characters/adrien-wells",
+            "order": 27
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3943,
+            "name": "David Andino",
+            "slug": "david-andino",
+            "url": "encora.it/performers/david-andino",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3332,
+            "name": "Garden Gnome",
+            "slug": "garden-gnome",
+            "url": "encora.it/shows/amelie/characters/garden-gnome",
+            "order": 29
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-27T07:23:28.000000Z",
+      "collectedAt": "2026-09-27T07:22:55.000000Z"
     },
     {
       "id": 1346,
@@ -43323,7 +43827,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 142,
-      "wanters": 51,
+      "wanters": 52,
       "notes": "Occasional coverups and loss of focus, but overall, not bad. B+\nMultiple versions are circulating — the 3.63 GB VOB file is much higher quality than either the 4.31 GB or 4.51 GB VOB file (see screenshots).",
       "cast": [
         {
@@ -44090,7 +44594,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44109,7 +44613,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44128,7 +44632,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44147,7 +44651,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44166,7 +44670,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44185,7 +44689,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44204,7 +44708,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44223,7 +44727,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44242,7 +44746,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44261,7 +44765,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44280,7 +44784,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44299,7 +44803,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44318,7 +44822,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44337,7 +44841,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44356,7 +44860,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44375,7 +44879,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44394,7 +44898,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44413,7 +44917,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44432,7 +44936,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44451,7 +44955,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44470,7 +44974,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44489,7 +44993,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44508,7 +45012,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44527,7 +45031,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -44546,7 +45050,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         }
@@ -48563,7 +49067,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48582,7 +49086,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48601,7 +49105,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48620,7 +49124,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48639,7 +49143,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48658,7 +49162,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48677,7 +49181,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48696,7 +49200,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48715,7 +49219,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48734,7 +49238,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48753,7 +49257,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48772,7 +49276,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -48791,7 +49295,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -53725,7 +54229,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 167,
+      "owners": 168,
       "wanters": 81,
       "notes": "Some spotlight washout, but there is little generation loss and the action is followed well. Sounds understandable, and of course it's wonderful to see Chita's performance. A transfer from a higher generation/worse quality tape also exists with excerpts from the November 18th show at the end.\nScreenshots are from both a higher generation/lower quality version and a lower generation version for comparison. Please confirm with the trader which version they have.\nMultiple versions circulate, with different dates (November 4, November 5, November 18). Exact date is unclear.\nAlso sometimes mislabeled as a 1993 video from the Broadway production.",
       "cast": [
@@ -63952,7 +64456,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -63971,7 +64475,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -64180,7 +64684,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -64478,7 +64982,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -64497,7 +65001,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -68583,8 +69087,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 309,
-      "wanters": 61,
+      "owners": 310,
+      "wanters": 60,
       "notes": "This 1080p HD proshot with soundboard audio was released to Netflix in 2013, but was filmed in mid-December of 2009, a few months before the production closed. File information varies across traders.\nLeah Greenhaus and Marissa O'Donnell performed as Young Fiona and Teen Fiona, respectively, in I Know It's Today. Rozi Baker performed as Young Fiona in Big Bright Beautiful World and I'm a Believer, while Tessa Albertson performed as Teen Fiona in I'm a Believer. Swings and previous cast members were included as Duloc Dolls in the ensemble for What's Up, Duloc.",
       "cast": [
         {
@@ -83975,7 +84479,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -87472,8 +87976,8 @@
       "city": "Wolverhampton",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 60,
-      "wanters": 26,
+      "owners": 61,
+      "wanters": 25,
       "notes": "Limited trade at masters request. Multiple versions circulate. One is complete with credits at the end (but requires adjusting the video player to display the proper aspect ratio) and another cuts off just at curtain call (its possible that the circulating copy is missing a VOB file).",
       "cast": [
         {
@@ -89442,7 +89946,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 128,
-      "wanters": 17,
+      "wanters": 18,
       "notes": "",
       "cast": [
         {
@@ -91220,7 +91724,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 11,
+      "owners": 12,
       "wanters": 6,
       "notes": "",
       "cast": [
@@ -94214,6 +94718,266 @@
       "collectedAt": "2026-08-19T11:26:09.000000Z"
     },
     {
+      "id": 15734,
+      "show": "The Rocky Horror Show",
+      "tour": "First Broadway Revival",
+      "date": {
+        "full_date": "2001-04-20",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "Unknown",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "VOB + Smalls (3.96 GB)",
+      "venue": "Circle In The Square Theatre",
+      "city": "New York",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 173,
+      "wanters": 69,
+      "notes": "Nice video with nice close-ups when possible. Two versions are in circulation, one with lots of generation loss and one that's crystal clear directly from the master. A-  Some pixelation around outlines of actors during movement. Only known video of Raúl as Riff Raff, before he left the show in May to do Tick Tick Boom. Includes Lea Delaria's post-show BC/EFA speech.",
+      "cast": [
+        {
+          "performer": {
+            "id": 2707,
+            "name": "Tom Hewitt",
+            "slug": "tom-hewitt",
+            "url": "encora.it/performers/tom-hewitt",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4743,
+            "name": "Dr. Frank-N-Furter",
+            "slug": "dr-frank-n-furter",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/dr-frank-n-furter",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5868,
+            "name": "Kristen Lee Kelly",
+            "slug": "kristen-lee-kelly",
+            "url": "encora.it/performers/kristen-lee-kelly",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4746,
+            "name": "Janet Weiss",
+            "slug": "janet-weiss",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/janet-weiss",
+            "order": 2
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 2120,
+            "name": "Jarrod Emick",
+            "slug": "jarrod-emick",
+            "url": "encora.it/performers/jarrod-emick",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4745,
+            "name": "Brad Majors",
+            "slug": "brad-majors",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/brad-majors",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 409,
+            "name": "Daphne Rubin-Vega",
+            "slug": "daphne-rubin-vega",
+            "url": "encora.it/performers/daphne-rubin-vega",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4748,
+            "name": "Magenta",
+            "slug": "magenta",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/magenta",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 13070,
+            "name": "Joan Jett",
+            "slug": "joan-jett",
+            "url": "encora.it/performers/joan-jett",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4750,
+            "name": "Columbia",
+            "slug": "columbia",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/columbia",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 238,
+            "name": "Raúl Esparza",
+            "slug": "raul-esparza",
+            "url": "encora.it/performers/raul-esparza",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4744,
+            "name": "Riff Raff",
+            "slug": "riff-raff",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/riff-raff",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3497,
+            "name": "Lea DeLaria",
+            "slug": "lea-delaria",
+            "url": "encora.it/performers/lea-delaria",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4751,
+            "name": "Eddie",
+            "slug": "eddie",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/eddie",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3497,
+            "name": "Lea DeLaria",
+            "slug": "lea-delaria",
+            "url": "encora.it/performers/lea-delaria",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4752,
+            "name": "Dr. Scott",
+            "slug": "dr-scott",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/dr-scott",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10604,
+            "name": "Sebastian LaCause",
+            "slug": "sebastian-lacause",
+            "url": "encora.it/performers/sebastian-lacause",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4747,
+            "name": "Rocky",
+            "slug": "rocky",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/rocky",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10603,
+            "name": "Dick Cavett",
+            "slug": "dick-cavett",
+            "url": "encora.it/performers/dick-cavett",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4742,
+            "name": "The Narrator",
+            "slug": "narrator",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/narrator",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 409,
+            "name": "Daphne Rubin-Vega",
+            "slug": "daphne-rubin-vega",
+            "url": "encora.it/performers/daphne-rubin-vega",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4749,
+            "name": "Usherette",
+            "slug": "usherette",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/usherette",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 13070,
+            "name": "Joan Jett",
+            "slug": "joan-jett",
+            "url": "encora.it/performers/joan-jett",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4749,
+            "name": "Usherette",
+            "slug": "usherette",
+            "url": "encora.it/shows/the-rocky-horror-show/characters/usherette",
+            "order": 11
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-27T06:41:05.000000Z",
+      "collectedAt": "2026-09-27T06:40:22.000000Z"
+    },
+    {
       "id": 15954,
       "show": "Sister Act",
       "tour": "Broadway",
@@ -96001,6 +96765,187 @@
       ],
       "updatedAt": "2026-02-20T03:23:40.000000Z",
       "collectedAt": "2026-02-20T03:23:24.000000Z"
+    },
+    {
+      "id": 16601,
+      "show": "9 to 5: The Musical",
+      "tour": "First US National Tour",
+      "date": {
+        "full_date": "2010-11-06",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "SunsetBlvd79",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "VOB + smalls - 3.76 GB",
+      "venue": "Orpheum Theatre",
+      "city": "Memphis",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 70,
+      "wanters": 21,
+      "notes": "Beautiful capture of the tour cast. The cast remains fantastic and top notch. Mamie is truly a force to be reckoned with. These ladies remain one of the best replacement casts that I have ever seen.  A",
+      "cast": [
+        {
+          "performer": {
+            "id": 1553,
+            "name": "Dee Hoty",
+            "slug": "dee-hoty",
+            "url": "encora.it/performers/dee-hoty",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 141,
+            "name": "Violet Newstead",
+            "slug": "violet-newstead",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/violet-newstead",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 11598,
+            "name": "Diana DeGarmo",
+            "slug": "diana-degarmo",
+            "url": "encora.it/performers/diana-degarmo",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 142,
+            "name": "Doralee Rhodes",
+            "slug": "doralee-rhodes",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/doralee-rhodes",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2239,
+            "name": "Mamie Parris",
+            "slug": "mamie-parris",
+            "url": "encora.it/performers/mamie-parris",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 143,
+            "name": "Judy Bernly",
+            "slug": "judy-bernly",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/judy-bernly",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1344,
+            "name": "Kristine Zbornik",
+            "slug": "kristine-zbornik",
+            "url": "encora.it/performers/kristine-zbornik",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 144,
+            "name": "Roz Keith",
+            "slug": "roz-keith",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/roz-keith",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 7032,
+            "name": "Joseph Mahowald",
+            "slug": "joseph-mahowald",
+            "url": "encora.it/performers/joseph-mahowald",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 145,
+            "name": "Franklin Hart Jr.",
+            "slug": "franklin-hart-jr",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/franklin-hart-jr",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 16663,
+            "name": "Gregg Goodbrod",
+            "slug": "greg-goodbrod",
+            "url": "encora.it/performers/greg-goodbrod",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 146,
+            "name": "Joe",
+            "slug": "joe",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/joe",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 188,
+            "name": "Jesse JP Johnson",
+            "slug": "jesse-jp-johnson",
+            "url": "encora.it/performers/jesse-jp-johnson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 935,
+            "name": "Josh",
+            "slug": "josh",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/josh",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 6093,
+            "name": "Jane Blass",
+            "slug": "jane-blass",
+            "url": "encora.it/performers/jane-blass",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 942,
+            "name": "Margaret",
+            "slug": "margaret",
+            "url": "encora.it/shows/9-to-5-the-musical/characters/margaret",
+            "order": 15
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-27T07:23:45.000000Z",
+      "collectedAt": "2026-09-27T07:23:37.000000Z"
     },
     {
       "id": 16633,
@@ -100205,8 +101150,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 374,
-      "wanters": 96,
+      "owners": 375,
+      "wanters": 95,
       "notes": "Proshot. Aired on March 15, 1991, but in reality it was filmed between May 23 – 25, 1989. Filmed as a part of the Season 10 premiere episode of PBSs American Playhouse. Almost the entire original Broadway cast (the only exception being Snow White, who was pregnant) returned to film it.",
       "cast": [
         {
@@ -126465,7 +127410,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126484,7 +127429,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126503,7 +127448,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126522,7 +127467,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126541,7 +127486,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126560,7 +127505,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126579,7 +127524,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126598,7 +127543,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126617,7 +127562,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126636,7 +127581,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126655,7 +127600,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126674,7 +127619,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126693,7 +127638,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126712,7 +127657,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126731,7 +127676,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126750,7 +127695,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -126769,7 +127714,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -132911,7 +133856,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -132930,7 +133875,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -132949,7 +133894,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -132968,7 +133913,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -132987,7 +133932,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133006,7 +133951,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133025,7 +133970,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133044,7 +133989,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133063,7 +134008,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133082,7 +134027,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133101,7 +134046,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133120,7 +134065,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133139,7 +134084,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133158,7 +134103,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133177,7 +134122,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133196,7 +134141,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133215,7 +134160,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133234,7 +134179,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -133253,7 +134198,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -141886,7 +142831,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -141905,7 +142850,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -141924,7 +142869,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -141943,7 +142888,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -141962,7 +142907,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -141981,7 +142926,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142000,7 +142945,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142019,7 +142964,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142038,7 +142983,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142057,7 +143002,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142076,7 +143021,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142095,7 +143040,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142114,7 +143059,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -142133,7 +143078,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         }
@@ -150803,8 +151748,8 @@
       "city": "Cambridge",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 63,
-      "wanters": 24,
+      "owners": 64,
+      "wanters": 23,
       "notes": null,
       "cast": [
         {
@@ -155398,7 +156343,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 359,
+      "owners": 360,
       "wanters": 105,
       "notes": "Amber Gray's final performance in Hadestown. Full show is filmed, including the standing ovation that Amber got before the performance even started, right up to the band exiting. Moderate obstruction from the box/bar, etc. Dropouts and shakiness during applause breaks, especially during all of the standing ovations that happened for Amber—what can I say? It was such an emotional night and I was more focused on being in the moment than getting a 4K video. However, what is captured is high quality, and is of a very memorable show. For transparency, some screenshots include the obstructed/less-than-HQ moments, so people know what they're purchasing/watching.\n\nBand: Brian Drye (Trombone), Marika Hughes (Cello), Dana Lyn (Violin), Ben Perowsky (Drums), Robinson Morse (Bass), Ilusha Tsinadze (Guitar), Liam Robinson (Keys)",
       "cast": [
@@ -156057,7 +157002,7 @@
       "city": "Fort Worth",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 100,
+      "owners": 101,
       "wanters": 38,
       "notes": "Stunning HD capture of the Angelica Tour with understudies for Lafayette/Jefferson, Laurens, and Peggy/Maria—my best video of the show yet. It's filmed in 16:9 with a mix of wides, mediums, and incredible closeups from a left box. Deejey's hilarious performance as Jefferson was the standout of the performance, alongside Lencia's perfect Maria Reynolds. There are some extremely rare obstructions at the very bottom left of the screen during extreme wideshots but it's almost unnoticeable and there are a couple short dropouts for applause. Due to technical issues, Stay Alive is audio-only and the video picks back up during Ten Duel Commandments. The sound is excellent. Includes curtain call and playbill scans.\n***Please do not post any part of the video, download link, or any of the screencaps online, such as YouTube / Tumblr / Facebook / Discord / Reddit / Instagram / TikTok.***",
       "cast": [
@@ -157070,7 +158015,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -157092,7 +158037,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -157114,7 +158059,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -157136,7 +158081,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -157158,7 +158103,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -163893,7 +164838,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -163912,7 +164857,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -163931,7 +164876,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -163950,7 +164895,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -163969,7 +164914,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -163988,7 +164933,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164007,7 +164952,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164026,7 +164971,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164045,7 +164990,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164064,7 +165009,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164083,7 +165028,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164102,7 +165047,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164121,7 +165066,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164140,7 +165085,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164159,7 +165104,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164178,7 +165123,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164197,7 +165142,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -164216,7 +165161,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -164238,7 +165183,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -169415,7 +170360,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 68,
-      "wanters": 55,
+      "wanters": 54,
       "notes": "Second Preview. A scenery mishap in the first act in the scene before I Know Things Now causes the show to be paused, and James Lapine makes a brief announcement from the stage. Features a number of songs and scenes that would eventually be cut or rewritten, especially in Act 2. This includes the cut songs Boom, Crunch! (in place of Last Midnight), Have to Give Her Someone, The Plan, and the full version of Second Midnight. The filmer follows the action excellently, with only one brief hide/extended period of wandering during The Plan.",
       "cast": [
         {
@@ -176032,7 +176977,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 251,
+      "owners": 252,
       "wanters": 55,
       "notes": "Nice mix of wide shots and zooms. Some washout is seen. Some shakiness and wandering throughout, although not enough to take away from the video. Overall my best recording to date with Andrew as Beetlejuice and Nat as Delia. Edited by the AMAZING bikinibottomday.",
       "cast": [
@@ -178080,7 +179025,7 @@
       "city": "Washington",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 328,
+      "owners": 329,
       "wanters": 77,
       "notes": null,
       "cast": [
@@ -178937,7 +179882,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 254,
-      "wanters": 74,
+      "wanters": 75,
       "notes": "Excellent 4K capture of Natalie as Delia. There’s a very small obstruction in Act One that only blocks a little bit of action on the very front and right of the stage. Although there are a lot of tight closeups in order to avoid washout, the action is followed very well. There is occasional wandering, unfocusing, and one very brief partial blackout near the end of Act One. Includes curtain call, audio is fed from external source.",
       "cast": [
         {
@@ -180641,7 +181586,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 348,
-      "wanters": 112,
+      "wanters": 113,
       "notes": "Fantastic capture of the Broadway cast in their last few months! Brief show stop before Invisible (Reprise), the shot is held on the unmoving set for an excruciatingly long time because I thought it was funny.",
       "cast": [
         {
@@ -181097,7 +182042,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 99,
-      "wanters": 66,
+      "wanters": 67,
       "notes": "Obstructed capture of the replacement cast of Into The Woods! Large heads on the left and right block a lot of the action so I wouldn't recommend for a first time watch but solos and important moments are captured well.",
       "cast": [
         {
@@ -181357,7 +182302,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 207,
-      "wanters": 52,
+      "wanters": 53,
       "notes": "Original version from master is two MP4 files (one per act). A one file version also circulates.",
       "cast": [
         {
@@ -184530,7 +185475,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 239,
-      "wanters": 35,
+      "wanters": 37,
       "notes": "Pretty perfect capture of this cast; there are a few moments where the person in front of me leans and blocks some side action. Do not post online.",
       "cast": [
         {
@@ -187931,8 +188876,8 @@
       "city": "Washington",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 417,
-      "wanters": 80,
+      "owners": 418,
+      "wanters": 79,
       "notes": "Master released this as month and year. Please do not add the full date even if you know it.",
       "cast": [
         {
@@ -188313,7 +189258,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 49,
-      "wanters": 22,
+      "wanters": 23,
       "notes": "Contains original AVI files, edited mp4.",
       "cast": [
         {
@@ -190034,6 +190979,427 @@
       ],
       "updatedAt": "2026-02-11T05:26:36.000000Z",
       "collectedAt": "2026-02-11T05:26:18.000000Z"
+    },
+    {
+      "id": 1141007,
+      "show": "Beetlejuice",
+      "tour": "First Broadway Remount",
+      "date": {
+        "full_date": "2022-12-29",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "bikinibottomday",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP4 (4K) - 12.29 GB",
+      "venue": "Marquis Theatre",
+      "city": "New York",
+      "giftingStatus": "Never Gift",
+      "limitedStatus": "Unrestricted",
+      "owners": 123,
+      "wanters": 76,
+      "notes": null,
+      "cast": [
+        {
+          "performer": {
+            "id": 14708,
+            "name": "Elliott Mattox",
+            "slug": "elliott-mattox",
+            "url": "encora.it/performers/elliott-mattox",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4804,
+            "name": "Beetlejuice",
+            "slug": "beetlejuice",
+            "url": "encora.it/shows/beetlejuice/characters/beetlejuice",
+            "order": 1
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 19713,
+            "name": "Elizabeth Teeter",
+            "slug": "elizabeth-teeter",
+            "url": "encora.it/performers/elizabeth-teeter",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4805,
+            "name": "Lydia Deetz",
+            "slug": "lydia-deetz",
+            "url": "encora.it/shows/beetlejuice/characters/lydia-deetz",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 798,
+            "name": "Kerry Butler",
+            "slug": "kerry-butler",
+            "url": "encora.it/performers/kerry-butler",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4806,
+            "name": "Barbara Maitland",
+            "slug": "barbara-maitland",
+            "url": "encora.it/shows/beetlejuice/characters/barbara-maitland",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2479,
+            "name": "David Josefsberg",
+            "slug": "david-josefsberg",
+            "url": "encora.it/performers/david-josefsberg",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4807,
+            "name": "Adam Maitland",
+            "slug": "adam-maitland",
+            "url": "encora.it/shows/beetlejuice/characters/adam-maitland",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1750,
+            "name": "Adam Dannheisser",
+            "slug": "adam-dannheisser",
+            "url": "encora.it/performers/adam-dannheisser",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4808,
+            "name": "Charles Deetz",
+            "slug": "charles-deetz",
+            "url": "encora.it/shows/beetlejuice/characters/charles-deetz",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3552,
+            "name": "Leslie Rodriguez Kritzer",
+            "slug": "leslie-rodriguez-kritzer",
+            "url": "encora.it/performers/leslie-rodriguez-kritzer",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4809,
+            "name": "Delia Deetz",
+            "slug": "delia-deetz",
+            "url": "encora.it/shows/beetlejuice/characters/delia-deetz",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2017,
+            "name": "Michelle Aravena",
+            "slug": "michelle-aravena",
+            "url": "encora.it/performers/michelle-aravena",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8328,
+            "name": "Miss Argentina",
+            "slug": "miss-argentina",
+            "url": "encora.it/shows/beetlejuice/characters/miss-argentina",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2050,
+            "name": "Kelvin Moon Loh",
+            "slug": "kelvin-moon-loh",
+            "url": "encora.it/performers/kelvin-moon-loh",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4810,
+            "name": "Otho",
+            "slug": "otho",
+            "url": "encora.it/shows/beetlejuice/characters/otho",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 6461,
+            "name": "Danny Rutigliano",
+            "slug": "danny-rutigliano",
+            "url": "encora.it/performers/danny-rutigliano",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4811,
+            "name": "Maxie Dean",
+            "slug": "maxie-dean",
+            "url": "encora.it/shows/beetlejuice/characters/maxie-dean",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3591,
+            "name": "Natalie Charle Ellis",
+            "slug": "natalie-charle-ellis",
+            "url": "encora.it/performers/natalie-charle-ellis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4812,
+            "name": "Maxine Dean",
+            "slug": "maxine-dean",
+            "url": "encora.it/shows/beetlejuice/characters/maxine-dean",
+            "order": 10
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 3591,
+            "name": "Natalie Charle Ellis",
+            "slug": "natalie-charle-ellis",
+            "url": "encora.it/performers/natalie-charle-ellis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4813,
+            "name": "Juno",
+            "slug": "juno",
+            "url": "encora.it/shows/beetlejuice/characters/juno",
+            "order": 11
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 3917,
+            "name": "Dana Steingold",
+            "slug": "dana-steingold",
+            "url": "encora.it/performers/dana-steingold",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4814,
+            "name": "Girl Scout",
+            "slug": "girl-scout",
+            "url": "encora.it/shows/beetlejuice/characters/girl-scout",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 14712,
+            "name": "Eric Anthony Johnson",
+            "slug": "eric-anthony-johnson",
+            "url": "encora.it/performers/eric-anthony-johnson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": {
+            "label": "Swing",
+            "abbreviation": "s/w"
+          }
+        },
+        {
+          "performer": {
+            "id": 1932,
+            "name": "Graham Stevens",
+            "slug": "graham-stevens",
+            "url": "encora.it/performers/graham-stevens",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 21257,
+            "name": "Kate Bailey",
+            "slug": "kate-bailey",
+            "url": "encora.it/performers/kate-bailey",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 30663,
+            "name": "Katie Lombardo",
+            "slug": "katie-lombardo",
+            "url": "encora.it/performers/katie-lombardo",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 73237,
+            "name": "Michael Bryan Wang",
+            "slug": "michael-bryan-wang",
+            "url": "encora.it/performers/michael-bryan-wang",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 14709,
+            "name": "Mateo Melendez",
+            "slug": "mateo-melendez",
+            "url": "encora.it/performers/mateo-melendez",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1770,
+            "name": "Julian DeGuzman",
+            "slug": "julian-deguzman",
+            "url": "encora.it/performers/julian-deguzman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 19605,
+            "name": "Maxx Reed",
+            "slug": "maxx-reed",
+            "url": "encora.it/performers/maxx-reed",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8742,
+            "name": "Ensemble",
+            "slug": "ensemble-5",
+            "url": "encora.it/shows/beetlejuice/characters/ensemble-5",
+            "order": 14
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-09-27T07:17:22.000000Z",
+      "collectedAt": "2026-09-27T07:17:07.000000Z"
     },
     {
       "id": 1141218,
@@ -195629,7 +196995,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 481,
+      "owners": 482,
       "wanters": 57,
       "notes": null,
       "cast": [
@@ -205339,7 +206705,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -205361,7 +206727,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -205383,7 +206749,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -205405,7 +206771,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -205427,7 +206793,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -205725,7 +207091,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205744,7 +207110,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205763,7 +207129,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205782,7 +207148,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205801,7 +207167,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205820,7 +207186,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205839,7 +207205,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205858,7 +207224,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205877,7 +207243,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205896,7 +207262,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205915,7 +207281,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205934,7 +207300,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205953,7 +207319,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205972,7 +207338,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -205991,7 +207357,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -243157,7 +244523,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 339,
+      "owners": 338,
       "wanters": 87,
       "notes": null,
       "cast": [
@@ -256921,8 +258287,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 752,
-      "wanters": 51,
+      "owners": 753,
+      "wanters": 50,
       "notes": null,
       "cast": [
         {
@@ -278873,7 +280239,7 @@
       "city": "Washington",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 435,
+      "owners": 436,
       "wanters": 78,
       "notes": null,
       "cast": [
@@ -281045,8 +282411,8 @@
       "city": "Glencoe",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 95,
-      "wanters": 39,
+      "owners": 97,
+      "wanters": 38,
       "notes": null,
       "cast": [
         {
@@ -292201,7 +293567,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 207,
+      "owners": 208,
       "wanters": 81,
       "notes": null,
       "cast": [
@@ -306634,7 +308000,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 76,
-      "wanters": 30,
+      "wanters": 31,
       "notes": null,
       "cast": [
         {
@@ -317386,7 +318752,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 160,
+      "owners": 161,
       "wanters": 69,
       "notes": null,
       "cast": [
@@ -318499,7 +319865,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -318521,7 +319887,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -318543,7 +319909,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -329638,8 +331004,8 @@
       "city": "New York",
       "giftingStatus": "Gift On Request",
       "limitedStatus": "Unrestricted",
-      "owners": 199,
-      "wanters": 48,
+      "owners": 200,
+      "wanters": 47,
       "notes": null,
       "cast": [
         {
@@ -331529,7 +332895,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 503,
-      "wanters": 229,
+      "wanters": 230,
       "notes": null,
       "cast": [
         {
@@ -333005,8 +334371,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 439,
-      "wanters": 137,
+      "owners": 440,
+      "wanters": 136,
       "notes": null,
       "cast": [
         {
@@ -339403,7 +340769,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 975,
+      "owners": 976,
       "wanters": 76,
       "notes": "Filmed at Wyndham's Theatre from September 9-11 2024 during the show's West End transfer from its original run at the Donmar Warehouse. \n\nMultiple versions circulate:\n- Censored audio (Aired on PBS's Great Performances May 9, 2025)\n- Uncensored audio with hardcoded timestamp in top-left corner and different scene changes, leaked theatrical release version\n- Full uncensored version ripped from Amazon. Swear words are included, and the camera doesn't cut away during them. No time code present.\n\nCheck with traders.",
       "cast": [
@@ -349054,7 +350420,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349073,7 +350439,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349092,7 +350458,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349111,7 +350477,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349130,7 +350496,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349149,7 +350515,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349168,7 +350534,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349187,7 +350553,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349206,7 +350572,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349225,7 +350591,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349244,7 +350610,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349263,7 +350629,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349282,7 +350648,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349301,7 +350667,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349320,7 +350686,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349339,7 +350705,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349358,7 +350724,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349377,7 +350743,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349396,7 +350762,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -349415,7 +350781,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -361211,7 +362577,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 232,
-      "wanters": 75,
+      "wanters": 76,
       "notes": null,
       "cast": [
         {
@@ -366966,8 +368332,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 113,
-      "wanters": 50,
+      "owners": 114,
+      "wanters": 49,
       "notes": null,
       "cast": [
         {
@@ -370269,8 +371635,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 80,
-      "wanters": 49,
+      "owners": 81,
+      "wanters": 48,
       "notes": null,
       "cast": [
         {
@@ -389682,7 +391048,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 174,
-      "wanters": 119,
+      "wanters": 120,
       "notes": null,
       "cast": [
         {
@@ -398018,7 +399384,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 360,
-      "wanters": 118,
+      "wanters": 119,
       "notes": null,
       "cast": [
         {
@@ -419114,7 +420480,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 347,
-      "wanters": 113,
+      "wanters": 114,
       "notes": null,
       "cast": [
         {
@@ -422700,7 +424066,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -422722,7 +424088,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -422744,7 +424110,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -422766,7 +424132,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -422788,7 +424154,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -422810,7 +424176,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -427141,7 +428507,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427160,7 +428526,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427179,7 +428545,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427198,7 +428564,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427217,7 +428583,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427236,7 +428602,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427255,7 +428621,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427274,7 +428640,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427293,7 +428659,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427312,7 +428678,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427331,7 +428697,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427350,7 +428716,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427369,7 +428735,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427388,7 +428754,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427407,7 +428773,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427426,7 +428792,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427445,7 +428811,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427464,7 +428830,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427483,7 +428849,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427502,7 +428868,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427521,7 +428887,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427540,7 +428906,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427559,7 +428925,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427578,7 +428944,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427597,7 +428963,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427616,7 +428982,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427635,7 +429001,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427654,7 +429020,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427673,7 +429039,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427692,7 +429058,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427711,7 +429077,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427730,7 +429096,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427749,7 +429115,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427768,7 +429134,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427787,7 +429153,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427806,7 +429172,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427825,7 +429191,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427844,7 +429210,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427863,7 +429229,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427882,7 +429248,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427901,7 +429267,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427920,7 +429286,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427939,7 +429305,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427958,7 +429324,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -427977,7 +429343,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         },
@@ -427996,7 +429362,7 @@
             "name": "Performer",
             "slug": "performer",
             "url": "encora.it/shows/wicked/characters/performer",
-            "order": 18
+            "order": 19
           },
           "status": null
         }
@@ -435226,8 +436592,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 123,
-      "wanters": 71,
+      "owners": 124,
+      "wanters": 70,
       "notes": "Starts towards the end of the opening number. Shot almost entirely in mediums and close-ups.\n\nThis is a production of the revised edition of Bat Boy, which features lots of changes from the original. Songs were cut, added, replaced, and rewritten, and certain plot details are changed.",
       "cast": [
         {
@@ -442470,7 +443836,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 122,
-      "wanters": 149,
+      "wanters": 150,
       "notes": null,
       "cast": [
         {
@@ -443985,7 +445351,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 61,
-      "wanters": 48,
+      "wanters": 47,
       "notes": null,
       "cast": [
         {
@@ -444109,7 +445475,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 111,
-      "wanters": 53,
+      "wanters": 54,
       "notes": null,
       "cast": [
         {
@@ -457137,7 +458503,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 46,
+      "owners": 47,
       "wanters": 8,
       "notes": "No TikTok, no Reddit, no Tumblr. List as BoqTheMunchkin’s Master. ",
       "cast": [
@@ -457820,7 +459186,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 117,
-      "wanters": 104,
+      "wanters": 103,
       "notes": null,
       "cast": [
         {
@@ -460664,7 +462030,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 199,
-      "wanters": 60,
+      "wanters": 59,
       "notes": null,
       "cast": [
         {
@@ -461487,8 +462853,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 101,
-      "wanters": 76,
+      "owners": 102,
+      "wanters": 75,
       "notes": null,
       "cast": [
         {
@@ -465300,7 +466666,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -465322,7 +466688,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -465344,7 +466710,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -465366,7 +466732,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": {
             "label": "Swing",
@@ -465388,7 +466754,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465407,7 +466773,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465426,7 +466792,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465445,7 +466811,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465464,7 +466830,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465483,7 +466849,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465502,7 +466868,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465521,7 +466887,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465540,7 +466906,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465559,7 +466925,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465578,7 +466944,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465597,7 +466963,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465616,7 +466982,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465635,7 +467001,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465654,7 +467020,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465673,7 +467039,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465692,7 +467058,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465711,7 +467077,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         },
@@ -465730,7 +467096,7 @@
             "name": "Ensemble",
             "slug": "ensemble",
             "url": "encora.it/shows/wicked/characters/ensemble",
-            "order": 17
+            "order": 18
           },
           "status": null
         }
@@ -472629,8 +473995,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 98,
-      "wanters": 148,
+      "owners": 99,
+      "wanters": 147,
       "notes": null,
       "cast": [
         {
@@ -473085,8 +474451,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 4,
-      "wanters": 12,
+      "owners": 5,
+      "wanters": 11,
       "notes": null,
       "cast": [
         {
@@ -488597,7 +489963,7 @@
       "city": "Cambridge",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 68,
+      "owners": 69,
       "wanters": 8,
       "notes": null,
       "cast": [
@@ -490171,7 +491537,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 30,
+      "owners": 31,
       "wanters": 9,
       "notes": "No TikTok, no Reddit, no Tumblr. List as BoqTheMunchkin’s Master.",
       "cast": [
@@ -491483,8 +492849,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 18,
-      "wanters": 22,
+      "owners": 19,
+      "wanters": 21,
       "notes": "Closing Night for New World Stages Production",
       "cast": [
         {
@@ -497988,7 +499354,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 22,
+      "owners": 23,
       "wanters": 63,
       "notes": null,
       "cast": [
@@ -500180,7 +501546,7 @@
       "city": "Brighton",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 36,
+      "owners": 37,
       "wanters": 32,
       "notes": null,
       "cast": [
@@ -503676,7 +505042,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 3,
+      "owners": 4,
       "wanters": 1,
       "notes": null,
       "cast": [
@@ -503952,7 +505318,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 3,
+      "owners": 4,
       "wanters": 1,
       "notes": null,
       "cast": [
@@ -507593,7 +508959,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 3,
+      "owners": 4,
       "wanters": 1,
       "notes": null,
       "cast": [
@@ -525197,7 +526563,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 7,
+      "owners": 8,
       "wanters": 1,
       "notes": null,
       "cast": [
@@ -526338,8 +527704,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 245,
-      "wanters": 46,
+      "owners": 247,
+      "wanters": 47,
       "notes": "Footage was captured during three live performances on February 28 and March 1, 2025. Premiered on June 8, 2026; released in the United States on July 24, 2026. https://www.imdb.com/title/tt36307021/",
       "cast": [
         {
@@ -532560,7 +533926,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 3,
+      "owners": 4,
       "wanters": 2,
       "notes": null,
       "cast": [
@@ -542192,7 +543558,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 23,
+      "owners": 24,
       "wanters": 32,
       "notes": null,
       "cast": [
