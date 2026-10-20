@@ -1,5 +1,5 @@
 {
-  "total": 1849,
+  "total": 1861,
   "items": [
     {
       "id": 5,
@@ -1408,7 +1408,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 233,
+      "owners": 234,
       "wanters": 65,
       "notes": "Halloween! Great performance from all the cast here. Includes a Broadway Cares/Equity Fights Aids speech by Aaron Tveit at the end. Wonderful quality, kind of shaky though",
       "cast": [
@@ -5177,6 +5177,206 @@
       ],
       "updatedAt": "2026-08-18T11:50:59.000000Z",
       "collectedAt": "2026-08-18T11:50:46.000000Z"
+    },
+    {
+      "id": 69,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "New York Philharmonic Concert",
+      "date": {
+        "full_date": "2014-03-01",
+        "month_known": true,
+        "day_known": false,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "pro-shot",
+      "mediaType": "video",
+      "recordingType": "pro-shot",
+      "amountRecorded": "complete",
+      "format": "MP4 - 2.66 GB",
+      "venue": "Lincoln Center - Avery Fisher Hall",
+      "city": null,
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 265,
+      "wanters": 77,
+      "notes": "Filmed in March 2014 and aired on PBS on September 26, 2014.",
+      "cast": [
+        {
+          "performer": {
+            "id": 314,
+            "name": "Bryn Terfel",
+            "slug": "bryn-terfel",
+            "url": "encora.it/performers/bryn-terfel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 102,
+            "name": "Sweeney Todd",
+            "slug": "sweeney-todd",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/sweeney-todd",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 315,
+            "name": "Emma Thompson",
+            "slug": "emma-thompson",
+            "url": "encora.it/performers/emma-thompson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 103,
+            "name": "Mrs. Lovett",
+            "slug": "mrs-lovett",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/mrs-lovett",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 316,
+            "name": "Jay Armstrong Johnson",
+            "slug": "jay-armstrong-johnson",
+            "url": "encora.it/performers/jay-armstrong-johnson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 104,
+            "name": "Anthony Hope",
+            "slug": "anthony-hope",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/anthony-hope",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 74,
+            "name": "Erin Mackey",
+            "slug": "erin-mackey",
+            "url": "encora.it/performers/erin-mackey",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 105,
+            "name": "Johanna",
+            "slug": "johanna",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/johanna",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 317,
+            "name": "Philip Quast",
+            "slug": "philip-quast",
+            "url": "encora.it/performers/philip-quast",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 106,
+            "name": "Judge Turpin",
+            "slug": "judge-turpin",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/judge-turpin",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 318,
+            "name": "Kyle Brenn",
+            "slug": "kyle-brenn",
+            "url": "encora.it/performers/kyle-brenn",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 107,
+            "name": "Tobias Ragg",
+            "slug": "tobias-ragg",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/tobias-ragg",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 40128,
+            "name": "Jeff Blumenkrantz",
+            "slug": "jeff-blumencratz",
+            "url": "encora.it/performers/jeff-blumencratz",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 108,
+            "name": "Beadle Bamford",
+            "slug": "beadle-bamford",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/beadle-bamford",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 320,
+            "name": "Audra McDonald",
+            "slug": "audra-mcdonald",
+            "url": "encora.it/performers/audra-mcdonald",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 109,
+            "name": "Beggar Woman",
+            "slug": "beggar-woman",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/beggar-woman",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 252,
+            "name": "Christian Borle",
+            "slug": "christian-borle",
+            "url": "encora.it/performers/christian-borle",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 110,
+            "name": "Adolfo Pirelli",
+            "slug": "adolfo-pirelli",
+            "url": "encora.it/shows/sweeney-todd-the-demon-barber-of-fleet-street/characters/adolfo-pirelli",
+            "order": 9
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:46:29.000000Z",
+      "collectedAt": "2026-10-20T14:46:15.000000Z"
     },
     {
       "id": 70,
@@ -13451,7 +13651,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 633,
+      "owners": 634,
       "wanters": 180,
       "notes": "Filmed from the right orchestra, at a slight angle, but excellent quality. The taper originally released this as a blu-ray, 2-disc DVDs or 1-disc DVD, so make sure to get the version that best suits your needs.",
       "cast": [
@@ -17624,7 +17824,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 349,
+      "owners": 350,
       "wanters": 60,
       "notes": "Commonly circulates as a re-authored disc. Original disc should have the menu shown in the screenshots below, as well as the size VOB + Smalls (4.13 GB).",
       "cast": [
@@ -25188,6 +25388,187 @@
       "collectedAt": "2026-01-19T12:12:35.000000Z"
     },
     {
+      "id": 438,
+      "show": "Fiddler on the Roof",
+      "tour": "Fifth Broadway Revival",
+      "date": {
+        "full_date": "2015-12-29",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "SJ Bernly",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "VOB + smalls - 7.68 GB",
+      "venue": "Broadway Theatre",
+      "city": "New York",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 204,
+      "wanters": 39,
+      "notes": "First couple minutes of Act Two are blacked out, but the show is otherwise complete. A few scenes are very dark, but the actors' faces can be seen. Slight washout in the brighter scenes. Excellent picture otherwise and clear sound; good video.",
+      "cast": [
+        {
+          "performer": {
+            "id": 1673,
+            "name": "Danny Burstein",
+            "slug": "danny-burstein",
+            "url": "encora.it/performers/danny-burstein",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1376,
+            "name": "Tevye",
+            "slug": "tevye",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/tevye",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1746,
+            "name": "Jessica Hecht",
+            "slug": "jessica-hecht",
+            "url": "encora.it/performers/jessica-hecht",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1377,
+            "name": "Golde",
+            "slug": "golde",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/golde",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1747,
+            "name": "Samantha Massell",
+            "slug": "samantha-massell",
+            "url": "encora.it/performers/samantha-massell",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1378,
+            "name": "Hodel",
+            "slug": "hodel",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/hodel",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1749,
+            "name": "Alix Korey",
+            "slug": "alix-korey",
+            "url": "encora.it/performers/alix-korey",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1381,
+            "name": "Yente",
+            "slug": "yente",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/yente",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1512,
+            "name": "Adam Kantor",
+            "slug": "adam-kantor",
+            "url": "encora.it/performers/adam-kantor",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1379,
+            "name": "Motel",
+            "slug": "motel",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/motel",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1748,
+            "name": "Alexandra Silber",
+            "slug": "alexandra-silber",
+            "url": "encora.it/performers/alexandra-silber",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1380,
+            "name": "Tzeitel",
+            "slug": "tzeitel",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/tzeitel",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1596,
+            "name": "Melanie Moore",
+            "slug": "melanie-moore",
+            "url": "encora.it/performers/melanie-moore",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1383,
+            "name": "Chava",
+            "slug": "chava",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/chava",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1750,
+            "name": "Adam Dannheisser",
+            "slug": "adam-dannheisser",
+            "url": "encora.it/performers/adam-dannheisser",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1382,
+            "name": "Lazar Wolf",
+            "slug": "lazar-wolf",
+            "url": "encora.it/shows/fiddler-on-the-roof/characters/lazar-wolf",
+            "order": 9
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:48:37.000000Z",
+      "collectedAt": "2026-10-20T14:47:58.000000Z"
+    },
+    {
       "id": 440,
       "show": "The Hunchback of Notre Dame (Disney)",
       "tour": "La Jolla Playhouse",
@@ -29038,7 +29419,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 528,
+      "owners": 529,
       "wanters": 102,
       "notes": null,
       "cast": [
@@ -29600,7 +29981,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 440,
-      "wanters": 72,
+      "wanters": 73,
       "notes": "Excellent HD capture of the new revival which been stripped down and streamlined to focus on Celie's journey. Some beautiful moments in the show with the direction and simplicity spotlighting the story. A few blackouts in the first 5 minutes, as clueless ushers fumbled around. A",
       "cast": [
         {
@@ -34846,7 +35227,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 604,
-      "wanters": 117,
+      "wanters": 118,
       "notes": "Excellent HD capture of this hilarious new musical. The cast is just too perfect in every way. Superb performances, music, and story, and a great homage to theatre and musicals. Not to be missed! A",
       "cast": [
         {
@@ -55872,7 +56253,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 163,
+      "owners": 164,
       "wanters": 64,
       "notes": null,
       "cast": [
@@ -63712,6 +64093,776 @@
       ],
       "updatedAt": "2026-02-28T14:30:17.000000Z",
       "collectedAt": "2026-02-28T14:29:58.000000Z"
+    },
+    {
+      "id": 6346,
+      "show": "RENT",
+      "tour": "FOX Live Special",
+      "date": {
+        "full_date": "2019-01-27",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "pro-shot",
+      "mediaType": "video",
+      "recordingType": "pro-shot",
+      "amountRecorded": "complete",
+      "format": "MP4 - 2.00 GB",
+      "venue": "20th Century Fox Studios - Stage 16",
+      "city": "Los Angeles",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 167,
+      "wanters": 42,
+      "notes": "Partially live production of the 1996 Tony Award-winning musical. On January 26, 2019, during the dress rehearsal, Brennin Hunt broke his foot. FOX announced that despite his injury, the show would air as planned using both pre-recorded footage from a previous dress rehearsal and live footage. On January 27, the show was performed in its entirety with limited physical activity before a studio audience as scheduled, with Hunt performing in a wheelchair. The simultaneous telecast consisted almost entirely of the prerecorded dress rehearsal from the prior night; only the final 15 minutes of the program was broadcast live. The choreography of the final act was modified to accommodate Hunt being in a wheelchair.\nThe original Broadway cast appeared with the live cast in an encore performance of Seasons of Love.\nhttps://www.imdb.com/title/tt6881910/",
+      "cast": [
+        {
+          "performer": {
+            "id": 3182,
+            "name": "Jordan Fisher",
+            "slug": "jordan-fisher",
+            "url": "encora.it/performers/jordan-fisher",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 167,
+            "name": "Mark Cohen",
+            "slug": "mark-cohen",
+            "url": "encora.it/shows/rent/characters/mark-cohen",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12055,
+            "name": "Brennin Hunt",
+            "slug": "brennin-hunt",
+            "url": "encora.it/performers/brennin-hunt",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3340,
+            "name": "Roger Davis",
+            "slug": "roger",
+            "url": "encora.it/shows/rent/characters/roger",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 21752,
+            "name": "Tinashe Kachingwe",
+            "slug": "tinashe-kachingwe",
+            "url": "encora.it/performers/tinashe-kachingwe",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 169,
+            "name": "Mimi Márquez",
+            "slug": "mimi-marquez",
+            "url": "encora.it/shows/rent/characters/mimi-marquez",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2667,
+            "name": "Vanessa Hudgens",
+            "slug": "vanessa-hudgens",
+            "url": "encora.it/performers/vanessa-hudgens",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 172,
+            "name": "Maureen Johnson",
+            "slug": "maureen-johnson",
+            "url": "encora.it/shows/rent/characters/maureen-johnson",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2100,
+            "name": "Brandon Victor Dixon",
+            "slug": "brandon-victor-dixon",
+            "url": "encora.it/performers/brandon-victor-dixon",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 171,
+            "name": "Tom Collins",
+            "slug": "tom-collins",
+            "url": "encora.it/shows/rent/characters/tom-collins",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12056,
+            "name": "Valentina",
+            "slug": "valentina",
+            "url": "encora.it/performers/valentina",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3342,
+            "name": "Angel Dumott Schunard",
+            "slug": "angel",
+            "url": "encora.it/shows/rent/characters/angel",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1730,
+            "name": "Mario Barrett",
+            "slug": "mario",
+            "url": "encora.it/performers/mario",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3345,
+            "name": "Benjamin Coffin III",
+            "slug": "benny",
+            "url": "encora.it/shows/rent/characters/benny",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12057,
+            "name": "Kiersey Clemons",
+            "slug": "kiersey-clemons",
+            "url": "encora.it/performers/kiersey-clemons",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 38477,
+            "name": "Joanne Jefferson",
+            "slug": "joanne-jeferson",
+            "url": "encora.it/shows/rent/characters/joanne-jeferson",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3287,
+            "name": "J. Elaine Marcos",
+            "slug": "j-elaine-marcos",
+            "url": "encora.it/performers/j-elaine-marcos",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 420,
+            "name": "Alexi Darling",
+            "slug": "alexi-darling",
+            "url": "encora.it/shows/rent/characters/alexi-darling",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5309,
+            "name": "Alton Fitzgerald White",
+            "slug": "alton-fitzgerald-white",
+            "url": "encora.it/performers/alton-fitzgerald-white",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 426,
+            "name": "Mr. Jefferson",
+            "slug": "mr-jefferson",
+            "url": "encora.it/shows/rent/characters/mr-jefferson",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12058,
+            "name": "Jennifer Leigh Warren",
+            "slug": "jennifer-leigh-warren",
+            "url": "encora.it/performers/jennifer-leigh-warren",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 428,
+            "name": "Mrs. Jefferson",
+            "slug": "mrs-jefferson",
+            "url": "encora.it/shows/rent/characters/mrs-jefferson",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1681,
+            "name": "Matthew Saldivar",
+            "slug": "matthew-saldivar",
+            "url": "encora.it/performers/matthew-saldivar",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 425,
+            "name": "Mr. Grey",
+            "slug": "mr-grey",
+            "url": "encora.it/shows/rent/characters/mr-grey",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12058,
+            "name": "Jennifer Leigh Warren",
+            "slug": "jennifer-leigh-warren",
+            "url": "encora.it/performers/jennifer-leigh-warren",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3346,
+            "name": "Mrs. Cohen",
+            "slug": "mrs-cohen",
+            "url": "encora.it/shows/rent/characters/mrs-cohen",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 950,
+            "name": "Keala Settle",
+            "slug": "keala-settle",
+            "url": "encora.it/performers/keala-settle",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 32526,
+            "name": "Mrs. Davis",
+            "slug": "rogers-mom",
+            "url": "encora.it/shows/rent/characters/rogers-mom",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12059,
+            "name": "Debra Cardona",
+            "slug": "debra-cardona",
+            "url": "encora.it/performers/debra-cardona",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 42927,
+            "name": "Mrs. Márquez",
+            "slug": "mrs-marquez",
+            "url": "encora.it/shows/rent/characters/mrs-marquez",
+            "order": 15
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1681,
+            "name": "Matthew Saldivar",
+            "slug": "matthew-saldivar",
+            "url": "encora.it/performers/matthew-saldivar",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 424,
+            "name": "Gordon",
+            "slug": "gordon",
+            "url": "encora.it/shows/rent/characters/gordon",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12060,
+            "name": "Emerson Collins",
+            "slug": "emerson-collins",
+            "url": "encora.it/performers/emerson-collins",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 432,
+            "name": "Steve",
+            "slug": "steve",
+            "url": "encora.it/shows/rent/characters/steve",
+            "order": 18
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1636,
+            "name": "Bryce Ryness",
+            "slug": "bryce-ryness",
+            "url": "encora.it/performers/bryce-ryness",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3384,
+            "name": "The Man",
+            "slug": "man",
+            "url": "encora.it/shows/rent/characters/man",
+            "order": 20
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5309,
+            "name": "Alton Fitzgerald White",
+            "slug": "alton-fitzgerald-white",
+            "url": "encora.it/performers/alton-fitzgerald-white",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 45360,
+            "name": "Seasons of Love Soloist #2",
+            "slug": "seasons-of-love-soloist-2",
+            "url": "encora.it/shows/rent/characters/seasons-of-love-soloist-2",
+            "order": 24
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12059,
+            "name": "Debra Cardona",
+            "slug": "debra-cardona",
+            "url": "encora.it/performers/debra-cardona",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 36252,
+            "name": "Cop",
+            "slug": "cop",
+            "url": "encora.it/shows/rent/characters/cop",
+            "order": 26
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12058,
+            "name": "Jennifer Leigh Warren",
+            "slug": "jennifer-leigh-warren",
+            "url": "encora.it/performers/jennifer-leigh-warren",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 421,
+            "name": "Others",
+            "slug": "others",
+            "url": "encora.it/shows/rent/characters/others",
+            "order": 39
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3287,
+            "name": "J. Elaine Marcos",
+            "slug": "j-elaine-marcos",
+            "url": "encora.it/performers/j-elaine-marcos",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 421,
+            "name": "Others",
+            "slug": "others",
+            "url": "encora.it/shows/rent/characters/others",
+            "order": 39
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1636,
+            "name": "Bryce Ryness",
+            "slug": "bryce-ryness",
+            "url": "encora.it/performers/bryce-ryness",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 421,
+            "name": "Others",
+            "slug": "others",
+            "url": "encora.it/shows/rent/characters/others",
+            "order": 39
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 950,
+            "name": "Keala Settle",
+            "slug": "keala-settle",
+            "url": "encora.it/performers/keala-settle",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 421,
+            "name": "Others",
+            "slug": "others",
+            "url": "encora.it/shows/rent/characters/others",
+            "order": 39
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12060,
+            "name": "Emerson Collins",
+            "slug": "emerson-collins",
+            "url": "encora.it/performers/emerson-collins",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 421,
+            "name": "Others",
+            "slug": "others",
+            "url": "encora.it/shows/rent/characters/others",
+            "order": 39
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12061,
+            "name": "Darius Crenshaw",
+            "slug": "darius-crenshaw",
+            "url": "encora.it/performers/darius-crenshaw",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12062,
+            "name": "Robert Roldan",
+            "slug": "robert-roldan",
+            "url": "encora.it/performers/robert-roldan",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12063,
+            "name": "Sasha Mallory",
+            "slug": "sasha-mallory",
+            "url": "encora.it/performers/sasha-mallory",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12064,
+            "name": "Lenin Fernandez Jr",
+            "slug": "lenin-fernandez-jr",
+            "url": "encora.it/performers/lenin-fernandez-jr",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3727,
+            "name": "Fredric Odgaard",
+            "slug": "fred-odgaard",
+            "url": "encora.it/performers/fred-odgaard",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12066,
+            "name": "Nicholas Lanzisera",
+            "slug": "nicholas-lanzisera",
+            "url": "encora.it/performers/nicholas-lanzisera",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1824,
+            "name": "Morgan Marcell",
+            "slug": "morgan-marcell",
+            "url": "encora.it/performers/morgan-marcell",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12067,
+            "name": "Jessica Lee Keller",
+            "slug": "jessica-lee-keller",
+            "url": "encora.it/performers/jessica-lee-keller",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12068,
+            "name": "Tilly Evans-Krueger",
+            "slug": "tilly-evans-krueger",
+            "url": "encora.it/performers/tilly-evans-krueger",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12069,
+            "name": "Ty Wells",
+            "slug": "ty-wells",
+            "url": "encora.it/performers/ty-wells",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3728,
+            "name": "Khori Michelle Petinaud",
+            "slug": "khori-michelle-petinaud",
+            "url": "encora.it/performers/khori-michelle-petinaud",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12070,
+            "name": "Hannahlei Cabanilla",
+            "slug": "hannahlei-cabanilla",
+            "url": "encora.it/performers/hannahlei-cabanilla",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12071,
+            "name": "Benjamin Douglas Rivera",
+            "slug": "benjamin-douglas-rivera",
+            "url": "encora.it/performers/benjamin-douglas-rivera",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12072,
+            "name": "Mia Deweese",
+            "slug": "mia-deweese",
+            "url": "encora.it/performers/mia-deweese",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9517,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/rent/characters/ensemble",
+            "order": 40
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:47:13.000000Z",
+      "collectedAt": "2026-10-20T14:47:03.000000Z"
     },
     {
       "id": 6555,
@@ -88946,7 +90097,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 509,
+      "owners": 510,
       "wanters": 120,
       "notes": "Shot from the rear mezz with no heads in the way. An amazing quality capture and great vocals from the cast. A.\nMultiple copies circulate:\nVOB + Smalls (3.65 GB) - 1st generation from the master. 1 Disc. Unfortunately, the actual tape transfer is rather bad and results in a lot of washout. Includes extras: NY1 Review Segment, Today Show performance and Letterman performance.\nVOB + Smalls (4.80 GB) & (7.46 GB) - 2 Disc copy. Noted as the better version of this video. Unfortunately, the color is semi off and the picture is rather soft.\nVOB + Smalls (2.38 GB) - 1st generation master tape re-transferred by NYCG8R in 2011. 1 Disc. Amazingly clearer picture and more vibrant colors. Includes an outside shot of a Wicked poster before the show starts. Screenshots below are from this version.",
       "cast": [
@@ -89311,7 +90462,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 221,
+      "owners": 222,
       "wanters": 48,
       "notes": null,
       "cast": [
@@ -107300,8 +108451,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 59,
-      "wanters": 26,
+      "owners": 60,
+      "wanters": 25,
       "notes": "Lots of people have said they were interested in Haven as Fiona, so I wanted to release this as quickly as possible for them.\nVery good capture of this show. Only one five second coverup during Story of My Life and a little head obstruction when the actors came all the way downstage during one scene. Includes Christopher Sieber's BC/EFA speech.\nGlad to see Haven as Fiona; she had a lot more energy than Sutton.\nFull show on one dvd.",
       "cast": [
         {
@@ -110796,6 +111947,415 @@
       "collectedAt": "2026-03-09T04:45:31.000000Z"
     },
     {
+      "id": 20019,
+      "show": "The Sound of Music",
+      "tour": "Live!",
+      "date": {
+        "full_date": "2013-12-05",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "pro-shot",
+      "mediaType": "video",
+      "recordingType": "pro-shot",
+      "amountRecorded": "complete",
+      "format": "MP4 + extras - 3.64 GB",
+      "venue": "Grumman Studios",
+      "city": "Bethpage",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 138,
+      "wanters": 59,
+      "notes": "",
+      "cast": [
+        {
+          "performer": {
+            "id": 25061,
+            "name": "Carrie Underwood",
+            "slug": "carrie-underwood",
+            "url": "encora.it/performers/carrie-underwood",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4019,
+            "name": "Maria Rainer",
+            "slug": "maria-rainer",
+            "url": "encora.it/shows/the-sound-of-music/characters/maria-rainer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3405,
+            "name": "Stephen Moyer",
+            "slug": "stephen-moyer",
+            "url": "encora.it/performers/stephen-moyer",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4024,
+            "name": "Captain Georg von Trapp",
+            "slug": "captain-georg-von-trapp",
+            "url": "encora.it/shows/the-sound-of-music/characters/captain-georg-von-trapp",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 320,
+            "name": "Audra McDonald",
+            "slug": "audra-mcdonald",
+            "url": "encora.it/performers/audra-mcdonald",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4022,
+            "name": "Mother Abbess",
+            "slug": "mother-abbess",
+            "url": "encora.it/shows/the-sound-of-music/characters/mother-abbess",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1703,
+            "name": "Laura Benanti",
+            "slug": "laura-benanti",
+            "url": "encora.it/performers/laura-benanti",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4035,
+            "name": "Elsa Schraeder",
+            "slug": "elsa-schraeder",
+            "url": "encora.it/shows/the-sound-of-music/characters/elsa-schraeder",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 252,
+            "name": "Christian Borle",
+            "slug": "christian-borle",
+            "url": "encora.it/performers/christian-borle",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 48454,
+            "name": "Max Detweiler",
+            "slug": "max",
+            "url": "encora.it/shows/the-sound-of-music/characters/max",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 25062,
+            "name": "Ariane Rinehart",
+            "slug": "ariane-rinehart",
+            "url": "encora.it/performers/ariane-rinehart",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6289,
+            "name": "Liesl",
+            "slug": "liesl",
+            "url": "encora.it/shows/the-sound-of-music/characters/liesl",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 25065,
+            "name": "Joe West",
+            "slug": "joe-west",
+            "url": "encora.it/performers/joe-west",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6292,
+            "name": "Kurt",
+            "slug": "kurt",
+            "url": "encora.it/shows/the-sound-of-music/characters/kurt",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 25066,
+            "name": "Grace Rundhaug",
+            "slug": "grace-rundhaug",
+            "url": "encora.it/performers/grace-rundhaug",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4032,
+            "name": "Marta",
+            "slug": "marta-von-trapp",
+            "url": "encora.it/shows/the-sound-of-music/characters/marta-von-trapp",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 25064,
+            "name": "Ella Watts-Gorman",
+            "slug": "ella-watts-gorman",
+            "url": "encora.it/performers/ella-watts-gorman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6291,
+            "name": "Louisa",
+            "slug": "louisa",
+            "url": "encora.it/shows/the-sound-of-music/characters/louisa",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 25063,
+            "name": "Michael Nigro",
+            "slug": "michael-nigro",
+            "url": "encora.it/performers/michael-nigro",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6290,
+            "name": "Friedrich",
+            "slug": "friedrich",
+            "url": "encora.it/shows/the-sound-of-music/characters/friedrich",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 6460,
+            "name": "Sophia Anne Caruso",
+            "slug": "sophia-anne-caruso",
+            "url": "encora.it/performers/sophia-anne-caruso",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6293,
+            "name": "Brigitta",
+            "slug": "brigitta",
+            "url": "encora.it/shows/the-sound-of-music/characters/brigitta",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4668,
+            "name": "Peyton Ella",
+            "slug": "peyton-ella",
+            "url": "encora.it/performers/peyton-ella",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6295,
+            "name": "Gretl",
+            "slug": "gretl",
+            "url": "encora.it/shows/the-sound-of-music/characters/gretl",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 355,
+            "name": "Michael Campayno",
+            "slug": "michael-campayno",
+            "url": "encora.it/performers/michael-campayno",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6296,
+            "name": "Rolf",
+            "slug": "rolf",
+            "url": "encora.it/shows/the-sound-of-music/characters/rolf",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 544,
+            "name": "Kristine Nielsen",
+            "slug": "kristine-nielsen",
+            "url": "encora.it/performers/kristine-nielsen",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4026,
+            "name": "Frau Schmidt",
+            "slug": "frau-schmidt",
+            "url": "encora.it/shows/the-sound-of-music/characters/frau-schmidt",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 12091,
+            "name": "Sean Cullen",
+            "slug": "sean-cullen",
+            "url": "encora.it/performers/sean-cullen",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4025,
+            "name": "Franz",
+            "slug": "franz",
+            "url": "encora.it/shows/the-sound-of-music/characters/franz",
+            "order": 15
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3894,
+            "name": "Jessica Molaskey",
+            "slug": "jessica-molaskey",
+            "url": "encora.it/performers/jessica-molaskey",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4020,
+            "name": "Sister Berthe",
+            "slug": "sister-berthe",
+            "url": "encora.it/shows/the-sound-of-music/characters/sister-berthe",
+            "order": 17
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 459,
+            "name": "Christiane Noll",
+            "slug": "christiane-noll",
+            "url": "encora.it/performers/christiane-noll",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4021,
+            "name": "Sister Margaretta",
+            "slug": "sister-margaretta",
+            "url": "encora.it/shows/the-sound-of-music/characters/sister-margaretta",
+            "order": 18
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1861,
+            "name": "Elena Shaddow",
+            "slug": "elena-shaddow",
+            "url": "encora.it/performers/elena-shaddow",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 4023,
+            "name": "Sister Sophia",
+            "slug": "sister-sophia",
+            "url": "encora.it/shows/the-sound-of-music/characters/sister-sophia",
+            "order": 20
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10208,
+            "name": "C.J. Wilson",
+            "slug": "cj-wilson",
+            "url": "encora.it/performers/cj-wilson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 11649,
+            "name": "Herr Zeller",
+            "slug": "herr-zeller",
+            "url": "encora.it/shows/the-sound-of-music/characters/herr-zeller",
+            "order": 21
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 25067,
+            "name": "John Bolger",
+            "slug": "john-bolger",
+            "url": "encora.it/performers/john-bolger",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 11804,
+            "name": "Admiral von Schreiber",
+            "slug": "admiral-von-schreiber",
+            "url": "encora.it/shows/the-sound-of-music/characters/admiral-von-schreiber",
+            "order": 23
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T15:46:12.000000Z",
+      "collectedAt": "2026-10-20T14:45:50.000000Z"
+    },
+    {
       "id": 20613,
       "show": "Aida",
       "tour": "The Muny",
@@ -111387,7 +112947,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 105,
+      "owners": 106,
       "wanters": 55,
       "notes": "One head in the way at times and the first couple of minutes of each act are blacked out. Second half of I Just Might is very shaky and slightly blacked out. Good sound throughout. Nice clear video.",
       "cast": [
@@ -113692,7 +115252,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 142,
+      "owners": 143,
       "wanters": 43,
       "notes": "Opening night performance originally livestreamed for NHK in HD and later released on Blu-ray/streaming. This pro-shot is different from the DVD release which is of another performance. ",
       "cast": [
@@ -115606,7 +117166,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 47,
-      "wanters": 28,
+      "wanters": 29,
       "notes": "",
       "cast": [
         {
@@ -119093,7 +120653,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 690,
+      "owners": 691,
       "wanters": 77,
       "notes": null,
       "cast": [
@@ -149976,6 +151536,529 @@
       "collectedAt": "2026-10-20T07:05:15.000000Z"
     },
     {
+      "id": 1111793,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "Celebrating 25 Years of Disney on Broadway",
+      "date": {
+        "full_date": "2019-11-04",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "pro-shot",
+      "mediaType": "video",
+      "recordingType": "pro-shot",
+      "amountRecorded": "complete",
+      "format": "MP4 - 1.19 GB",
+      "venue": "New Amsterdam Theatre",
+      "city": null,
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 39,
+      "wanters": 33,
+      "notes": null,
+      "cast": [
+        {
+          "performer": {
+            "id": 821,
+            "name": "Ramona Keller",
+            "slug": "ramona-keller",
+            "url": "encora.it/performers/ramona-keller",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 666,
+            "name": "Norm Lewis",
+            "slug": "norm-lewis",
+            "url": "encora.it/performers/norm-lewis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 798,
+            "name": "Kerry Butler",
+            "slug": "kerry-butler",
+            "url": "encora.it/performers/kerry-butler",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1078,
+            "name": "Josh Strickland",
+            "slug": "josh-strickland",
+            "url": "encora.it/performers/josh-strickland",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 35,
+            "name": "Kara Lindsay",
+            "slug": "kara-lindsay",
+            "url": "encora.it/performers/kara-lindsay",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4915,
+            "name": "Andrew Barth Feldman",
+            "slug": "andrew-barth-feldman",
+            "url": "encora.it/performers/andrew-barth-feldman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2041,
+            "name": "Michael James Scott",
+            "slug": "michael-james-scott",
+            "url": "encora.it/performers/michael-james-scott",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1201,
+            "name": "Krysta Rodriguez",
+            "slug": "krysta-rodriguez",
+            "url": "encora.it/performers/krysta-rodriguez",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2086,
+            "name": "Susan Egan",
+            "slug": "susan-egan",
+            "url": "encora.it/performers/susan-egan",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5213,
+            "name": "Syndee Winters",
+            "slug": "syndee-winters",
+            "url": "encora.it/performers/syndee-winters",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 759,
+            "name": "Rema Webb",
+            "slug": "rema-webb",
+            "url": "encora.it/performers/rema-webb",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10490,
+            "name": "Kissy Simmons",
+            "slug": "kissy-simmons",
+            "url": "encora.it/performers/kissy-simmons",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 712,
+            "name": "Tamika Lawrence",
+            "slug": "tamika-lawrence",
+            "url": "encora.it/performers/tamika-lawrence",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1651,
+            "name": "Ashley Brown",
+            "slug": "ashley-brown",
+            "url": "encora.it/performers/ashley-brown",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5309,
+            "name": "Alton Fitzgerald White",
+            "slug": "alton-fitzgerald-white",
+            "url": "encora.it/performers/alton-fitzgerald-white",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3322,
+            "name": "Bradley Gibson",
+            "slug": "bradley-gibson",
+            "url": "encora.it/performers/bradley-gibson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 649,
+            "name": "Jelani Alladin",
+            "slug": "jelani-alladin",
+            "url": "encora.it/performers/jelani-alladin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2096,
+            "name": "Sherie Rene Scott",
+            "slug": "sherie-rene-scott",
+            "url": "encora.it/performers/sherie-rene-scott",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 408,
+            "name": "Adam Pascal",
+            "slug": "adam-pascal",
+            "url": "encora.it/performers/adam-pascal",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2497,
+            "name": "James Monroe Iglehart",
+            "slug": "james-monroe-iglehart",
+            "url": "encora.it/performers/james-monroe-iglehart",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 252,
+            "name": "Christian Borle",
+            "slug": "christian-borle",
+            "url": "encora.it/performers/christian-borle",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1316,
+            "name": "Ashley Park",
+            "slug": "ashley-park",
+            "url": "encora.it/performers/ashley-park",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 57698,
+            "name": "S'bu Ngema",
+            "slug": "sbu-ngema",
+            "url": "encora.it/performers/sbu-ngema",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 9289,
+            "name": "Tshidi Manye",
+            "slug": "tshidi-manye",
+            "url": "encora.it/performers/tshidi-manye",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 52510,
+            "name": "Bongi Duma",
+            "slug": "bongi-duma",
+            "url": "encora.it/performers/bongi-duma",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 52509,
+            "name": "Lindiwe Dlamini",
+            "slug": "lindiwe-dlamini",
+            "url": "encora.it/performers/lindiwe-dlamini",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 9011,
+            "name": "Performer",
+            "slug": "singer",
+            "url": "encora.it/shows/concerts-miscellaneous/characters/singer",
+            "order": 1
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T15:23:55.000000Z",
+      "collectedAt": "2026-10-20T15:23:11.000000Z"
+    },
+    {
       "id": 1111808,
       "show": "Lady Day at Emerson's Bar and Grill",
       "tour": "Broadway",
@@ -169335,7 +171418,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 150,
+      "owners": 149,
       "wanters": 80,
       "notes": "Filmed in 4K (released as 1080p and 4K). External audio source. A little spotlight washout in a few scenes, but camera settings were adjusted from previous video, so overall much improved (no more rolling bars). A little shaky now and then, some obstruction from heads in a couple scenes—shot around as well as possible. Jennifer Simard downright SHINES as Joanne and does perhaps the best Ladies Who Lunch I've heard—too bad she isn't eligible for a Tony for this role. Never to be sold except by master, never to be posted anywhere online.",
       "cast": [
@@ -173199,7 +175282,7 @@
       "city": "West Hollywood",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 23,
+      "owners": 24,
       "wanters": 3,
       "notes": "Monday, 9 pm show. Megan Hilty & Shoshana Bean in their two-woman variety show performance. Celebrity guest Melissa Peterman\n\nSETLIST: 1. No More Tears (Enough is Enough) 2. I Know Him So Well 3. What About Love 4. Show Me 5. Medley 6. Reverse Wicked Medley 7. For Good 8. I Will Never Leave You\n\nThe 100 MB version appears to be missing several tracks, as it ends on Reverse Wicked Medley.",
       "cast": [
@@ -182215,7 +184298,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 221,
+      "owners": 222,
       "wanters": 51,
       "notes": "Excellent HD capture of Jennifer Simard as Joanne! Show stop happened right during the transition to the David and Jenny scene (33:05); the showstop is cut out. Filmed from center mezzanine with mostly no obstructions. Minor washout and wandering throughout. Some minor obstruction on the full bottom that doesn't cover much. No curtain call.",
       "cast": [
@@ -182595,8 +184678,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 630,
-      "wanters": 110,
+      "owners": 631,
+      "wanters": 109,
       "notes": "Jeremy's last show!",
       "cast": [
         {
@@ -186971,8 +189054,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 541,
-      "wanters": 67,
+      "owners": 542,
+      "wanters": 66,
       "notes": "Pro-shot filmed in May 2022 with the Off-West End cast, and released on September 16, 2022. Originally released on Roku. Veronica Sawyer does her best to survive her senior year while navigating the beautiful but cruel Heathers, the new to school Jason J.D. Dean, and the constant pressure to fit in with everyone else.\nThree versions exist, the one released on Roku, the one released in UK cinemas without ad breaks or BTS moments, and one that contains a BTS of the filming process with no ad breaks.\nMultiple Subtitle files exist to correspond to the timing of the different versions. ",
       "cast": [
         {
@@ -192446,7 +194529,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 371,
+      "owners": 372,
       "wanters": 67,
       "notes": "Brilliant capture of this show! Unobstructed aside from minor disruption in the final scenes due to people leaving early.",
       "cast": [
@@ -201283,6 +203366,991 @@
       "collectedAt": "2026-03-02T16:25:28.000000Z"
     },
     {
+      "id": 1139078,
+      "show": "Bad Cinderella",
+      "tour": "Broadway",
+      "date": {
+        "full_date": "2023-02-17",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "Medium Observation",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP4 - 10.23 GB",
+      "venue": "Imperial Theatre",
+      "city": "New York",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 170,
+      "wanters": 33,
+      "notes": null,
+      "cast": [
+        {
+          "performer": {
+            "id": 1974,
+            "name": "Linedy Genao",
+            "slug": "linedy-genao",
+            "url": "encora.it/performers/linedy-genao",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87098,
+            "name": "Cinderella",
+            "slug": "cinderella",
+            "url": "encora.it/shows/bad-cinderella/characters/cinderella",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 29070,
+            "name": "Jordan Dobson",
+            "slug": "jordan-dobson",
+            "url": "encora.it/performers/jordan-dobson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87099,
+            "name": "Prince Sebastian",
+            "slug": "prince-sebastian",
+            "url": "encora.it/shows/bad-cinderella/characters/prince-sebastian",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1955,
+            "name": "Grace McLean",
+            "slug": "grace-mclean",
+            "url": "encora.it/performers/grace-mclean",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87100,
+            "name": "The Queen",
+            "slug": "queen",
+            "url": "encora.it/shows/bad-cinderella/characters/queen",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1629,
+            "name": "Carolee Carmello",
+            "slug": "carolee-carmello",
+            "url": "encora.it/performers/carolee-carmello",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87101,
+            "name": "The Stepmother",
+            "slug": "stepmother",
+            "url": "encora.it/shows/bad-cinderella/characters/stepmother",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1709,
+            "name": "Sami Gayle",
+            "slug": "sami-gayle",
+            "url": "encora.it/performers/sami-gayle",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87102,
+            "name": "Adele",
+            "slug": "adele",
+            "url": "encora.it/shows/bad-cinderella/characters/adele",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 83022,
+            "name": "Morgan Higgins",
+            "slug": "morgan-higgins",
+            "url": "encora.it/performers/morgan-higgins",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87103,
+            "name": "Marie",
+            "slug": "marie",
+            "url": "encora.it/shows/bad-cinderella/characters/marie",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 25870,
+            "name": "Christina Acosta Robinson",
+            "slug": "christina-acosta-robinson",
+            "url": "encora.it/performers/christina-acosta-robinson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87104,
+            "name": "The Godmother",
+            "slug": "godmother",
+            "url": "encora.it/shows/bad-cinderella/characters/godmother",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 63355,
+            "name": "Cameron Loyal",
+            "slug": "cameron-loyal",
+            "url": "encora.it/performers/cameron-loyal",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87105,
+            "name": "Prince Charming",
+            "slug": "prince-charming",
+            "url": "encora.it/shows/bad-cinderella/characters/prince-charming",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10525,
+            "name": "Josh Drake",
+            "slug": "josh-drake",
+            "url": "encora.it/performers/josh-drake",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87106,
+            "name": "Arthur",
+            "slug": "arthur",
+            "url": "encora.it/shows/bad-cinderella/characters/arthur",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5730,
+            "name": "Dave Schoonover",
+            "slug": "dave-schoonover",
+            "url": "encora.it/performers/dave-schoonover",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87107,
+            "name": "Dorian",
+            "slug": "dorian",
+            "url": "encora.it/shows/bad-cinderella/characters/dorian",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 76303,
+            "name": "J Savage",
+            "slug": "j-savage",
+            "url": "encora.it/performers/j-savage",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87108,
+            "name": "Gawain",
+            "slug": "gawain",
+            "url": "encora.it/shows/bad-cinderella/characters/gawain",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5883,
+            "name": "Aléna Watters",
+            "slug": "alena-watters",
+            "url": "encora.it/performers/alena-watters",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10150,
+            "name": "Paige Smallwood",
+            "slug": "paige-smallwood",
+            "url": "encora.it/performers/paige-smallwood",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 7650,
+            "name": "Tregoney Shepherd",
+            "slug": "tregoney-shepherd",
+            "url": "encora.it/performers/tregoney-shepherd",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 83024,
+            "name": "Lily Rose",
+            "slug": "lily-rose",
+            "url": "encora.it/performers/lily-rose",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 16277,
+            "name": "Julio Rey",
+            "slug": "julio-rey",
+            "url": "encora.it/performers/julio-rey",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 83023,
+            "name": "Larkin Reilly",
+            "slug": "larkin-reilly",
+            "url": "encora.it/performers/larkin-reilly",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 32215,
+            "name": "Christian Probst",
+            "slug": "christian-probst",
+            "url": "encora.it/performers/christian-probst",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2127,
+            "name": "Sarah Meahl",
+            "slug": "sarah-meahl",
+            "url": "encora.it/performers/sarah-meahl",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 29228,
+            "name": "Mariah Lyttle",
+            "slug": "mariah-lyttle",
+            "url": "encora.it/performers/mariah-lyttle",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 58022,
+            "name": "Ángel Lozada",
+            "slug": "angel-lozada",
+            "url": "encora.it/performers/angel-lozada",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 33856,
+            "name": "Ben Lanham",
+            "slug": "ben-lanham",
+            "url": "encora.it/performers/ben-lanham",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3367,
+            "name": "Kaleigh Cronin",
+            "slug": "kaleigh-cronin",
+            "url": "encora.it/performers/kaleigh-cronin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5216,
+            "name": "Lauren Boyd",
+            "slug": "lauren-boyd",
+            "url": "encora.it/performers/lauren-boyd",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1473,
+            "name": "Raymond Baynard",
+            "slug": "raymond-baynard",
+            "url": "encora.it/performers/raymond-baynard",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5579,
+            "name": "Mike Baerga",
+            "slug": "mike-baerga",
+            "url": "encora.it/performers/mike-baerga",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 87109,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/bad-cinderella/characters/ensemble",
+            "order": 16
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:50:04.000000Z",
+      "collectedAt": "2026-10-20T14:49:52.000000Z"
+    },
+    {
+      "id": 1139268,
+      "show": "Chicago",
+      "tour": "First Broadway Revival",
+      "date": {
+        "full_date": "2023-02-19",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "matinee"
+      },
+      "time": "matinee",
+      "master": "shesmydoctor",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP4 (HD) - 7.28 GB",
+      "venue": "Ambassador Theatre",
+      "city": "New York",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 248,
+      "wanters": 79,
+      "notes": "Nice capture of Jinkx Monsoon in her fantastic Broadway debut, with a mix of ensemble shots and closer shots. There is some obstruction on the left side but it rarely blocks any action. The show is still in great shape!",
+      "cast": [
+        {
+          "performer": {
+            "id": 780,
+            "name": "Charlotte d'Amboise",
+            "slug": "charlotte-damboise",
+            "url": "encora.it/performers/charlotte-damboise",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2895,
+            "name": "Roxie Hart",
+            "slug": "roxie-hart",
+            "url": "encora.it/shows/chicago/characters/roxie-hart",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 21754,
+            "name": "Lana Gordon",
+            "slug": "lana-gordon",
+            "url": "encora.it/performers/lana-gordon",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2896,
+            "name": "Velma Kelly",
+            "slug": "velma-kelly",
+            "url": "encora.it/shows/chicago/characters/velma-kelly",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3402,
+            "name": "Brian O'Brien",
+            "slug": "brian-obrien",
+            "url": "encora.it/performers/brian-obrien",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2897,
+            "name": "Billy Flynn",
+            "slug": "billy-flynn",
+            "url": "encora.it/shows/chicago/characters/billy-flynn",
+            "order": 3
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 3613,
+            "name": "Evan Harrington",
+            "slug": "evan-harrington",
+            "url": "encora.it/performers/evan-harrington",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2898,
+            "name": "Amos Hart",
+            "slug": "amos-hart",
+            "url": "encora.it/shows/chicago/characters/amos-hart",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 82138,
+            "name": "Jinkx Monsoon",
+            "slug": "jinkx-monsoon",
+            "url": "encora.it/performers/jinkx-monsoon",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2899,
+            "name": "Matron \"Mama\" Morton",
+            "slug": "matron-mama-morton",
+            "url": "encora.it/shows/chicago/characters/matron-mama-morton",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3392,
+            "name": "Ryan Lowe",
+            "slug": "r-lowe",
+            "url": "encora.it/performers/r-lowe",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2900,
+            "name": "Mary Sunshine",
+            "slug": "mary-sunshine",
+            "url": "encora.it/shows/chicago/characters/mary-sunshine",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 21756,
+            "name": "Mary Claire King",
+            "slug": "mary-claire-king",
+            "url": "encora.it/performers/mary-claire-king",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2902,
+            "name": "Liz",
+            "slug": "liz",
+            "url": "encora.it/shows/chicago/characters/liz",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4958,
+            "name": "Christine Cornish",
+            "slug": "christine-cornish",
+            "url": "encora.it/performers/christine-cornish",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2901,
+            "name": "Hunyak",
+            "slug": "hunyak",
+            "url": "encora.it/shows/chicago/characters/hunyak",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4406,
+            "name": "Rachel Schur",
+            "slug": "rachel-schur",
+            "url": "encora.it/performers/rachel-schur",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2903,
+            "name": "Annie",
+            "slug": "annie",
+            "url": "encora.it/shows/chicago/characters/annie",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 46477,
+            "name": "Jeff Gorti",
+            "slug": "jeff-gorti",
+            "url": "encora.it/performers/jeff-gorti",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2906,
+            "name": "Fred Casely",
+            "slug": "fred-casely",
+            "url": "encora.it/shows/chicago/characters/fred-casely",
+            "order": 10
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 17962,
+            "name": "Celina Nightengale",
+            "slug": "celina-nightengale",
+            "url": "encora.it/performers/celina-nightengale",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2904,
+            "name": "June",
+            "slug": "june",
+            "url": "encora.it/shows/chicago/characters/june",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 29499,
+            "name": "Arian Keddell",
+            "slug": "arian-keddell",
+            "url": "encora.it/performers/arian-keddell",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2905,
+            "name": "Mona",
+            "slug": "mona",
+            "url": "encora.it/shows/chicago/characters/mona",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 29500,
+            "name": "Jessica Ernest",
+            "slug": "jessica-ernest",
+            "url": "encora.it/performers/jessica-ernest",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2907,
+            "name": "Go-To-Hell-Kitty",
+            "slug": "go-to-hell-kitty",
+            "url": "encora.it/shows/chicago/characters/go-to-hell-kitty",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5577,
+            "name": "Marty Lawson",
+            "slug": "marty-lawson",
+            "url": "encora.it/performers/marty-lawson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 5272,
+            "name": "Sergeant Fogarty",
+            "slug": "sergeant-fogarty",
+            "url": "encora.it/shows/chicago/characters/sergeant-fogarty",
+            "order": 14
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 14601,
+            "name": "David Bushman",
+            "slug": "david-bushman",
+            "url": "encora.it/performers/david-bushman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2910,
+            "name": "The Judge",
+            "slug": "judge",
+            "url": "encora.it/shows/chicago/characters/judge",
+            "order": 15
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 3923,
+            "name": "Denny Paschall",
+            "slug": "denny-paschall",
+            "url": "encora.it/performers/denny-paschall",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2909,
+            "name": "Aaron",
+            "slug": "aaron",
+            "url": "encora.it/shows/chicago/characters/aaron",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 8293,
+            "name": "Michael Scirrotto",
+            "slug": "michael-scirrotto",
+            "url": "encora.it/performers/michael-scirrotto",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 5271,
+            "name": "Harry",
+            "slug": "harry",
+            "url": "encora.it/shows/chicago/characters/harry",
+            "order": 17
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 14601,
+            "name": "David Bushman",
+            "slug": "david-bushman",
+            "url": "encora.it/performers/david-bushman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2908,
+            "name": "Doctor",
+            "slug": "doctor",
+            "url": "encora.it/shows/chicago/characters/doctor",
+            "order": 18
+          },
+          "status": {
+            "label": "Understudy",
+            "abbreviation": "u/s"
+          }
+        },
+        {
+          "performer": {
+            "id": 8293,
+            "name": "Michael Scirrotto",
+            "slug": "michael-scirrotto",
+            "url": "encora.it/performers/michael-scirrotto",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2911,
+            "name": "The Jury",
+            "slug": "jury",
+            "url": "encora.it/shows/chicago/characters/jury",
+            "order": 19
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15593,
+            "name": "Jermaine R. Rembert",
+            "slug": "jermaine-r-rembert",
+            "url": "encora.it/performers/jermaine-r-rembert",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7180,
+            "name": "Martin Harrison",
+            "slug": "martin-harrison",
+            "url": "encora.it/shows/chicago/characters/martin-harrison",
+            "order": 20
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 84997,
+            "name": "Drew Nellesen",
+            "slug": "drew-nellesen",
+            "url": "encora.it/performers/drew-nellesen",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8307,
+            "name": "Court Clerk",
+            "slug": "court-clerk",
+            "url": "encora.it/shows/chicago/characters/court-clerk",
+            "order": 21
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 84997,
+            "name": "Drew Nellesen",
+            "slug": "drew-nellesen",
+            "url": "encora.it/performers/drew-nellesen",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 5273,
+            "name": "Bailiff",
+            "slug": "bailiff",
+            "url": "encora.it/shows/chicago/characters/bailiff",
+            "order": 23
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:49:46.000000Z",
+      "collectedAt": "2026-10-20T14:49:28.000000Z"
+    },
+    {
       "id": 1139399,
       "show": "Les Misérables",
       "tour": "Fourth UK & Ireland Tour",
@@ -207588,7 +210656,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 246,
-      "wanters": 91,
+      "wanters": 90,
       "notes": "starcuffedaward for never seeing josh groban",
       "cast": [
         {
@@ -218713,8 +221781,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 107,
-      "wanters": 82,
+      "owners": 108,
+      "wanters": 81,
       "notes": "Closing",
       "cast": [
         {
@@ -222551,6 +225619,171 @@
       "collectedAt": "2026-02-11T05:17:21.000000Z"
     },
     {
+      "id": 1148855,
+      "show": "Death Note: The Musical",
+      "tour": "West End Concert (Lyric Theatre)",
+      "date": {
+        "full_date": "2023-09-01",
+        "month_known": true,
+        "day_known": false,
+        "date_variant": null,
+        "time": "unknown"
+      },
+      "time": "unknown",
+      "master": "Lasagna",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP4 (4K)",
+      "venue": "Lyric Theatre",
+      "city": "London",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 216,
+      "wanters": 54,
+      "notes": "Good capture of Carl as L! Shot from the side and over a barrier but nothing important is blocked.",
+      "cast": [
+        {
+          "performer": {
+            "id": 14573,
+            "name": "Carl Man",
+            "slug": "carl-man",
+            "url": "encora.it/performers/carl-man",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 565,
+            "name": "L",
+            "slug": "l",
+            "url": "encora.it/shows/death-note-the-musical/characters/l",
+            "order": 1
+          },
+          "status": {
+            "label": "Alternate",
+            "abbreviation": "alt"
+          }
+        },
+        {
+          "performer": {
+            "id": 2404,
+            "name": "George Maguire",
+            "slug": "george-maguire",
+            "url": "encora.it/performers/george-maguire",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 569,
+            "name": "Ryuk",
+            "slug": "ryuk",
+            "url": "encora.it/shows/death-note-the-musical/characters/ryuk",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 36723,
+            "name": "Joaquin Pedro Valdes",
+            "slug": "joaquin-pedro-valdes",
+            "url": "encora.it/performers/joaquin-pedro-valdes",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 564,
+            "name": "Light Yagami",
+            "slug": "light-yagami",
+            "url": "encora.it/shows/death-note-the-musical/characters/light-yagami",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 8394,
+            "name": "Aimie Atkinson",
+            "slug": "aimie-atkinson",
+            "url": "encora.it/performers/aimie-atkinson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 568,
+            "name": "Rem",
+            "slug": "rem",
+            "url": "encora.it/shows/death-note-the-musical/characters/rem",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2778,
+            "name": "Christian Rey Marbella",
+            "slug": "christian-rey-marbella",
+            "url": "encora.it/performers/christian-rey-marbella",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 11323,
+            "name": "Soichiro",
+            "slug": "soichiro",
+            "url": "encora.it/shows/death-note-the-musical/characters/soichiro",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5072,
+            "name": "Jessica Lee",
+            "slug": "jessica-lee",
+            "url": "encora.it/performers/jessica-lee",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 566,
+            "name": "Misa Amane",
+            "slug": "misa-amane",
+            "url": "encora.it/shows/death-note-the-musical/characters/misa-amane",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 92787,
+            "name": "Rachel Clare Chan",
+            "slug": "rachel-clare-chan",
+            "url": "encora.it/performers/rachel-clare-chan",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 567,
+            "name": "Sayu Yagami",
+            "slug": "sayu-yagami",
+            "url": "encora.it/shows/death-note-the-musical/characters/sayu-yagami",
+            "order": 7
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:49:20.000000Z",
+      "collectedAt": "2026-10-20T14:49:06.000000Z"
+    },
+    {
       "id": 1148858,
       "show": "Operation Mincemeat",
       "tour": "West End",
@@ -222676,6 +225909,225 @@
       ],
       "updatedAt": "2026-10-17T12:49:54.000000Z",
       "collectedAt": "2026-10-17T12:49:42.000000Z"
+    },
+    {
+      "id": 1148861,
+      "show": "Sunset Boulevard",
+      "tour": "Third West End Revival",
+      "date": {
+        "full_date": "2023-10-01",
+        "month_known": true,
+        "day_known": false,
+        "date_variant": null,
+        "time": "unknown"
+      },
+      "time": "unknown",
+      "master": "Lasagna",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP4 (4K)",
+      "venue": "Savoy Theatre",
+      "city": "London",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 913,
+      "wanters": 110,
+      "notes": "Unobstructed capture of this innovative production! Wanders a little due to the darkness but everything is captured.",
+      "cast": [
+        {
+          "performer": {
+            "id": 6428,
+            "name": "Nicole Scherzinger",
+            "slug": "nicole-scherzinger",
+            "url": "encora.it/performers/nicole-scherzinger",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1801,
+            "name": "Norma Desmond",
+            "slug": "norma-desmond",
+            "url": "encora.it/shows/sunset-boulevard/characters/norma-desmond",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 48405,
+            "name": "Tom Francis",
+            "slug": "tom-francis",
+            "url": "encora.it/performers/tom-francis",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1802,
+            "name": "Joe Gillis",
+            "slug": "joe-gillis",
+            "url": "encora.it/shows/sunset-boulevard/characters/joe-gillis",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 94148,
+            "name": "Grace Hodgett-Young",
+            "slug": "grace-hodgett-young",
+            "url": "encora.it/performers/grace-hodgett-young",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 12548,
+            "name": "Betty Schaefer",
+            "slug": "betty-schaefer",
+            "url": "encora.it/shows/sunset-boulevard/characters/betty-schaefer",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2752,
+            "name": "David Thaxton",
+            "slug": "david-thaxton",
+            "url": "encora.it/performers/david-thaxton",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 15057,
+            "name": "Max Von Mayerling",
+            "slug": "max-von-meyerling",
+            "url": "encora.it/shows/sunset-boulevard/characters/max-von-meyerling",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 30924,
+            "name": "Ahmed Hamad",
+            "slug": "ahmed-hamad",
+            "url": "encora.it/performers/ahmed-hamad",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1805,
+            "name": "Artie Green",
+            "slug": "artie-green",
+            "url": "encora.it/shows/sunset-boulevard/characters/artie-green",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5727,
+            "name": "Jon Tsouras",
+            "slug": "jon-tsouras",
+            "url": "encora.it/performers/jon-tsouras",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 1806,
+            "name": "Cecil B. DeMille",
+            "slug": "cecil-b-demille",
+            "url": "encora.it/shows/sunset-boulevard/characters/cecil-b-demille",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 68758,
+            "name": "Hannah Yun Chamberlain",
+            "slug": "hannah-yun-chamberlain",
+            "url": "encora.it/performers/hannah-yun-chamberlain",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 5729,
+            "name": "Young Norma",
+            "slug": "young-norma",
+            "url": "encora.it/shows/sunset-boulevard/characters/young-norma",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5727,
+            "name": "Jon Tsouras",
+            "slug": "jon-tsouras",
+            "url": "encora.it/performers/jon-tsouras",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 67171,
+            "name": "Finance Man",
+            "slug": "finance-man",
+            "url": "encora.it/shows/sunset-boulevard/characters/finance-man",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 68758,
+            "name": "Hannah Yun Chamberlain",
+            "slug": "hannah-yun-chamberlain",
+            "url": "encora.it/performers/hannah-yun-chamberlain",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 67173,
+            "name": "Patsy",
+            "slug": "patsy",
+            "url": "encora.it/shows/sunset-boulevard/characters/patsy",
+            "order": 24
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5727,
+            "name": "Jon Tsouras",
+            "slug": "jon-tsouras",
+            "url": "encora.it/performers/jon-tsouras",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 67172,
+            "name": "Stan",
+            "slug": "stan",
+            "url": "encora.it/shows/sunset-boulevard/characters/stan",
+            "order": 27
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:46:56.000000Z",
+      "collectedAt": "2026-10-20T14:46:44.000000Z"
     },
     {
       "id": 1149322,
@@ -226582,8 +230034,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 160,
-      "wanters": 46,
+      "owners": 161,
+      "wanters": 45,
       "notes": "Good capture of this one night only concert! One head obstructs the far left.",
       "cast": [
         {
@@ -243106,6 +246558,614 @@
       "collectedAt": "2026-09-06T05:23:41.000000Z"
     },
     {
+      "id": 1156453,
+      "show": "Merrily We Roll Along",
+      "tour": "First Broadway Revival",
+      "date": {
+        "full_date": "2024-02-28",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "matinee"
+      },
+      "time": "matinee",
+      "master": "bikinibottomday",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MP4 (4K) - 11.37 GB",
+      "venue": "Hudson Theatre",
+      "city": "New York",
+      "giftingStatus": "Never Gift",
+      "limitedStatus": "Unrestricted",
+      "owners": 331,
+      "wanters": 118,
+      "notes": "Excellent 4K capture of this stunning revival! Minor head obstruction throughout, which leads to a little bit of missed action. Increased wandering and unfocusing throughout. Act Two starts a bit into “Gussie’s Opening Number.” Some washout on the wider shots. Includes part of the overture and curtain call, audio is fed from external source.",
+      "cast": [
+        {
+          "performer": {
+            "id": 340,
+            "name": "Jonathan Groff",
+            "slug": "jonathan-groff",
+            "url": "encora.it/performers/jonathan-groff",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2699,
+            "name": "Franklin Shepard",
+            "slug": "franklin-shepard",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/franklin-shepard",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3480,
+            "name": "Daniel Radcliffe",
+            "slug": "daniel-radcliffe",
+            "url": "encora.it/performers/daniel-radcliffe",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 55097,
+            "name": "Charley Kringas",
+            "slug": "charley",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/charley",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1496,
+            "name": "Lindsay Mendez",
+            "slug": "lindsay-mendez",
+            "url": "encora.it/performers/lindsay-mendez",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2701,
+            "name": "Mary Flynn",
+            "slug": "mary-flynn",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/mary-flynn",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 875,
+            "name": "Krystal Joy Brown",
+            "slug": "krystal-joy-brown",
+            "url": "encora.it/performers/krystal-joy-brown",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2704,
+            "name": "Gussie Carnegie",
+            "slug": "gussie-carnegie",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/gussie-carnegie",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 170,
+            "name": "Katie Rose Clarke",
+            "slug": "katie-rose-clarke",
+            "url": "encora.it/performers/katie-rose-clarke",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2703,
+            "name": "Beth Spencer",
+            "slug": "beth-spencer",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/beth-spencer",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 536,
+            "name": "Reg Rogers",
+            "slug": "reg-rogers",
+            "url": "encora.it/performers/reg-rogers",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2702,
+            "name": "Joe Josephson",
+            "slug": "joe-josephson",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/joe-josephson",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 100505,
+            "name": "Rocco van Auken",
+            "slug": "rocco-van-auken",
+            "url": "encora.it/performers/rocco-van-auken",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 5566,
+            "name": "Frank Jr.",
+            "slug": "frank-jr",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/frank-jr",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 27776,
+            "name": "Talia Simone Robinson",
+            "slug": "talia-simone-robinson",
+            "url": "encora.it/performers/talia-simone-robinson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 66323,
+            "name": "Meg Kincaid",
+            "slug": "meg-kincaid",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/meg-kincaid",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4037,
+            "name": "Natalie Wachen",
+            "slug": "natalie-wachen",
+            "url": "encora.it/performers/natalie-wachen",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7281,
+            "name": "K.T.",
+            "slug": "kt",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/kt",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1238,
+            "name": "Vishal Vaidya",
+            "slug": "vishal-vaidya",
+            "url": "encora.it/performers/vishal-vaidya",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7283,
+            "name": "Jerome",
+            "slug": "jerome",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/jerome",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4988,
+            "name": "Corey Mach",
+            "slug": "corey-mach",
+            "url": "encora.it/performers/corey-mach",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7284,
+            "name": "Tyler",
+            "slug": "tyler",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/tyler",
+            "order": 12
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3341,
+            "name": "Sherz Aletaha",
+            "slug": "sherz-aletaha",
+            "url": "encora.it/performers/sherz-aletaha",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7062,
+            "name": "Mrs. Spencer",
+            "slug": "mrs-spencer",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/mrs-spencer",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3341,
+            "name": "Sherz Aletaha",
+            "slug": "sherz-aletaha",
+            "url": "encora.it/performers/sherz-aletaha",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7282,
+            "name": "Scotty",
+            "slug": "scotty",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/scotty",
+            "order": 14
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5481,
+            "name": "Jacob Keith Watson",
+            "slug": "jacob-keith-watson",
+            "url": "encora.it/performers/jacob-keith-watson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7280,
+            "name": "Terry",
+            "slug": "terry",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/terry",
+            "order": 15
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5481,
+            "name": "Jacob Keith Watson",
+            "slug": "jacob-keith-watson",
+            "url": "encora.it/performers/jacob-keith-watson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7061,
+            "name": "Mr. Spencer",
+            "slug": "mr-spencer",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/mr-spencer",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 27370,
+            "name": "Leana Rae Concepcion",
+            "slug": "leana-rae-concepcion",
+            "url": "encora.it/performers/leana-rae-concepcion",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 67339,
+            "name": "Claudia",
+            "slug": "claudia",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/claudia",
+            "order": 17
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2316,
+            "name": "Brian Sears",
+            "slug": "brian-sears",
+            "url": "encora.it/performers/brian-sears",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57136,
+            "name": "Bunker",
+            "slug": "bunker",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/bunker",
+            "order": 18
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2316,
+            "name": "Brian Sears",
+            "slug": "brian-sears",
+            "url": "encora.it/performers/brian-sears",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8285,
+            "name": "Photographer",
+            "slug": "photographer",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/photographer",
+            "order": 19
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 168,
+            "name": "Amanda Rose",
+            "slug": "amanda-rose",
+            "url": "encora.it/performers/amanda-rose",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 8280,
+            "name": "Evelyn",
+            "slug": "evelyn",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/evelyn",
+            "order": 20
+          },
+          "status": {
+            "label": "Swing",
+            "abbreviation": "s/w"
+          }
+        },
+        {
+          "performer": {
+            "id": 168,
+            "name": "Amanda Rose",
+            "slug": "amanda-rose",
+            "url": "encora.it/performers/amanda-rose",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57135,
+            "name": "Dory",
+            "slug": "dory",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/dory",
+            "order": 21
+          },
+          "status": {
+            "label": "Swing",
+            "abbreviation": "s/w"
+          }
+        },
+        {
+          "performer": {
+            "id": 168,
+            "name": "Amanda Rose",
+            "slug": "amanda-rose",
+            "url": "encora.it/performers/amanda-rose",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 66328,
+            "name": "Pianist",
+            "slug": "pianist",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/pianist",
+            "order": 22
+          },
+          "status": {
+            "label": "Swing",
+            "abbreviation": "s/w"
+          }
+        },
+        {
+          "performer": {
+            "id": 39211,
+            "name": "Christian Strange",
+            "slug": "christian-strange",
+            "url": "encora.it/performers/christian-strange",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 7285,
+            "name": "Ru",
+            "slug": "ru",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/ru",
+            "order": 23
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 39211,
+            "name": "Christian Strange",
+            "slug": "christian-strange",
+            "url": "encora.it/performers/christian-strange",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57138,
+            "name": "Reverend",
+            "slug": "reverend",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/reverend",
+            "order": 24
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 94450,
+            "name": "Maya Boyd",
+            "slug": "maya-boyd",
+            "url": "encora.it/performers/maya-boyd",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 67338,
+            "name": "Mimi from Paramount",
+            "slug": "mimi-from-paramount",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/mimi-from-paramount",
+            "order": 25
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 94450,
+            "name": "Maya Boyd",
+            "slug": "maya-boyd",
+            "url": "encora.it/performers/maya-boyd",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57134,
+            "name": "Make-Up Artist",
+            "slug": "make-up-artist",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/make-up-artist",
+            "order": 26
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 27370,
+            "name": "Leana Rae Concepcion",
+            "slug": "leana-rae-concepcion",
+            "url": "encora.it/performers/leana-rae-concepcion",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57131,
+            "name": "Newscaster",
+            "slug": "newscaster",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/newscaster",
+            "order": 28
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2316,
+            "name": "Brian Sears",
+            "slug": "brian-sears",
+            "url": "encora.it/performers/brian-sears",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57131,
+            "name": "Newscaster",
+            "slug": "newscaster",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/newscaster",
+            "order": 28
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 27771,
+            "name": "Evan Alexander Smith",
+            "slug": "evan-alexander-smith",
+            "url": "encora.it/performers/evan-alexander-smith",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 67866,
+            "name": "Greg from Paramount",
+            "slug": "greg-from-paramount",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/greg-from-paramount",
+            "order": 31
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3341,
+            "name": "Sherz Aletaha",
+            "slug": "sherz-aletaha",
+            "url": "encora.it/performers/sherz-aletaha",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57130,
+            "name": "Auditionee",
+            "slug": "auditionee",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/auditionee",
+            "order": 32
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 27370,
+            "name": "Leana Rae Concepcion",
+            "slug": "leana-rae-concepcion",
+            "url": "encora.it/performers/leana-rae-concepcion",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 57130,
+            "name": "Auditionee",
+            "slug": "auditionee",
+            "url": "encora.it/shows/merrily-we-roll-along/characters/auditionee",
+            "order": 32
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:47:51.000000Z",
+      "collectedAt": "2026-10-20T14:47:34.000000Z"
+    },
+    {
       "id": 1156480,
       "show": "RENT",
       "tour": "Paper Mill Playhouse",
@@ -244016,8 +248076,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 156,
-      "wanters": 72,
+      "owners": 157,
+      "wanters": 73,
       "notes": "Brilliant capture of Sean as Charlie! His chemistry with Tash is delightful to see. Shot around heads.",
       "cast": [
         {
@@ -244863,6 +248923,377 @@
       ],
       "updatedAt": "2026-09-06T05:49:13.000000Z",
       "collectedAt": "2026-09-06T05:49:06.000000Z"
+    },
+    {
+      "id": 1156928,
+      "show": "Lempicka",
+      "tour": "Broadway",
+      "date": {
+        "full_date": "2024-04-05",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": null,
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "SBP30",
+      "mediaType": "audio",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "",
+      "venue": "Longacre Theatre",
+      "city": "New York",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 6,
+      "wanters": 12,
+      "notes": "",
+      "cast": [
+        {
+          "performer": {
+            "id": 123,
+            "name": "Eden Espinosa",
+            "slug": "eden-espinosa",
+            "url": "encora.it/performers/eden-espinosa",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2349,
+            "name": "Tamara de Lempicka",
+            "slug": "tamara-de-lempicka",
+            "url": "encora.it/shows/lempicka/characters/tamara-de-lempicka",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1470,
+            "name": "Amber Iman",
+            "slug": "amber-iman",
+            "url": "encora.it/performers/amber-iman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2350,
+            "name": "Rafaela",
+            "slug": "rafaela",
+            "url": "encora.it/shows/lempicka/characters/rafaela",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1254,
+            "name": "Andrew Samonsky",
+            "slug": "andrew-samonsky",
+            "url": "encora.it/performers/andrew-samonsky",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2351,
+            "name": "Tadeusz Lempicki",
+            "slug": "tadeusz-lempicki",
+            "url": "encora.it/shows/lempicka/characters/tadeusz-lempicki",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1513,
+            "name": "George Abud",
+            "slug": "george-abud",
+            "url": "encora.it/performers/george-abud",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2355,
+            "name": "Marinetti",
+            "slug": "marinetti",
+            "url": "encora.it/shows/lempicka/characters/marinetti",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1299,
+            "name": "Natalie Joy Johnson",
+            "slug": "natalie-joy-johnson",
+            "url": "encora.it/performers/natalie-joy-johnson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49471,
+            "name": "Suzy Solidor",
+            "slug": "suzy-solidor",
+            "url": "encora.it/shows/lempicka/characters/suzy-solidor",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2743,
+            "name": "Nathaniel Stampley",
+            "slug": "nathaniel-stampley",
+            "url": "encora.it/performers/nathaniel-stampley",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2353,
+            "name": "The Baron",
+            "slug": "baron",
+            "url": "encora.it/shows/lempicka/characters/baron",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1817,
+            "name": "Beth Leavel",
+            "slug": "beth-leavel",
+            "url": "encora.it/performers/beth-leavel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2354,
+            "name": "The Baroness",
+            "slug": "baroness",
+            "url": "encora.it/shows/lempicka/characters/baroness",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1349,
+            "name": "Zoe Glick",
+            "slug": "zoe-glick",
+            "url": "encora.it/performers/zoe-glick",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2356,
+            "name": "Kizette",
+            "slug": "kizette",
+            "url": "encora.it/shows/lempicka/characters/kizette",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1364,
+            "name": "Nicholas Ward",
+            "slug": "nicholas-ward",
+            "url": "encora.it/performers/nicholas-ward",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2287,
+            "name": "Ximone Rose",
+            "slug": "ximone-rose",
+            "url": "encora.it/performers/ximone-rose",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3728,
+            "name": "Khori Michelle Petinaud",
+            "slug": "khori-michelle-petinaud",
+            "url": "encora.it/performers/khori-michelle-petinaud",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 101002,
+            "name": "Jimin Moon",
+            "slug": "jimin-moon",
+            "url": "encora.it/performers/jimin-moon",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 67607,
+            "name": "Abby Matsusaka",
+            "slug": "abby-matsusaka",
+            "url": "encora.it/performers/abby-matsusaka",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 57896,
+            "name": "Holli' Conway",
+            "slug": "holli-conway",
+            "url": "encora.it/performers/holli-conway",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 209,
+            "name": "Kyle Brown",
+            "slug": "kyle-brown",
+            "url": "encora.it/performers/kyle-brown",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 2267,
+            "name": "Stephen Brower",
+            "slug": "stephen-brower",
+            "url": "encora.it/performers/stephen-brower",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 693,
+            "name": "Lauren Blackman",
+            "slug": "lauren-blackman",
+            "url": "encora.it/performers/lauren-blackman",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 1037,
+            "name": "Alex Aquilino",
+            "slug": "alex-aquilino",
+            "url": "encora.it/performers/alex-aquilino",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 49473,
+            "name": "Ensemble",
+            "slug": "ensemble-1",
+            "url": "encora.it/shows/lempicka/characters/ensemble-1",
+            "order": 9
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T15:44:24.000000Z",
+      "collectedAt": "2026-10-20T15:43:18.000000Z"
     },
     {
       "id": 1156956,
@@ -265935,7 +270366,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 342,
+      "owners": 343,
       "wanters": 69,
       "notes": null,
       "cast": [
@@ -268917,7 +273348,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 491,
+      "owners": 492,
       "wanters": 106,
       "notes": null,
       "cast": [
@@ -272801,7 +277232,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 65,
-      "wanters": 23,
+      "wanters": 24,
       "notes": null,
       "cast": [
         {
@@ -277551,8 +281982,8 @@
       "city": "Cambridge",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 186,
-      "wanters": 140,
+      "owners": 187,
+      "wanters": 139,
       "notes": "The video, including clips or audio, should never be posted in any public online space without my consent. This includes but is not limited to Reddit, TikTok, YouTube, Instagram, Twitter/X, and Discord.",
       "cast": [
         {
@@ -289063,7 +293494,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 214,
+      "owners": 215,
       "wanters": 66,
       "notes": null,
       "cast": [
@@ -324506,8 +328937,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 295,
-      "wanters": 125,
+      "owners": 296,
+      "wanters": 124,
       "notes": null,
       "cast": [
         {
@@ -328577,7 +333008,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 184,
-      "wanters": 71,
+      "wanters": 72,
       "notes": "Only known video of Lilianna Hendy as Dinah.",
       "cast": [
         {
@@ -336650,7 +341081,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 199,
-      "wanters": 74,
+      "wanters": 75,
       "notes": null,
       "cast": [
         {
@@ -351392,7 +355823,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 514,
-      "wanters": 229,
+      "wanters": 230,
       "notes": null,
       "cast": [
         {
@@ -359266,8 +363697,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 986,
-      "wanters": 76,
+      "owners": 988,
+      "wanters": 75,
       "notes": "Filmed at Wyndham's Theatre from September 9-11 2024 during the show's West End transfer from its original run at the Donmar Warehouse. \n\nMultiple versions circulate:\n- Censored audio (Aired on PBS's Great Performances May 9, 2025)\n- Uncensored audio with hardcoded timestamp in top-left corner and different scene changes, leaked theatrical release version\n- Full uncensored version ripped from Amazon. Swear words are included, and the camera doesn't cut away during them. No time code present.\n\nCheck with traders.",
       "cast": [
         {
@@ -386278,7 +390709,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 79,
-      "wanters": 62,
+      "wanters": 63,
       "notes": null,
       "cast": [
         {
@@ -407772,6 +412203,491 @@
       "collectedAt": "2026-09-22T04:54:30.000000Z"
     },
     {
+      "id": 2018247,
+      "show": "Evita",
+      "tour": "Second West End Revival",
+      "date": {
+        "full_date": "2025-06-01",
+        "month_known": true,
+        "day_known": false,
+        "date_variant": null,
+        "time": "unknown"
+      },
+      "time": "unknown",
+      "master": "hitmewithyourbethshot",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "MTS",
+      "venue": "London Palladium",
+      "city": "London",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 151,
+      "wanters": 120,
+      "notes": "Only released by the master as MTS files, all MP4s are leaked rips.",
+      "cast": [
+        {
+          "performer": {
+            "id": 87920,
+            "name": "Rachel Zegler",
+            "slug": "rachel-zegler",
+            "url": "encora.it/performers/rachel-zegler",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2122,
+            "name": "Eva Perón",
+            "slug": "eva-peron",
+            "url": "encora.it/shows/evita/characters/eva-peron",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 107113,
+            "name": "Diego Andres Rodriguez",
+            "slug": "diego-andres-rodriguez",
+            "url": "encora.it/performers/diego-andres-rodriguez",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2123,
+            "name": "Che",
+            "slug": "che",
+            "url": "encora.it/shows/evita/characters/che",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 83164,
+            "name": "James Olivas",
+            "slug": "james-olivas",
+            "url": "encora.it/performers/james-olivas",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2124,
+            "name": "Perón",
+            "slug": "peron",
+            "url": "encora.it/shows/evita/characters/peron",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 8358,
+            "name": "Aaron Lee Lambert",
+            "slug": "aaron-lee-lambert",
+            "url": "encora.it/performers/aaron-lee-lambert",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2125,
+            "name": "Magaldi",
+            "slug": "magaldi",
+            "url": "encora.it/shows/evita/characters/magaldi",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 79878,
+            "name": "Bella Brown",
+            "slug": "bella-brown",
+            "url": "encora.it/performers/bella-brown",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 2126,
+            "name": "Perón's Mistress",
+            "slug": "perons-mistress",
+            "url": "encora.it/shows/evita/characters/perons-mistress",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 59650,
+            "name": "Harrison Wilde",
+            "slug": "harrison-wilde",
+            "url": "encora.it/performers/harrison-wilde",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5727,
+            "name": "Jon Tsouras",
+            "slug": "jon-tsouras",
+            "url": "encora.it/performers/jon-tsouras",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10597,
+            "name": "Monica Swayne",
+            "slug": "monica-swayne",
+            "url": "encora.it/performers/monica-swayne",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 114792,
+            "name": "Alysha Sontae",
+            "slug": "alysha-sontae",
+            "url": "encora.it/performers/alysha-sontae",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 16739,
+            "name": "Perry O'Dea",
+            "slug": "perry-odea",
+            "url": "encora.it/performers/perry-odea",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 96351,
+            "name": "Mia Mullarkey",
+            "slug": "mia-mullarkey",
+            "url": "encora.it/performers/mia-mullarkey",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 35655,
+            "name": "Mireia Mambo",
+            "slug": "mireia-mambo",
+            "url": "encora.it/performers/mireia-mambo",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 29937,
+            "name": "Louis Mackrodt",
+            "slug": "louis-mackrodt",
+            "url": "encora.it/performers/louis-mackrodt",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 86157,
+            "name": "Diante Lodge",
+            "slug": "diante-lodge",
+            "url": "encora.it/performers/diante-lodge",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 9883,
+            "name": "Michael Lin",
+            "slug": "michael-lin",
+            "url": "encora.it/performers/michael-lin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 28803,
+            "name": "Natasha Leaver",
+            "slug": "natasha-leaver",
+            "url": "encora.it/performers/natasha-leaver",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 32210,
+            "name": "DeAngelo Jones",
+            "slug": "deangelo-jones",
+            "url": "encora.it/performers/deangelo-jones",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 10859,
+            "name": "Sally Frith",
+            "slug": "sally-frith",
+            "url": "encora.it/performers/sally-frith",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 83275,
+            "name": "Kyeirah D'Marni",
+            "slug": "kyeirah-dmarni",
+            "url": "encora.it/performers/kyeirah-dmarni",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 8376,
+            "name": "Damian Buhagiar",
+            "slug": "damian-buhagiar",
+            "url": "encora.it/performers/damian-buhagiar",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 114791,
+            "name": "Shakara Brown",
+            "slug": "shakara-brown",
+            "url": "encora.it/performers/shakara-brown",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 68761,
+            "name": "Gabriela Benedetti",
+            "slug": "gabriela-benedetti",
+            "url": "encora.it/performers/gabriela-benedetti",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 19294,
+            "name": "Carl Au",
+            "slug": "carl-au",
+            "url": "encora.it/performers/carl-au",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 90644,
+            "name": "Lucas Koch",
+            "slug": "lucas-koch",
+            "url": "encora.it/performers/lucas-koch",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 6085,
+            "name": "Ensemble",
+            "slug": "ensemble",
+            "url": "encora.it/shows/evita/characters/ensemble",
+            "order": 33
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-10-20T14:48:59.000000Z",
+      "collectedAt": "2026-10-20T14:48:43.000000Z"
+    },
+    {
       "id": 2018271,
       "show": "The Phantom of the Opera (Andrew Lloyd Webber)",
       "tour": "West End",
@@ -415739,7 +420655,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 39,
-      "wanters": 47,
+      "wanters": 48,
       "notes": null,
       "cast": [
         {
@@ -419274,8 +424190,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 200,
-      "wanters": 76,
+      "owners": 201,
+      "wanters": 75,
       "notes": null,
       "cast": [
         {
@@ -423356,8 +428272,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 55,
-      "wanters": 54,
+      "owners": 56,
+      "wanters": 53,
       "notes": null,
       "cast": [
         {
@@ -430344,8 +435260,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 96,
-      "wanters": 37,
+      "owners": 97,
+      "wanters": 36,
       "notes": null,
       "cast": [
         {
@@ -439423,8 +444339,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 121,
-      "wanters": 194,
+      "owners": 122,
+      "wanters": 197,
       "notes": null,
       "cast": [
         {
@@ -440057,7 +444973,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 12,
+      "owners": 11,
       "wanters": 11,
       "notes": null,
       "cast": [
@@ -444266,7 +449182,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 48,
-      "wanters": 67,
+      "wanters": 68,
       "notes": null,
       "cast": [
         {
@@ -444603,8 +449519,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 62,
-      "wanters": 57,
+      "owners": 63,
+      "wanters": 56,
       "notes": null,
       "cast": [
         {
@@ -454578,8 +459494,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 12,
-      "wanters": 10,
+      "owners": 13,
+      "wanters": 9,
       "notes": "chloroformandshovels has released a recording of the same performance, as well as of the matinée performance (Justin's debut)",
       "cast": [
         {
@@ -464850,7 +469766,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 126,
-      "wanters": 95,
+      "wanters": 96,
       "notes": null,
       "cast": [
         {
@@ -467946,8 +472862,8 @@
       "city": "Chicago",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 129,
-      "wanters": 55,
+      "owners": 130,
+      "wanters": 54,
       "notes": null,
       "cast": [
         {
@@ -484468,8 +489384,8 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 129,
-      "wanters": 19,
+      "owners": 130,
+      "wanters": 18,
       "notes": null,
       "cast": [
         {
@@ -486584,8 +491500,8 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 327,
-      "wanters": 128,
+      "owners": 328,
+      "wanters": 127,
       "notes": null,
       "cast": [
         {
@@ -496347,7 +501263,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 26,
+      "owners": 27,
       "wanters": 45,
       "notes": null,
       "cast": [
@@ -497226,7 +502142,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 14,
+      "owners": 15,
       "wanters": 47,
       "notes": null,
       "cast": [
@@ -497877,7 +502793,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 4,
-      "wanters": 5,
+      "wanters": 4,
       "notes": null,
       "cast": [
         {
@@ -498660,7 +503576,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 40,
+      "owners": 41,
       "wanters": 53,
       "notes": null,
       "cast": [
@@ -500916,8 +505832,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 10,
-      "wanters": 8,
+      "owners": 11,
+      "wanters": 7,
       "notes": null,
       "cast": [
         {
@@ -505187,8 +510103,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 4,
-      "wanters": 7,
+      "owners": 5,
+      "wanters": 6,
       "notes": null,
       "cast": [
         {
@@ -507464,7 +512380,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 52,
-      "wanters": 4,
+      "wanters": 5,
       "notes": null,
       "cast": [
         {
@@ -512253,8 +517169,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 41,
-      "wanters": 49,
+      "owners": 42,
+      "wanters": 48,
       "notes": null,
       "cast": [
         {
@@ -514677,7 +519593,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 146,
-      "wanters": 33,
+      "wanters": 34,
       "notes": null,
       "cast": [
         {
@@ -518415,7 +523331,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 20,
+      "owners": 21,
       "wanters": 53,
       "notes": null,
       "cast": [
@@ -538228,7 +543144,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 39,
+      "owners": 40,
       "wanters": 2,
       "notes": null,
       "cast": [
@@ -557739,7 +562655,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 271,
+      "owners": 273,
       "wanters": 44,
       "notes": "Footage was captured during three live performances on February 28 and March 1, 2025. Premiered on June 8, 2026; released in the United States on July 24, 2026. https://www.imdb.com/title/tt36307021/",
       "cast": [
@@ -560583,8 +565499,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 132,
-      "wanters": 72,
+      "owners": 133,
+      "wanters": 73,
       "notes": "Multi-camera archival pro-shot of the original Broadway cast filmed during previews.\n\nCurrently circulating version was uploaded to Vimeo in August 2026 by the production's casting director, and has hardcoded English subtitles and an improper framerate (so the source is presumably a screen recording).",
       "cast": [
         {
@@ -576276,7 +581192,7 @@
       "city": "Cleveland",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 6,
+      "owners": 5,
       "wanters": 4,
       "notes": "Please do not post/gift/freely share this audio or post any clips anywhere online. This audio is never to be sold. NFT except through master.",
       "cast": [
@@ -577049,7 +581965,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 19,
+      "owners": 20,
       "wanters": 0,
       "notes": null,
       "cast": [
@@ -586471,7 +591387,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 30,
-      "wanters": 34,
+      "wanters": 35,
       "notes": "Pro Shot video of the Workshop Production.",
       "cast": [
         {
@@ -587535,7 +592451,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 5,
+      "owners": 6,
       "wanters": 5,
       "notes": null,
       "cast": [
@@ -591731,8 +596647,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 5,
-      "wanters": 5,
+      "owners": 6,
+      "wanters": 4,
       "notes": "Only trade through me before the NFT date passes, Solea is AMAZING\n\nI definitely didn’t know what was going to happen and I was shocked, incredible show",
       "cast": [
         {
@@ -593329,8 +598245,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 34,
-      "wanters": 21,
+      "owners": 37,
+      "wanters": 20,
       "notes": null,
       "cast": [
         {
@@ -593513,8 +598429,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 16,
-      "wanters": 18,
+      "owners": 18,
+      "wanters": 17,
       "notes": null,
       "cast": [
         {
@@ -594001,8 +598917,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 7,
-      "wanters": 5,
+      "owners": 10,
+      "wanters": 3,
       "notes": null,
       "cast": [
         {
