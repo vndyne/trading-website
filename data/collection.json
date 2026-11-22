@@ -1,5 +1,5 @@
 {
-  "total": 2493,
+  "total": 2495,
   "items": [
     {
       "id": 5,
@@ -2875,7 +2875,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 120,
-      "wanters": 39,
+      "wanters": 40,
       "notes": "Crystal clear picture and sound. First five minutes are shaky, due to settling in and latecomers. After that, amazing picture and closeups. A+",
       "cast": [
         {
@@ -5386,8 +5386,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 748,
-      "wanters": 76,
+      "owners": 749,
+      "wanters": 75,
       "notes": "Filmed January 3 & 4, 2017 and aired on PBS on October 27, 2017.",
       "cast": [
         {
@@ -16171,7 +16171,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 638,
-      "wanters": 180,
+      "wanters": 181,
       "notes": "Filmed from the right orchestra, at a slight angle, but excellent quality. The taper originally released this as a blu-ray, 2-disc DVDs or 1-disc DVD, so make sure to get the version that best suits your needs.",
       "cast": [
         {
@@ -25591,7 +25591,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 183,
-      "wanters": 54,
+      "wanters": 55,
       "notes": "Filmed from the back of the orchestra. There are times that a cloth that the master is using covers the lens. Bette gets a standing ovation after Hello Dolly and at curtain call.",
       "cast": [
         {
@@ -33613,7 +33613,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 445,
+      "owners": 446,
       "wanters": 72,
       "notes": "Excellent HD capture of the new revival which been stripped down and streamlined to focus on Celie's journey. Some beautiful moments in the show with the direction and simplicity spotlighting the story. A few blackouts in the first 5 minutes, as clueless ushers fumbled around. A",
       "cast": [
@@ -34051,7 +34051,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 193,
+      "owners": 194,
       "wanters": 38,
       "notes": null,
       "cast": [
@@ -39526,7 +39526,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 166,
-      "wanters": 82,
+      "wanters": 83,
       "notes": null,
       "cast": [
         {
@@ -44080,7 +44080,7 @@
       "mediaType": "video",
       "recordingType": "bootleg",
       "amountRecorded": "complete",
-      "format": "VOB + smalls - 2.84 GB",
+      "format": "VOB + Smalls (2.84 GB)",
       "venue": "Plymouth Theatre",
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
@@ -70289,8 +70289,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 226,
-      "wanters": 61,
+      "owners": 227,
+      "wanters": 60,
       "notes": "Filmed sometime in January-February.\nThere are at least two versions, 2.98 GB and 4.09 GB. The 2.98 GB DVD has better video and audio, and runs a few seconds longer (2:11:34 compared to 2:11:08). The subtitles are for the 2.98 GB version.\nThe SRT subtitles contain speaker names, which are sometimes heavily abbreviated out of reading speed considerations. In an attempt to alleviate this, the ASS subtitles have the speaker names replaced with emoji. Also, in extreme cases, there are as many as four speakers per subtitle, since it just can't be helped sometimes.",
       "cast": [
         {
@@ -85860,7 +85860,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 140,
-      "wanters": 47,
+      "wanters": 48,
       "notes": "Eden really impressed and Megan is still terrific. A beautiful capture of the LA cast with no obstructions and solid performances from most. A+",
       "cast": [
         {
@@ -89003,7 +89003,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 628,
+      "owners": 629,
       "wanters": 105,
       "notes": "Closing night. A couple heads at the bottom of the screen that obstruct a bit but are shot around when action is downstage.",
       "cast": [
@@ -107232,6 +107232,358 @@
       "collectedAt": "2026-08-10T14:06:26.000000Z"
     },
     {
+      "id": 10795,
+      "show": "RENT",
+      "tour": "Angel Tour",
+      "date": {
+        "full_date": "1999-09-05",
+        "month_known": true,
+        "day_known": true,
+        "date_variant": "1",
+        "time": "evening"
+      },
+      "time": "evening",
+      "master": "Unknown",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "complete",
+      "format": "VOB + smalls - 3.42 GB",
+      "venue": null,
+      "city": "San Francisco",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 18,
+      "wanters": 17,
+      "notes": "Closing Night. Filmed from the third-row orchestra.",
+      "cast": [
+        {
+          "performer": {
+            "id": 733,
+            "name": "Trey Ellett",
+            "slug": "trey-ellett",
+            "url": "encora.it/performers/trey-ellett",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 167,
+            "name": "Mark Cohen",
+            "slug": "mark-cohen",
+            "url": "encora.it/shows/rent/characters/mark-cohen",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15723,
+            "name": "Dean Balkwill",
+            "slug": "dean-balkwill",
+            "url": "encora.it/performers/dean-balkwill",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3340,
+            "name": "Roger Davis",
+            "slug": "roger",
+            "url": "encora.it/shows/rent/characters/roger",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 7386,
+            "name": "Sharon Leal",
+            "slug": "sharon-leal",
+            "url": "encora.it/performers/sharon-leal",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 169,
+            "name": "Mimi Márquez",
+            "slug": "mimi-marquez",
+            "url": "encora.it/shows/rent/characters/mimi-marquez",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15724,
+            "name": "Erin Keaney",
+            "slug": "erin-keaney",
+            "url": "encora.it/performers/erin-keaney",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 172,
+            "name": "Maureen Johnson",
+            "slug": "maureen-johnson",
+            "url": "encora.it/shows/rent/characters/maureen-johnson",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 787,
+            "name": "Mark Leroy Jackson",
+            "slug": "mark-leroy-jackson",
+            "url": "encora.it/performers/mark-leroy-jackson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 171,
+            "name": "Tom Collins",
+            "slug": "tom-collins",
+            "url": "encora.it/shows/rent/characters/tom-collins",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5699,
+            "name": "Shaun Earl",
+            "slug": "shaun-earl",
+            "url": "encora.it/performers/shaun-earl",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3342,
+            "name": "Angel Dumott Schunard",
+            "slug": "angel",
+            "url": "encora.it/shows/rent/characters/angel",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15726,
+            "name": "Brian M. Love",
+            "slug": "brian-m-love",
+            "url": "encora.it/performers/brian-m-love",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3345,
+            "name": "Benjamin Coffin III",
+            "slug": "benny",
+            "url": "encora.it/shows/rent/characters/benny",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15725,
+            "name": "Kamilah Martin",
+            "slug": "kamilah-martin",
+            "url": "encora.it/performers/kamilah-martin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 38477,
+            "name": "Joanne Jefferson",
+            "slug": "joanne-jeferson",
+            "url": "encora.it/shows/rent/characters/joanne-jeferson",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15730,
+            "name": "Cheri Smith",
+            "slug": "cheri-smith",
+            "url": "encora.it/performers/cheri-smith",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 420,
+            "name": "Alexi Darling",
+            "slug": "alexi-darling",
+            "url": "encora.it/shows/rent/characters/alexi-darling",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4505,
+            "name": "Alan Mingo Jr.",
+            "slug": "alan-mingo-jr",
+            "url": "encora.it/performers/alan-mingo-jr",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 426,
+            "name": "Mr. Jefferson",
+            "slug": "mr-jefferson",
+            "url": "encora.it/shows/rent/characters/mr-jefferson",
+            "order": 10
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 88041,
+            "name": "Robin S. Walker",
+            "slug": "robin-s-walker",
+            "url": "encora.it/performers/robin-s-walker",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 428,
+            "name": "Mrs. Jefferson",
+            "slug": "mrs-jefferson",
+            "url": "encora.it/shows/rent/characters/mrs-jefferson",
+            "order": 11
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15728,
+            "name": "Kristen McDonald",
+            "slug": "kristen-mcdonald",
+            "url": "encora.it/performers/kristen-mcdonald",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3346,
+            "name": "Mrs. Cohen",
+            "slug": "mrs-cohen",
+            "url": "encora.it/shows/rent/characters/mrs-cohen",
+            "order": 13
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 3357,
+            "name": "Christian Anderson",
+            "slug": "christian-anderson",
+            "url": "encora.it/performers/christian-anderson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 424,
+            "name": "Gordon",
+            "slug": "gordon",
+            "url": "encora.it/shows/rent/characters/gordon",
+            "order": 16
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 13856,
+            "name": "Evan D'Angeles",
+            "slug": "evan-dangeles",
+            "url": "encora.it/performers/evan-dangeles",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 430,
+            "name": "Paul",
+            "slug": "paul",
+            "url": "encora.it/shows/rent/characters/paul",
+            "order": 17
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 15729,
+            "name": "Lambert Moss",
+            "slug": "lambert-moss",
+            "url": "encora.it/performers/lambert-moss",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 432,
+            "name": "Steve",
+            "slug": "steve",
+            "url": "encora.it/shows/rent/characters/steve",
+            "order": 18
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 88041,
+            "name": "Robin S. Walker",
+            "slug": "robin-s-walker",
+            "url": "encora.it/performers/robin-s-walker",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 32528,
+            "name": "Seasons of Love Soloist #1",
+            "slug": "sol-soloist-one",
+            "url": "encora.it/shows/rent/characters/sol-soloist-one",
+            "order": 23
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 4505,
+            "name": "Alan Mingo Jr.",
+            "slug": "alan-mingo-jr",
+            "url": "encora.it/performers/alan-mingo-jr",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 45360,
+            "name": "Seasons of Love Soloist #2",
+            "slug": "seasons-of-love-soloist-2",
+            "url": "encora.it/shows/rent/characters/seasons-of-love-soloist-2",
+            "order": 24
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-11-22T16:34:56.000000Z",
+      "collectedAt": "2026-11-22T16:34:40.000000Z"
+    },
+    {
       "id": 10796,
       "show": "RENT",
       "tour": "Angel Tour",
@@ -109305,7 +109657,7 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 10,
+      "owners": 11,
       "wanters": 17,
       "notes": "A decent cam. Sung in mostly English with spoken bits and occasional lyrics (e.g. Tune Ups) in Portuguese.",
       "cast": [
@@ -115801,7 +116153,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 95,
-      "wanters": 68,
+      "wanters": 69,
       "notes": null,
       "cast": [
         {
@@ -136094,7 +136446,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 249,
-      "wanters": 57,
+      "wanters": 58,
       "notes": null,
       "cast": [
         {
@@ -157031,7 +157383,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 768,
+      "owners": 769,
       "wanters": 101,
       "notes": "Good HD capture from the right orchestra with beautiful zooms and way less obstruction than the March video. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.",
       "cast": [
@@ -173282,7 +173634,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 40,
+      "owners": 41,
       "wanters": 18,
       "notes": "Shot from the front row, so it is at an odd angle. A few zooms, but mostly a full stage shot.",
       "cast": [
@@ -183714,7 +184066,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 37,
-      "wanters": 5,
+      "wanters": 6,
       "notes": null,
       "cast": [
         {
@@ -216135,6 +216487,168 @@
       "collectedAt": "2026-11-19T11:25:18.000000Z"
     },
     {
+      "id": 1116234,
+      "show": "RENT",
+      "tour": "Canadian Tour",
+      "date": {
+        "full_date": "1998-09-01",
+        "month_known": true,
+        "day_known": false,
+        "date_variant": null,
+        "time": "unknown"
+      },
+      "time": "unknown",
+      "master": "Unknown",
+      "mediaType": "video",
+      "recordingType": "bootleg",
+      "amountRecorded": "partial",
+      "format": "VOB (with smalls)",
+      "venue": null,
+      "city": "Vancouver",
+      "giftingStatus": "Gift at your Discretion",
+      "limitedStatus": "Unrestricted",
+      "owners": 12,
+      "wanters": 10,
+      "notes": "Starts during RENT. Finishes around Ill Cover You Reprise. A lot of spotlight washout and generation loss but stellar audio.",
+      "cast": [
+        {
+          "performer": {
+            "id": 7045,
+            "name": "Chad Richardson",
+            "slug": "chad-richardson",
+            "url": "encora.it/performers/chad-richardson",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 167,
+            "name": "Mark Cohen",
+            "slug": "mark-cohen",
+            "url": "encora.it/shows/rent/characters/mark-cohen",
+            "order": 1
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 7403,
+            "name": "Cary Shields",
+            "slug": "cary-shields",
+            "url": "encora.it/performers/cary-shields",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3340,
+            "name": "Roger Davis",
+            "slug": "roger",
+            "url": "encora.it/shows/rent/characters/roger",
+            "order": 2
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 44411,
+            "name": "Saskia Garel",
+            "slug": "saskia-garel",
+            "url": "encora.it/performers/saskia-garel",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 169,
+            "name": "Mimi Márquez",
+            "slug": "mimi-marquez",
+            "url": "encora.it/shows/rent/characters/mimi-marquez",
+            "order": 3
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 38628,
+            "name": "Jenifer Aubry",
+            "slug": "jennifer-aubry",
+            "url": "encora.it/performers/jennifer-aubry",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 172,
+            "name": "Maureen Johnson",
+            "slug": "maureen-johnson",
+            "url": "encora.it/shows/rent/characters/maureen-johnson",
+            "order": 4
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 38627,
+            "name": "Danny Blanco",
+            "slug": "danny-blanco",
+            "url": "encora.it/performers/danny-blanco",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 171,
+            "name": "Tom Collins",
+            "slug": "tom-collins",
+            "url": "encora.it/shows/rent/characters/tom-collins",
+            "order": 5
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 5690,
+            "name": "Jai Rodriguez",
+            "slug": "jai-rodriguez",
+            "url": "encora.it/performers/jai-rodriguez",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 3342,
+            "name": "Angel Dumott Schunard",
+            "slug": "angel",
+            "url": "encora.it/shows/rent/characters/angel",
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 38629,
+            "name": "Karen LeBlanc",
+            "slug": "karen-leblanc",
+            "url": "encora.it/performers/karen-leblanc",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 38477,
+            "name": "Joanne Jefferson",
+            "slug": "joanne-jeferson",
+            "url": "encora.it/shows/rent/characters/joanne-jeferson",
+            "order": 8
+          },
+          "status": null
+        }
+      ],
+      "updatedAt": "2026-11-22T16:23:50.000000Z",
+      "collectedAt": "2026-11-22T16:23:45.000000Z"
+    },
+    {
       "id": 1116235,
       "show": "RENT",
       "tour": "Bolivia",
@@ -217017,8 +217531,8 @@
       "city": "San Francisco",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 11,
-      "wanters": 19,
+      "owners": 12,
+      "wanters": 18,
       "notes": "Black and white house-cam video with soundboard audio; Includes scenes of Kristen Lee Kelly on Law & Order, and Wilzon Cruz on Ally McBeal.",
       "cast": [
         {
@@ -225371,7 +225885,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 437,
+      "owners": 438,
       "wanters": 128,
       "notes": "The only known full video bootleg of NYTW. Postmastered and distributed by musain, threadcutters, and BenTheChipsAreDown. Do not ask for master contact - without getting into too much info, the filmer ended up being a bigot and a creep to cast members, and although this video is not a leak and the distributors have permission to share, they all want to be careful and know who's getting it. Gift Upon Request to those who ask (via the distributors only), but please don't share the video or link in any public setting, and make edits/gifs at your own discretion.\n\nBand: Tim Vaughn (Trombone sub), Clara Kennedy (Cello sub), Sam Bardfeld (Violin sub), Ben Perowsky (Drums), Robinson Morse (Bass), Michael Chorney (Guitar), Ted Baker (Keys sub)",
       "cast": [
@@ -225558,7 +226072,7 @@
       "city": "Edmonton",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 363,
+      "owners": 364,
       "wanters": 94,
       "notes": "The only known full video bootleg of Edmonton. Postmastered and distributed by musain, threadcutters, and BenTheChipsAreDown. Do not ask for master contact - without getting into too much info, the filmer ended up being a bigot and a creep to cast members, and although this video is not a leak and the distributors have permission to share, they all want to be careful and know who's getting it. Gift Upon Request to those who ask (via the distributors only), but please don't share the video or link in any public setting, and make edits/gifs at your own discretion.\n\nBand: Audrey Ochoa (Trombone), Ian Woodman (Cello), Jim Cockell (Violin), Joel Jeschke (Drums), Aretha Tillotson (Bass), Jim Head (Guitar), Liam Robinson (Keys)",
       "cast": [
@@ -228507,7 +229021,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 7,
-      "wanters": 16,
+      "wanters": 17,
       "notes": "Highlights being: Clip of Defying Gravity , Im Not That Girl Reprise, clip of As long as youre mine. And full video of Thank Goodness.",
       "cast": [
         {
@@ -243722,7 +244236,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 13,
-      "wanters": 25,
+      "wanters": 26,
       "notes": "Video highlights of Allis final performance (at the time). Includes No One Mourns the Wicked, The Wizard and I, What Is This Feeling, Popular, One Short Day, Defying Gravity, As Long As Youre Mine, Catfight + No Good Deed, For Good + Melting, and Finale. Stage shot with no zooms, and often is unfocused, but audio is decent.",
       "cast": [
         {
@@ -252477,7 +252991,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 8,
-      "wanters": 20,
+      "wanters": 21,
       "notes": "Shot vertically, presumably from a phone. Highlights include Popular, Defying Gravity, As Long As Youre Mine, and No Good Deed.",
       "cast": [
         {
@@ -255428,7 +255942,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 25,
+      "owners": 26,
       "wanters": 4,
       "notes": null,
       "cast": [
@@ -264174,8 +264688,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 255,
-      "wanters": 33,
+      "owners": 256,
+      "wanters": 32,
       "notes": null,
       "cast": [
         {
@@ -265542,7 +266056,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 9,
-      "wanters": 15,
+      "wanters": 16,
       "notes": "16mins of highlights include What Is This Feeling, Defying Gravity and For Good. No zooms but shot from the first few rows of the orchestra, so decent quality.",
       "cast": [
         {
@@ -266563,7 +267077,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 8,
-      "wanters": 17,
+      "wanters": 18,
       "notes": "18mins of highlights include Popular, Defying Gravity, and No Good Deed. No Good Deed stops after alright, enough, so be it.",
       "cast": [
         {
@@ -267743,8 +268257,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 11,
-      "wanters": 16,
+      "owners": 12,
+      "wanters": 17,
       "notes": "Highlights include No One Mourns The Wicked, The Wizard and I, Popular, Defying Gravity (in two parts), and No Good Deed.",
       "cast": [
         {
@@ -271999,7 +272513,7 @@
       "city": "Berlin",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 11,
+      "owners": 12,
       "wanters": 9,
       "notes": "A special charity performance by the German cast in English. Well shot after the first few minutes, but still has washout and some fuzzy moments. Highlights, probably 80-90% of the show.",
       "cast": [
@@ -278074,7 +278588,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 197,
+      "owners": 198,
       "wanters": 49,
       "notes": "It starts after Road To Hell, and there is a 2-minute dropout around 20 minutes into Act 1. Do not post online.",
       "cast": [
@@ -279025,7 +279539,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 385,
+      "owners": 386,
       "wanters": 79,
       "notes": "Great 4K capture of Joaquina as the Witch! There is minor head obstruction, particularly on the left side which blocks a little action, but is almost entirely worked around. Some moments of wandering and unfocusing. Includes curtain call, audio fed from external source.",
       "cast": [
@@ -323479,7 +323993,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 57,
+      "owners": 58,
       "wanters": 35,
       "notes": "Filmed in 4K, released in 1080p and 4K. Well-shot, minimal obstruction except for far sides of the stage, only a couple of brief dropouts aside from those for applause. Mix of wide, medium, and closer shots for group or individual focus depending on the scene. Includes curtain call. Seat neighbor was sometimes VERY loud with her cheering—just beware.",
       "cast": [
@@ -348624,8 +349138,8 @@
       "city": "Los Angeles",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 24,
-      "wanters": 22,
+      "owners": 25,
+      "wanters": 21,
       "notes": "Nearly the full show in WEBM (converted from unplayable AVIs). Runs 2 hours, 9 minutes.",
       "cast": [
         {
@@ -349917,8 +350431,8 @@
       "city": "Dortmund",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 5,
-      "wanters": 8,
+      "owners": 6,
+      "wanters": 7,
       "notes": "very clear audio of the whole show not including the curtain call",
       "cast": [
         {
@@ -390885,8 +391399,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 91,
-      "wanters": 65,
+      "owners": 92,
+      "wanters": 64,
       "notes": null,
       "cast": [
         {
@@ -392945,7 +393459,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 10,
-      "wanters": 5,
+      "wanters": 6,
       "notes": null,
       "cast": [
         {
@@ -403064,7 +403578,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 216,
-      "wanters": 66,
+      "wanters": 67,
       "notes": null,
       "cast": [
         {
@@ -411558,7 +412072,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 455,
-      "wanters": 85,
+      "wanters": 86,
       "notes": null,
       "cast": [
         {
@@ -432360,7 +432874,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 437,
-      "wanters": 81,
+      "wanters": 82,
       "notes": null,
       "cast": [
         {
@@ -445960,7 +446474,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 12,
-      "wanters": 17,
+      "wanters": 18,
       "notes": null,
       "cast": [
         {
@@ -447669,7 +448183,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 242,
+      "owners": 243,
       "wanters": 65,
       "notes": null,
       "cast": [
@@ -451480,7 +451994,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 41,
+      "owners": 42,
       "wanters": 29,
       "notes": null,
       "cast": [
@@ -454559,7 +455073,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 107,
-      "wanters": 50,
+      "wanters": 49,
       "notes": null,
       "cast": [
         {
@@ -455355,7 +455869,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 167,
-      "wanters": 68,
+      "wanters": 69,
       "notes": null,
       "cast": [
         {
@@ -460466,7 +460980,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 485,
-      "wanters": 107,
+      "wanters": 108,
       "notes": null,
       "cast": [
         {
@@ -460931,7 +461445,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 421,
+      "owners": 422,
       "wanters": 149,
       "notes": null,
       "cast": [
@@ -461595,7 +462109,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 304,
-      "wanters": 91,
+      "wanters": 92,
       "notes": null,
       "cast": [
         {
@@ -468305,7 +468819,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 113,
+      "owners": 114,
       "wanters": 55,
       "notes": null,
       "cast": [
@@ -469334,8 +469848,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 184,
-      "wanters": 71,
+      "owners": 185,
+      "wanters": 70,
       "notes": null,
       "cast": [
         {
@@ -488146,7 +488660,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 56,
-      "wanters": 41,
+      "wanters": 42,
       "notes": null,
       "cast": [
         {
@@ -490594,7 +491108,7 @@
       "giftingStatus": "Gift On Request",
       "limitedStatus": "Unrestricted",
       "owners": 43,
-      "wanters": 28,
+      "wanters": 29,
       "notes": null,
       "cast": [
         {
@@ -526940,7 +527454,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 69,
+      "owners": 70,
       "wanters": 37,
       "notes": null,
       "cast": [
@@ -539787,7 +540301,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 39,
-      "wanters": 24,
+      "wanters": 25,
       "notes": null,
       "cast": [
         {
@@ -549822,7 +550336,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 53,
-      "wanters": 32,
+      "wanters": 33,
       "notes": null,
       "cast": [
         {
@@ -549968,7 +550482,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 80,
-      "wanters": 47,
+      "wanters": 48,
       "notes": null,
       "cast": [
         {
@@ -559263,7 +559777,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 136,
+      "owners": 137,
       "wanters": 77,
       "notes": null,
       "cast": [
@@ -559821,7 +560335,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 97,
-      "wanters": 64,
+      "wanters": 65,
       "notes": null,
       "cast": [
         {
@@ -561989,7 +562503,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 98,
-      "wanters": 37,
+      "wanters": 38,
       "notes": null,
       "cast": [
         {
@@ -573690,7 +574204,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 370,
+      "owners": 371,
       "wanters": 111,
       "notes": null,
       "cast": [
@@ -577420,7 +577934,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 69,
-      "wanters": 55,
+      "wanters": 56,
       "notes": null,
       "cast": [
         {
@@ -593301,7 +593815,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 54,
-      "wanters": 52,
+      "wanters": 53,
       "notes": null,
       "cast": [
         {
@@ -598934,8 +599448,8 @@
       "city": "Washington",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 13,
-      "wanters": 8,
+      "owners": 14,
+      "wanters": 7,
       "notes": "More medium and wide shots than close-ups, but a very nice capture of the show. Cover up for the first few minutes, with the picture beginning after Rent.",
       "cast": [
         {
@@ -600256,7 +600770,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 149,
+      "owners": 150,
       "wanters": 75,
       "notes": null,
       "cast": [
@@ -600459,8 +600973,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 312,
-      "wanters": 125,
+      "owners": 313,
+      "wanters": 124,
       "notes": null,
       "cast": [
         {
@@ -603105,7 +603619,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 4,
-      "wanters": 1,
+      "wanters": 2,
       "notes": null,
       "cast": [
         {
@@ -604699,8 +605213,8 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 10,
-      "wanters": 12,
+      "owners": 11,
+      "wanters": 11,
       "notes": "Act 2 only",
       "cast": [
         {
@@ -606348,7 +606862,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 123,
-      "wanters": 84,
+      "wanters": 85,
       "notes": null,
       "cast": [
         {
@@ -608547,7 +609061,7 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 28,
+      "owners": 29,
       "wanters": 5,
       "notes": null,
       "cast": [
@@ -609222,8 +609736,8 @@
       "city": "Chicago",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 151,
-      "wanters": 59,
+      "owners": 152,
+      "wanters": 58,
       "notes": null,
       "cast": [
         {
@@ -609860,7 +610374,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 42,
+      "owners": 43,
       "wanters": 45,
       "notes": null,
       "cast": [
@@ -609987,7 +610501,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 40,
+      "owners": 41,
       "wanters": 27,
       "notes": null,
       "cast": [
@@ -625666,7 +626180,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 81,
-      "wanters": 32,
+      "wanters": 33,
       "notes": null,
       "cast": [
         {
@@ -627243,7 +627757,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 25,
+      "owners": 26,
       "wanters": 20,
       "notes": null,
       "cast": [
@@ -627393,7 +627907,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 149,
-      "wanters": 18,
+      "wanters": 19,
       "notes": null,
       "cast": [
         {
@@ -635550,7 +636064,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 75,
-      "wanters": 49,
+      "wanters": 50,
       "notes": null,
       "cast": [
         {
@@ -644735,7 +645249,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 135,
+      "owners": 136,
       "wanters": 72,
       "notes": null,
       "cast": [
@@ -644821,7 +645335,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 88,
+      "owners": 89,
       "wanters": 55,
       "notes": null,
       "cast": [
@@ -646400,7 +646914,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 149,
-      "wanters": 106,
+      "wanters": 107,
       "notes": "Recorded after 'That's Not Me' got cut but before 'Brother' got cut.",
       "cast": [
         {
@@ -649078,7 +649592,7 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 39,
+      "owners": 40,
       "wanters": 106,
       "notes": null,
       "cast": [
@@ -657087,8 +657601,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 66,
-      "wanters": 162,
+      "owners": 68,
+      "wanters": 161,
       "notes": null,
       "cast": [
         {
@@ -663469,8 +663983,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 30,
-      "wanters": 7,
+      "owners": 31,
+      "wanters": 6,
       "notes": "No TikTok, no Reddit, no Tumblr. List as BoqTheMunchkin’s Master.",
       "cast": [
         {
@@ -664258,8 +664772,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 12,
-      "wanters": 8,
+      "owners": 13,
+      "wanters": 7,
       "notes": null,
       "cast": [
         {
@@ -667301,7 +667815,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 28,
+      "owners": 29,
       "wanters": 51,
       "notes": null,
       "cast": [
@@ -668621,7 +669135,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 55,
+      "owners": 56,
       "wanters": 68,
       "notes": null,
       "cast": [
@@ -672329,7 +672843,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 55,
-      "wanters": 60,
+      "wanters": 61,
       "notes": null,
       "cast": [
         {
@@ -672434,7 +672948,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 236,
-      "wanters": 172,
+      "wanters": 173,
       "notes": null,
       "cast": [
         {
@@ -672864,8 +673378,8 @@
       "city": null,
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 34,
-      "wanters": 25,
+      "owners": 35,
+      "wanters": 24,
       "notes": null,
       "cast": [
         {
@@ -677044,7 +677558,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 55,
-      "wanters": 83,
+      "wanters": 84,
       "notes": null,
       "cast": [
         {
@@ -677225,7 +677739,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 101,
-      "wanters": 109,
+      "wanters": 110,
       "notes": null,
       "cast": [
         {
@@ -677564,7 +678078,7 @@
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
       "owners": 56,
-      "wanters": 89,
+      "wanters": 90,
       "notes": null,
       "cast": [
         {
@@ -678653,8 +679167,8 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 33,
-      "wanters": 8,
+      "owners": 34,
+      "wanters": 7,
       "notes": "No TikTok, no Reddit, no Tumblr. List as BoqTheMunchkin’s Master.",
       "cast": [
         {
@@ -688341,7 +688855,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 28,
-      "wanters": 70,
+      "wanters": 71,
       "notes": null,
       "cast": [
         {
@@ -691466,8 +691980,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 22,
-      "wanters": 9,
+      "owners": 23,
+      "wanters": 8,
       "notes": null,
       "cast": [
         {
@@ -691939,7 +692453,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 42,
-      "wanters": 38,
+      "wanters": 39,
       "notes": null,
       "cast": [
         {
@@ -745615,8 +746129,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 12,
-      "wanters": 8,
+      "owners": 13,
+      "wanters": 7,
       "notes": null,
       "cast": [
         {
@@ -751733,8 +752247,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 25,
-      "wanters": 16,
+      "owners": 26,
+      "wanters": 15,
       "notes": null,
       "cast": [
         {
@@ -759110,7 +759624,7 @@
       "city": "New York",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 9,
+      "owners": 10,
       "wanters": 23,
       "notes": "Does not contain all 11 song performed. \n\nContains the following numbers:\n \nMy Shot (intro)\nYou'll Be Back\nRight Hand Man\nValley Forge\nCabinet Battle 1\nCabinet Battle 2",
       "cast": [
@@ -764470,8 +764984,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 35,
-      "wanters": 12,
+      "owners": 36,
+      "wanters": 11,
       "notes": null,
       "cast": [
         {
@@ -767047,7 +767561,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 13,
-      "wanters": 27,
+      "wanters": 28,
       "notes": "Originally uploaded to TikTok. Includes Belong to someone, Wild, Belong to someone (Reprise) and You belong to me. Master stated the date in the comments",
       "cast": [
         {
@@ -769999,7 +770513,7 @@
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
       "owners": 6,
-      "wanters": 7,
+      "wanters": 8,
       "notes": "Originally uploaded to TikTok. Includes For Good, Defying Gravity, Nessarosa rises and the Tin Man surfaces, I'm not that girl reprise and ...As long as you're mine, No Good Deed.",
       "cast": [
         {
@@ -786191,8 +786705,8 @@
       "city": "New York",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 101,
-      "wanters": 15,
+      "owners": 103,
+      "wanters": 14,
       "notes": null,
       "cast": [
         {
@@ -787933,8 +788447,8 @@
       "city": null,
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 156,
-      "wanters": 55,
+      "owners": 158,
+      "wanters": 54,
       "notes": "Multiple versions circulating.",
       "cast": [
         {
@@ -791537,7 +792051,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 26,
+      "owners": 27,
       "wanters": 17,
       "notes": "DO NOT POST ON TIKTOK OR ANYWHERE ELSE WITHOUT MY PRIOR WRITTEN CONSENT",
       "cast": [
@@ -791911,7 +792425,7 @@
       "city": "London",
       "giftingStatus": "Gift at your Discretion",
       "limitedStatus": "Unrestricted",
-      "owners": 26,
+      "owners": 27,
       "wanters": 26,
       "notes": null,
       "cast": [
@@ -798313,82 +798827,6 @@
         },
         {
           "performer": {
-            "id": 44558,
-            "name": "Harry Hamlin",
-            "slug": "harry-hamlin",
-            "url": "encora.it/performers/harry-hamlin",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 44076,
-            "name": "Freddie Fillmore",
-            "slug": "freddie-fillmore",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/freddie-fillmore",
-            "order": 5
-          },
-          "status": null
-        },
-        {
-          "performer": {
-            "id": 44558,
-            "name": "Harry Hamlin",
-            "slug": "harry-hamlin",
-            "url": "encora.it/performers/harry-hamlin",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 97907,
-            "name": "Mr. Potter",
-            "slug": "mr-potter",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/mr-potter",
-            "order": 6
-          },
-          "status": null
-        },
-        {
-          "performer": {
-            "id": 63456,
-            "name": "Lisa Rinna",
-            "slug": "lisa-rinna",
-            "url": "encora.it/performers/lisa-rinna",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 44078,
-            "name": "Lana Sherwood",
-            "slug": "lana-sherwood",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/lana-sherwood",
-            "order": 7
-          },
-          "status": null
-        },
-        {
-          "performer": {
-            "id": 63456,
-            "name": "Lisa Rinna",
-            "slug": "lisa-rinna",
-            "url": "encora.it/performers/lisa-rinna",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 97904,
-            "name": "Violet",
-            "slug": "violet",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/violet",
-            "order": 8
-          },
-          "status": null
-        },
-        {
-          "performer": {
             "id": 1693,
             "name": "Tituss Burgess",
             "slug": "tituss-burgess",
@@ -798402,7 +798840,7 @@
             "name": "Paul Andrews",
             "slug": "paul-andrews",
             "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/paul-andrews",
-            "order": 10
+            "order": 5
           },
           "status": null
         },
@@ -798421,7 +798859,83 @@
             "name": "Clarence",
             "slug": "clarence",
             "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/clarence",
-            "order": 11
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 44558,
+            "name": "Harry Hamlin",
+            "slug": "harry-hamlin",
+            "url": "encora.it/performers/harry-hamlin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 44076,
+            "name": "Freddie Fillmore",
+            "slug": "freddie-fillmore",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/freddie-fillmore",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 44558,
+            "name": "Harry Hamlin",
+            "slug": "harry-hamlin",
+            "url": "encora.it/performers/harry-hamlin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 97907,
+            "name": "Mr. Potter",
+            "slug": "mr-potter",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/mr-potter",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 63456,
+            "name": "Lisa Rinna",
+            "slug": "lisa-rinna",
+            "url": "encora.it/performers/lisa-rinna",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 44078,
+            "name": "Lana Sherwood",
+            "slug": "lana-sherwood",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/lana-sherwood",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 63456,
+            "name": "Lisa Rinna",
+            "slug": "lisa-rinna",
+            "url": "encora.it/performers/lisa-rinna",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 97904,
+            "name": "Violet",
+            "slug": "violet",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/violet",
+            "order": 10
           },
           "status": null
         },
@@ -798570,82 +799084,6 @@
         },
         {
           "performer": {
-            "id": 44558,
-            "name": "Harry Hamlin",
-            "slug": "harry-hamlin",
-            "url": "encora.it/performers/harry-hamlin",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 44076,
-            "name": "Freddie Fillmore",
-            "slug": "freddie-fillmore",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/freddie-fillmore",
-            "order": 5
-          },
-          "status": null
-        },
-        {
-          "performer": {
-            "id": 44558,
-            "name": "Harry Hamlin",
-            "slug": "harry-hamlin",
-            "url": "encora.it/performers/harry-hamlin",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 97907,
-            "name": "Mr. Potter",
-            "slug": "mr-potter",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/mr-potter",
-            "order": 6
-          },
-          "status": null
-        },
-        {
-          "performer": {
-            "id": 63456,
-            "name": "Lisa Rinna",
-            "slug": "lisa-rinna",
-            "url": "encora.it/performers/lisa-rinna",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 44078,
-            "name": "Lana Sherwood",
-            "slug": "lana-sherwood",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/lana-sherwood",
-            "order": 7
-          },
-          "status": null
-        },
-        {
-          "performer": {
-            "id": 63456,
-            "name": "Lisa Rinna",
-            "slug": "lisa-rinna",
-            "url": "encora.it/performers/lisa-rinna",
-            "is_theatre": true,
-            "is_ballet": false,
-            "is_opera": false
-          },
-          "character": {
-            "id": 97904,
-            "name": "Violet",
-            "slug": "violet",
-            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/violet",
-            "order": 8
-          },
-          "status": null
-        },
-        {
-          "performer": {
             "id": 1693,
             "name": "Tituss Burgess",
             "slug": "tituss-burgess",
@@ -798659,7 +799097,7 @@
             "name": "Paul Andrews",
             "slug": "paul-andrews",
             "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/paul-andrews",
-            "order": 10
+            "order": 5
           },
           "status": null
         },
@@ -798678,7 +799116,83 @@
             "name": "Clarence",
             "slug": "clarence",
             "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/clarence",
-            "order": 11
+            "order": 6
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 44558,
+            "name": "Harry Hamlin",
+            "slug": "harry-hamlin",
+            "url": "encora.it/performers/harry-hamlin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 44076,
+            "name": "Freddie Fillmore",
+            "slug": "freddie-fillmore",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/freddie-fillmore",
+            "order": 7
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 44558,
+            "name": "Harry Hamlin",
+            "slug": "harry-hamlin",
+            "url": "encora.it/performers/harry-hamlin",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 97907,
+            "name": "Mr. Potter",
+            "slug": "mr-potter",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/mr-potter",
+            "order": 8
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 63456,
+            "name": "Lisa Rinna",
+            "slug": "lisa-rinna",
+            "url": "encora.it/performers/lisa-rinna",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 44078,
+            "name": "Lana Sherwood",
+            "slug": "lana-sherwood",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/lana-sherwood",
+            "order": 9
+          },
+          "status": null
+        },
+        {
+          "performer": {
+            "id": 63456,
+            "name": "Lisa Rinna",
+            "slug": "lisa-rinna",
+            "url": "encora.it/performers/lisa-rinna",
+            "is_theatre": true,
+            "is_ballet": false,
+            "is_opera": false
+          },
+          "character": {
+            "id": 97904,
+            "name": "Violet",
+            "slug": "violet",
+            "url": "encora.it/shows/its-a-wonderful-life-a-live-radio-play/characters/violet",
+            "order": 10
           },
           "status": null
         },
@@ -804326,8 +804840,8 @@
       "city": "London",
       "giftingStatus": "Never Gift",
       "limitedStatus": "Unrestricted",
-      "owners": 21,
-      "wanters": 5,
+      "owners": 22,
+      "wanters": 4,
       "notes": null,
       "cast": [
         {
